@@ -1,6 +1,6 @@
-{% if page.tags != _blank %}
+{% if page.categories != _blank %}
   And talks about
-  {% for tag in page.tags %}
-    <a title="See more from {{ tag }}" href="/tags/{{ tag }}">{{ tag }}</a>{% if forloop.last %}.{% else %}, {% endif %}
+  {% for tag in page.categories offset:1 %}
+    <a title="See more from {{ tag }}" href="/{{ site.category_dir }}/{{ tag }}">{{ tag }}</a>{% if forloop.last %}.{% else %}, {% endif %}
   {% endfor %} 
 {% endif %}

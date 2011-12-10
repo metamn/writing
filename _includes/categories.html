@@ -1,0 +1,4 @@
+{% if page.categories != _blank %}
+  This essay is about
+  <a title="See more from {{ page.categories.first }}" href="/{{ site.category_dir }}/{{ page.categories.first }}">{{ page.categories.first }}</a>.
+{% endif %}    

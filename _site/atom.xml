@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	
+	<title type="text" xml:lang="en">Csongor Bartus. Ahead of trends creative</title>
+	<link type="application/atom+xml" href="/feed/" rel="self"/>
+ 	<link type="text" href="" rel="alternate"/>
+	<updated>2011-12-10T18:52:11+02:00</updated>
+	<id></id>
+	<author>
+		<name>Csongor Bartus</name>
+	</author>
+	<rights></rights>
+	
+	
+	<entry>
+		<title>Force come with me</title>
+		<link href="/force-come-with-me"/>
+		<updated>2009-01-12T00:00:00+02:00</updated>
+		<id>http:///force-come-with-me</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+</feed>

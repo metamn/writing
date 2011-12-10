@@ -17,8 +17,7 @@ id: post
   
   
   <footer>
-    This essay is about
-    <a title="See more from {{ page.category }}" href="/category/{{ page.category }}">{{ page.category }}</a>.
+    {% include categories.html %}
     {% include tags.html %}
   </footer>
 </article>

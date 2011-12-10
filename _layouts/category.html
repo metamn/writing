@@ -1,0 +1,26 @@
+---
+layout: default
+id: archive
+---
+
+<article itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <h1 itemprop="headline">
+      <a title="{{ page.title }}" href="/{{ page.url }}">{{ page.title }}</a>
+    </h1>
+  </header>
+  
+  <div id="body">
+    {% if page.category != _blank %}
+      {% for post in site.posts %}
+        {% if post.categories contains page.category %}
+          {{ post.title }}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+  
+  
+  <footer>    
+  </footer>
+</article>
