@@ -1,0 +1,51 @@
+/* The Grid
+*/
+
+.container {
+  width: 90%;
+  max-width: 60em; /* 960 px */
+  margin: 0 auto;
+}
+
+.col-1 {
+  width: 28.196%;
+  margin-right: 10%;
+}
+.col-2 {
+  width: 61.804%;
+}
+.col-1, .col-2 {
+  float: left;
+}
+
+
+/* Typography
+*/
+
+h1 { font-size:4.27273em; padding:1.27651em 0; }
+h2 { font-size:2.63636em; padding:1.27148em 0; }
+h3 { font-size:1.63636em; padding:1.28461em 0; }
+
+
+
+/* Startpage
+*/
+
+#intro div {
+  margin: 2.5em 0;
+}
+
+#menu ul {
+  list-style: none;
+  margin: 0;
+}
+
+
+
+/* Footer
+*/
+
+#footer {
+  margin: 2.5em 0;
+  padding: 1.25em 0;
+}

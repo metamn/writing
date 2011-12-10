@@ -4,7 +4,15 @@
 {% include head.html %}  
 
 <body>
+  <div class="container">
+    {% include header.html %}   
  
+    <section id="content" class="block {{ page.id }}">
+      {{ content }}
+    </section>
+    
+    {% include footer.html %} 
+  </div>
 </body>
 </html>
 

@@ -1,0 +1,21 @@
+<header id="header" class="block">
+  <div class="col-1">  
+    <div id="logo">
+      <a title="Home" href="/"><img title="Home" src="assets/logo.jpg"></a>
+    </div>
+  
+    <div id="menu">
+      {% include menu.html %}    
+    </div>
+  </div>
+  
+  <div class="col-2">
+    <div id="strapline">
+      <h2>{{ site.title }}, {{ site.age }}, {{ site.strapline | downcase }}.</h2>
+    </div>
+  
+    <div id="intro">
+      {% include intro.html %}    
+    </div>  
+  </div>  
+</header>

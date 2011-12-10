@@ -1,0 +1,12 @@
+body {
+  font-family: 'Old Standard TT';
+}
+
+
+a, a:visited {
+  color: #000;
+}
+
+#footer {
+  border-top: 1px solid;
+}
