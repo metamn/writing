@@ -1,0 +1,24 @@
+---
+layout: default
+id: post
+---
+
+<article itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <h1 itemprop="headline">
+      <a title="{{ page.title }}" href="{{ page.url }}">{{ page.title }}</a>
+    </h1>
+    <p><time itemprop="datePublished" datetime="{{ page.date }}">{{ page.date | date: "%B %Y" }}</time></p>    
+  </header>
+  
+  <div id="body">
+    {{ content }}
+  </div>
+  
+  
+  <footer>
+    This essay is about
+    <a title="See more from {{ page.category }}" href="/category/{{ page.category }}">{{ page.category }}</a>.
+    {% include tags.html %}
+  </footer>
+</article>
