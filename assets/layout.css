@@ -17,6 +17,10 @@
 .col-1, .col-2 {
   float: left;
 }
+#content {
+  width: 61.804%;
+  margin-left: 38.196%;
+}
 
 
 /* Typography
@@ -41,11 +45,7 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
 }
 
 
-
-/* Footer
-*/
-
-#footer {
+#contact {
   margin: 2.5em 0;
-  padding: 1.25em 0;
+  padding: 2.5em 0;
 }
