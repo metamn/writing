@@ -70,6 +70,13 @@ p+p {
   margin-top: 1.25em;
 }
 
+em {
+  font-style: italic;
+}
+
+ol {
+  list-style: decimal;
+}
 
 
 /* Hacks
