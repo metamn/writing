@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	
-	<title type="text" xml:lang="en">Csongor Bartus. Thinking</title>
+	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2011-12-11T13:46:07+02:00</updated>
+	<updated>2011-12-11T14:22:22+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>

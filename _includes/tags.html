@@ -1,5 +1,5 @@
 {% if page.categories != _blank %}
-  And talks about
+  With focus on
   {% for tag in page.categories offset:1 %}
     <a title="See more from {{ tag }}" href="/{{ site.category_dir }}/{{ tag }}">{{ tag }}</a>{% if forloop.last %}.{% else %}, {% endif %}
   {% endfor %} 

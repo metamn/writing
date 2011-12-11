@@ -35,8 +35,8 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
 /* Startpage
 */
 
-#intro div {
-  margin: 2.5em 0;
+#intro {
+  font-size: larger;
 }
 
 #menu ul {
