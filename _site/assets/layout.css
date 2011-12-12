@@ -35,6 +35,11 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
 /* Startpage
 */
 
+
+.startpage .col-1 {
+  visibility: hidden;
+}
+
 #intro {
   font-size: larger;
 }
