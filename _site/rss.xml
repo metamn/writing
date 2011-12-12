@@ -8,8 +8,8 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Idealist</description>
     <language>en-us</language>
-    <pubDate>Mon, 12 Dec 2011 23:32:10 EET</pubDate>
-    <lastBuildDate>Mon, 12 Dec 2011 23:32:10 EET</lastBuildDate>
+    <pubDate>Tue, 13 Dec 2011 00:01:20 EET</pubDate>
+    <lastBuildDate>Tue, 13 Dec 2011 00:01:20 EET</lastBuildDate>
 
     
     <item>
@@ -31,11 +31,20 @@
     </item>
     
     <item>
-      <title>What's next? A Tribute to Stanislaw Lem</title>
+      <title>What's Next? A Tribute To Stanislaw Lem</title>
       <link>/whats-next</link>
       <pubDate>Wed, 15 Nov 2006 00:00:00 EET</pubDate>
       <author></author>
       <guid>/whats-next</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Story Of Time And Surreal Numbers</title>
+      <link>/surreal-numbers</link>
+      <pubDate>Thu, 09 Nov 2006 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/surreal-numbers</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     

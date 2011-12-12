@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2011-12-12T23:32:10+02:00</updated>
+	<updated>2011-12-13T00:01:20+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
@@ -29,10 +29,18 @@
 	</entry>
 	
 	<entry>
-		<title>What's next? A Tribute to Stanislaw Lem</title>
+		<title>What's Next? A Tribute To Stanislaw Lem</title>
 		<link href="/whats-next"/>
 		<updated>2006-11-15T00:00:00+02:00</updated>
 		<id>http:///whats-next</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Story Of Time And Surreal Numbers</title>
+		<link href="/surreal-numbers"/>
+		<updated>2006-11-09T00:00:00+02:00</updated>
+		<id>http:///surreal-numbers</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
