@@ -66,16 +66,18 @@ h4 {
   font-variant: small-caps;
 }
 
+
 p+p {
   margin-top: 1.25em;
 }
-
 em {
   font-style: italic;
 }
-
 ol {
   list-style: decimal;
+}
+strong {
+  font-weight: bold;
 }
 
 
