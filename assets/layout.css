@@ -7,19 +7,15 @@
   margin: 0 auto;
 }
 
-.col-1 {
+#header {
   width: 28.196%;
   margin-right: 10%;
 }
-.col-2 {
-  width: 61.804%;
-}
-.col-1, .col-2 {
-  float: left;
-}
 #content {
   width: 61.804%;
-  margin-left: 38.196%;
+}
+#header, #content {
+  float: left;
 }
 
 
@@ -36,13 +32,18 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
 */
 
 
-.startpage .col-1 {
-  visibility: hidden;
+.startpage #header {
+  visibility: hidden; 
 }
 
-#intro {
+.startpage #content {
   font-size: larger;
 }
+
+
+/* Header
+*/
+
 
 #menu ul {
   list-style: none;
@@ -68,5 +69,21 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
   font-size: larger;
 }
 
+.post #next-post {
+  margin: 2.5em 0;
+  padding: 1.25em 0;
+  border-top: 1px solid;
+}
+.post #next-post .prev, .post #next-post .next {
+  display: block;
+  width: 45%;
+}
+.post #next-post .prev {
+  float: left;
+  margin-right: 10%;
+}
+.post #next-post .next {
+  float: right;
+}
 
 

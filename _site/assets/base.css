@@ -79,6 +79,14 @@ ol {
 strong {
   font-weight: bold;
 }
+blockquote {
+  display: block;
+  margin: 1.25em;
+  border-left: 1px solid;
+  padding-left: 1.25em;
+  
+  font-style: italic;
+}
 
 
 /* Hacks
