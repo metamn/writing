@@ -1,0 +1,21 @@
+---
+layout: page
+title: Archives
+---
+
+<div id="posts">
+  <ol>
+  {% for post in site.posts %}
+    {% include post-list.html %}
+  {% endfor %}
+  </ol>
+</div>
+
+<div id="categories">
+  <h2>Topics</h2>
+  <ul>
+    {% for category in site.categories %}
+      <li><a title="Articles in {{ category[0] }}" href="/{{ site.category_dir }}/{{ category[0] }}">{{ category[0] }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

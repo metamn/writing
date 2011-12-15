@@ -89,6 +89,20 @@ blockquote {
   font-size: larger;
 }
 
+dl {
+  margin: 1.25em 0;
+}
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-bottom: 1.25em;
+}
+dl + dl {
+  margin-top: 2.5em;
+}
+
+
 
 /* Hacks
 */

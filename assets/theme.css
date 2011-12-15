@@ -3,7 +3,9 @@ body {
 }
 
 
-a, a:visited {
+a {
   color: #000;
 }
-
+a:visited {
+  color: #333;
+}
