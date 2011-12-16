@@ -87,3 +87,17 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
 }
 
 
+/* Archives
+*/
+
+#categories ul {
+  margin: 0;
+}
+#categories .col-1, #categories .col-2 {
+  width: 45%;
+  float: left;
+} 
+#categories .col-1 {
+  margin-right: 10%;
+}
+
