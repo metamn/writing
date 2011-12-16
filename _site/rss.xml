@@ -8,9 +8,45 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Idealist</description>
     <language>en-us</language>
-    <pubDate>Fri, 16 Dec 2011 17:05:48 EET</pubDate>
-    <lastBuildDate>Fri, 16 Dec 2011 17:05:48 EET</lastBuildDate>
+    <pubDate>Fri, 16 Dec 2011 20:44:50 EET</pubDate>
+    <lastBuildDate>Fri, 16 Dec 2011 20:44:50 EET</lastBuildDate>
 
+    
+    <item>
+      <title>Community Driven Web Shopping</title>
+      <link>/community-driven-web-shopping</link>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/community-driven-web-shopping</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Programming Languages And The Digital Universe</title>
+      <link>/programming-languages-and-the-digital-universe</link>
+      <pubDate>Thu, 13 Aug 2009 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/programming-languages-and-the-digital-universe</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Automagically Generated Web Applications</title>
+      <link>/domain-specific-languages</link>
+      <pubDate>Mon, 30 Mar 2009 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/domain-specific-languages</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Small Shops Win</title>
+      <link>/small-is-getting-over-huge</link>
+      <pubDate>Sun, 22 Mar 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/small-is-getting-over-huge</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
     
     <item>
       <title>Force come with me</title>
@@ -22,11 +58,11 @@
     </item>
     
     <item>
-      <title>Reconstructing The Deconstruction. A New Moral Canon.</title>
-      <link>/a-new-moral-canon</link>
+      <title>Reconstructing The Deconstruction</title>
+      <link>/reconstructing-deconstruction</link>
       <pubDate>Fri, 17 Nov 2006 00:00:00 EET</pubDate>
       <author></author>
-      <guid>/a-new-moral-canon</guid>
+      <guid>/reconstructing-deconstruction</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     

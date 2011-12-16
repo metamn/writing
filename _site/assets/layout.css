@@ -91,7 +91,7 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
 */
 
 #categories ul {
-  margin: 0;
+  margin: 0 0 2.5em;
 }
 #categories .col-1, #categories .col-2 {
   width: 45%;
