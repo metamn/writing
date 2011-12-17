@@ -23,7 +23,7 @@ module Jekyll
       if site.layouts.key? 'category'
         dir = site.config['category_dir'] || 'categories'
         site.categories.keys.each do |category|
-          write_category_index(site, File.join(dir, category), category)
+          write_category_index(site, File.join(dir, folderize(category)), category)
         end
       end
     end
@@ -34,6 +34,13 @@ module Jekyll
       index.write(site.dest)
       site.pages << index
     end
+    
+    private
+    
+      # Create machine readable folder names
+      def folderize(category)
+        category.downcase.gsub(/\s/, '-')
+      end
   end
 
 end

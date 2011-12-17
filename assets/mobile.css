@@ -48,10 +48,10 @@ h3 { font-size:1.23077em; padding:1.40579em 0; }
 */
 
 ol {
-  margin: 0 5%;
+  margin: 0 1.25em;
 }
-.col-1 ul {
-  margin-left: 5%;
+.col-1 {
+  margin-left: 1.25em;
 }
 
 

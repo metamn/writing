@@ -19,13 +19,15 @@ title: Archives
    
   <ul class="col-1">
     {% for category in site.categories limit:half %}
-      <li><a title="Articles in {{ category[0] }}" href="/{{ site.category_dir }}/{{ category[0] }}">{{ category[0] }}</a></li>
+      <li><a title="Articles in {{ category[0] }}" 
+      href="/{{ site.category_dir }}/{{ category[0]  | downcase | replace:' ', '-'}}">{{ category[0] }}</a></li>
     {% endfor %}
   </ul>
   
   <ul class="col-2">
     {% for category in site.categories offset:half %}
-      <li><a title="Articles in {{ category[0] }}" href="/{{ site.category_dir }}/{{ category[0] }}">{{ category[0] }}</a></li>
+      <li><a title="Articles in {{ category[0] }}" 
+      href="/{{ site.category_dir }}/{{ category[0]  | downcase | replace:' ', '-' }}">{{ category[0] }}</a></li>
     {% endfor %}
   </ul>
 </div>
