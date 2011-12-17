@@ -53,7 +53,7 @@ ol {
 #categories ul.col-1 {
   margin-left: 1.25em;
 }
-#categories .col-1 {
+#categories .col-1, #categories.col-2 {
   width: 40%;
 }
 
