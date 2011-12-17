@@ -11,10 +11,10 @@
 }
 #header {
   float: right;
-  margin-top: 2.5em;
 }
 #content {
   float: left;
+  margin-bottom: 2.5em;
 }
 
 
@@ -31,9 +31,6 @@ h3 { font-size:1.23077em; padding:1.40579em 0; }
 /* Startpage
 */
 
-.startpage .container {
-  margin-bottom: 2.5em;
-}
 .startpage #header {
   display: none;
 }
