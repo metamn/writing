@@ -33,10 +33,10 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
 */
 
 
+
 .startpage #header {
   visibility: hidden; 
 }
-
 .startpage #content {
   font-size: larger;
 }

@@ -1,7 +1,7 @@
 permalink: /:title
 
-category_title_prefix: About
-category_dir: about
+category_title_prefix: 'On'
+category_dir: 'on'
 
 title: Csongor Bartus
 age: 35
