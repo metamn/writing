@@ -1,0 +1,47 @@
+/* The Grid
+*/
+
+.container {
+  width: auto;
+  margin: 0 5%;
+}
+
+#header, #content {
+  width: auto;
+}
+#header {
+  float: right;
+}
+#content {
+  float: left;
+}
+
+
+/* Typography
+*/
+
+/* Stranded */
+h1 { font-size:2em; padding:1.25em 0; }
+h2 { font-size:1.61538em; padding:1.30936em 0; }
+h3 { font-size:1.23077em; padding:1.40579em 0; }
+
+
+
+/* Startpage
+*/
+
+.startpage #header {
+  display: none;
+}
+
+
+
+/* Other
+*/
+
+.mobile {
+  display: block;
+}
+.desktop {
+  display: none;
+}
