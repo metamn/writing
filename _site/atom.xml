@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2011-12-20T18:27:35+02:00</updated>
+	<updated>2011-12-20T19:12:10+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
@@ -25,6 +25,62 @@
 		<link href="/the-canon-of-creating-and-enjoying-knowledge"/>
 		<updated>2009-11-26T00:00:00+02:00</updated>
 		<id>http:///the-canon-of-creating-and-enjoying-knowledge</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>You Are An Email</title>
+		<link href="/you-are-an-email"/>
+		<updated>2009-11-07T00:00:00+02:00</updated>
+		<id>http:///you-are-an-email</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>What To Share?</title>
+		<link href="/what-to-share"/>
+		<updated>2009-11-07T00:00:00+02:00</updated>
+		<id>http:///what-to-share</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Real Time</title>
+		<link href="/real-time"/>
+		<updated>2009-11-07T00:00:00+02:00</updated>
+		<id>http:///real-time</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Second Law</title>
+		<link href="/the-second-law"/>
+		<updated>2009-11-06T00:00:00+02:00</updated>
+		<id>http:///the-second-law</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Most Valuable</title>
+		<link href="/the-most-valuable"/>
+		<updated>2009-11-06T00:00:00+02:00</updated>
+		<id>http:///the-most-valuable</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Secondary Values</title>
+		<link href="/secondary-values"/>
+		<updated>2009-11-06T00:00:00+02:00</updated>
+		<id>http:///secondary-values</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Death</title>
+		<link href="/death"/>
+		<updated>2009-11-06T00:00:00+02:00</updated>
+		<id>http:///death</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	

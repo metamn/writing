@@ -60,32 +60,33 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
 /* Post
 */
 
-.post article header {
+article header {
   margin-bottom: 2.5em;
 }
-.post article footer {
+article footer {
   margin: 2.5em 0;
 }
-.post article #body {
+article #body {
   font-size: larger;
 }
 
-.post #next-post {
+#next-post {
   margin: 2.5em 0;
   padding: 1.25em 0;
   border-top: 1px solid;
 }
-.post #next-post .prev, .post #next-post .next {
+#next-post .prev, #next-post .next {
   display: block;
   width: 45%;
 }
-.post #next-post .prev {
+#next-post .prev {
   float: left;
   margin-right: 10%;
 }
-.post #next-post .next {
+#next-post .next {
   float: right;
 }
+
 
 
 /* Archives

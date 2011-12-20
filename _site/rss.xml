@@ -8,8 +8,8 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Idealist</description>
     <language>en-us</language>
-    <pubDate>Tue, 20 Dec 2011 18:27:35 EET</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2011 18:27:35 EET</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2011 19:12:10 EET</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2011 19:12:10 EET</lastBuildDate>
 
     
     <item>
@@ -27,6 +27,69 @@
       <pubDate>Thu, 26 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-canon-of-creating-and-enjoying-knowledge</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>You Are An Email</title>
+      <link>/you-are-an-email</link>
+      <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/you-are-an-email</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>What To Share?</title>
+      <link>/what-to-share</link>
+      <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/what-to-share</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Real Time</title>
+      <link>/real-time</link>
+      <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/real-time</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Second Law</title>
+      <link>/the-second-law</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/the-second-law</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Most Valuable</title>
+      <link>/the-most-valuable</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/the-most-valuable</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Secondary Values</title>
+      <link>/secondary-values</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/secondary-values</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Death</title>
+      <link>/death</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/death</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
