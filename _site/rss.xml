@@ -8,16 +8,43 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Idealist</description>
     <language>en-us</language>
-    <pubDate>Tue, 20 Dec 2011 13:26:34 EET</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2011 13:26:34 EET</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2011 13:57:59 EET</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2011 13:57:59 EET</lastBuildDate>
 
     
     <item>
-      <title>Creating And Enjoying Knowledge</title>
-      <link>/creating-and-enjoying-knowledge</link>
+      <title>A Way Of Creating And Enjoying Knowledge</title>
+      <link>/a-way-of-creating-and-enjoying-knowledge</link>
       <pubDate>Wed, 02 Dec 2009 00:00:00 EET</pubDate>
       <author></author>
-      <guid>/creating-and-enjoying-knowledge</guid>
+      <guid>/a-way-of-creating-and-enjoying-knowledge</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Canon Of Creating And Enjoying Knowledge</title>
+      <link>/the-canon-of-creating-and-enjoying-knowledge</link>
+      <pubDate>Thu, 26 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/the-canon-of-creating-and-enjoying-knowledge</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Trapped Self, Simulation Worlds and Transparency</title>
+      <link>/the-trapped-self-simulation-worlds-and-transparency</link>
+      <pubDate>Wed, 14 Oct 2009 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/the-trapped-self-simulation-worlds-and-transparency</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Science, Society and Control — The Structure of Evolution</title>
+      <link>/science-society-and-control-the-structure-of-evolution</link>
+      <pubDate>Wed, 14 Oct 2009 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/science-society-and-control-the-structure-of-evolution</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
@@ -54,6 +81,15 @@
       <pubDate>Sat, 13 Jun 2009 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/the-web-is-the-singularity</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Daily Zeitgeist</title>
+      <link>/the-daily-zeitgeist</link>
+      <pubDate>Tue, 28 Apr 2009 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/the-daily-zeitgeist</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     

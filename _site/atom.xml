@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2011-12-20T13:26:34+02:00</updated>
+	<updated>2011-12-20T13:57:59+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
@@ -13,10 +13,34 @@
 	
 	
 	<entry>
-		<title>Creating And Enjoying Knowledge</title>
-		<link href="/creating-and-enjoying-knowledge"/>
+		<title>A Way Of Creating And Enjoying Knowledge</title>
+		<link href="/a-way-of-creating-and-enjoying-knowledge"/>
 		<updated>2009-12-02T00:00:00+02:00</updated>
-		<id>http:///creating-and-enjoying-knowledge</id>
+		<id>http:///a-way-of-creating-and-enjoying-knowledge</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Canon Of Creating And Enjoying Knowledge</title>
+		<link href="/the-canon-of-creating-and-enjoying-knowledge"/>
+		<updated>2009-11-26T00:00:00+02:00</updated>
+		<id>http:///the-canon-of-creating-and-enjoying-knowledge</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Trapped Self, Simulation Worlds and Transparency</title>
+		<link href="/the-trapped-self-simulation-worlds-and-transparency"/>
+		<updated>2009-10-14T00:00:00+03:00</updated>
+		<id>http:///the-trapped-self-simulation-worlds-and-transparency</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Science, Society and Control — The Structure of Evolution</title>
+		<link href="/science-society-and-control-the-structure-of-evolution"/>
+		<updated>2009-10-14T00:00:00+03:00</updated>
+		<id>http:///science-society-and-control-the-structure-of-evolution</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
@@ -49,6 +73,14 @@
 		<link href="/the-web-is-the-singularity"/>
 		<updated>2009-06-13T00:00:00+03:00</updated>
 		<id>http:///the-web-is-the-singularity</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Daily Zeitgeist</title>
+		<link href="/the-daily-zeitgeist"/>
+		<updated>2009-04-28T00:00:00+03:00</updated>
+		<id>http:///the-daily-zeitgeist</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
