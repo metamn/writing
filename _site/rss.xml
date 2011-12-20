@@ -8,8 +8,8 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Idealist</description>
     <language>en-us</language>
-    <pubDate>Sat, 17 Dec 2011 14:07:15 EET</pubDate>
-    <lastBuildDate>Sat, 17 Dec 2011 14:07:15 EET</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2011 12:29:23 EET</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2011 12:29:23 EET</lastBuildDate>
 
     
     <item>
@@ -32,19 +32,19 @@
     
     <item>
       <title>Automagically Generated Web Applications</title>
-      <link>/domain-specific-languages</link>
+      <link>/automagically-generated-web-applications</link>
       <pubDate>Mon, 30 Mar 2009 00:00:00 EEST</pubDate>
       <author></author>
-      <guid>/domain-specific-languages</guid>
+      <guid>/automagically-generated-web-applications</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
     <item>
       <title>Small Shops Win</title>
-      <link>/small-is-getting-over-huge</link>
+      <link>/small-shops-win</link>
       <pubDate>Sun, 22 Mar 2009 00:00:00 EET</pubDate>
       <author></author>
-      <guid>/small-is-getting-over-huge</guid>
+      <guid>/small-shops-win</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
