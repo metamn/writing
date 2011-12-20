@@ -4,13 +4,93 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2011-12-20T19:12:10+02:00</updated>
+	<updated>2011-12-20T20:04:17+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
 	</author>
 	<rights></rights>
 	
+	
+	<entry>
+		<title>Consumerism</title>
+		<link href="/consumerism"/>
+		<updated>2010-01-17T00:00:00+02:00</updated>
+		<id>http:///consumerism</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Control</title>
+		<link href="/control"/>
+		<updated>2009-12-20T00:00:00+02:00</updated>
+		<id>http:///control</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The World</title>
+		<link href="/the-world"/>
+		<updated>2009-12-19T00:00:00+02:00</updated>
+		<id>http:///the-world</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Life</title>
+		<link href="/the-life"/>
+		<updated>2009-12-19T00:00:00+02:00</updated>
+		<id>http:///the-life</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Digital Has No Heart</title>
+		<link href="/digital-has-no-heart"/>
+		<updated>2009-12-19T00:00:00+02:00</updated>
+		<id>http:///digital-has-no-heart</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Communication</title>
+		<link href="/communication"/>
+		<updated>2009-12-15T00:00:00+02:00</updated>
+		<id>http:///communication</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Open Startup</title>
+		<link href="/the-open-startup"/>
+		<updated>2009-12-04T00:00:00+02:00</updated>
+		<id>http:///the-open-startup</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Digital Society</title>
+		<link href="/the-digital-society"/>
+		<updated>2009-12-04T00:00:00+02:00</updated>
+		<id>http:///the-digital-society</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Procrastination</title>
+		<link href="/procrastination"/>
+		<updated>2009-12-04T00:00:00+02:00</updated>
+		<id>http:///procrastination</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Hassan Elahi vs. Netochka Nezvanova</title>
+		<link href="/hassan-elahi-netochka-nezvanova"/>
+		<updated>2009-12-04T00:00:00+02:00</updated>
+		<id>http:///hassan-elahi-netochka-nezvanova</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
 	
 	<entry>
 		<title>A Way Of Creating And Enjoying Knowledge</title>
@@ -29,6 +109,14 @@
 	</entry>
 	
 	<entry>
+		<title>Fame</title>
+		<link href="/fame"/>
+		<updated>2009-11-12T00:00:00+02:00</updated>
+		<id>http:///fame</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
 		<title>You Are An Email</title>
 		<link href="/you-are-an-email"/>
 		<updated>2009-11-07T00:00:00+02:00</updated>
@@ -37,10 +125,26 @@
 	</entry>
 	
 	<entry>
+		<title>Wisdom</title>
+		<link href="/wisdom"/>
+		<updated>2009-11-07T00:00:00+02:00</updated>
+		<id>http:///wisdom</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
 		<title>What To Share?</title>
 		<link href="/what-to-share"/>
 		<updated>2009-11-07T00:00:00+02:00</updated>
 		<id>http:///what-to-share</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Most</title>
+		<link href="/the-most"/>
+		<updated>2009-11-07T00:00:00+02:00</updated>
+		<id>http:///the-most</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	

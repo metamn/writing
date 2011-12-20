@@ -8,9 +8,99 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Idealist</description>
     <language>en-us</language>
-    <pubDate>Tue, 20 Dec 2011 19:12:10 EET</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2011 19:12:10 EET</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2011 20:04:17 EET</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2011 20:04:17 EET</lastBuildDate>
 
+    
+    <item>
+      <title>Consumerism</title>
+      <link>/consumerism</link>
+      <pubDate>Sun, 17 Jan 2010 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/consumerism</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Control</title>
+      <link>/control</link>
+      <pubDate>Sun, 20 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/control</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The World</title>
+      <link>/the-world</link>
+      <pubDate>Sat, 19 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/the-world</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Life</title>
+      <link>/the-life</link>
+      <pubDate>Sat, 19 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/the-life</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Digital Has No Heart</title>
+      <link>/digital-has-no-heart</link>
+      <pubDate>Sat, 19 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/digital-has-no-heart</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>/communication</link>
+      <pubDate>Tue, 15 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/communication</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Open Startup</title>
+      <link>/the-open-startup</link>
+      <pubDate>Fri, 04 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/the-open-startup</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Digital Society</title>
+      <link>/the-digital-society</link>
+      <pubDate>Fri, 04 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/the-digital-society</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Procrastination</title>
+      <link>/procrastination</link>
+      <pubDate>Fri, 04 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/procrastination</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Hassan Elahi vs. Netochka Nezvanova</title>
+      <link>/hassan-elahi-netochka-nezvanova</link>
+      <pubDate>Fri, 04 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/hassan-elahi-netochka-nezvanova</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
     
     <item>
       <title>A Way Of Creating And Enjoying Knowledge</title>
@@ -31,6 +121,15 @@
     </item>
     
     <item>
+      <title>Fame</title>
+      <link>/fame</link>
+      <pubDate>Thu, 12 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/fame</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
       <title>You Are An Email</title>
       <link>/you-are-an-email</link>
       <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
@@ -40,11 +139,29 @@
     </item>
     
     <item>
+      <title>Wisdom</title>
+      <link>/wisdom</link>
+      <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/wisdom</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
       <title>What To Share?</title>
       <link>/what-to-share</link>
       <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/what-to-share</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Most</title>
+      <link>/the-most</link>
+      <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/the-most</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     

@@ -6,10 +6,24 @@ title: Archives
 <div id="posts">
   <ol>
   {% for post in site.posts %}
-    {% include post-list.html %}
+    {% if post.layout != 'quote' %}
+      {% include post-list.html %}
+    {% endif %}
   {% endfor %}
   </ol>
 </div>
+
+<div id="quotes">
+  <h2>Dictionary</h2>
+  <ol>
+  {% for post in site.posts %}
+    {% if post.layout == 'quote' %}
+      {% include post-list.html %}
+    {% endif %}
+  {% endfor %}
+  </ol>
+</div>
+
 
 <div id="categories">
   <h2>Topics</h2>  
