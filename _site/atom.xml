@@ -4,13 +4,29 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2011-12-20T12:29:23+02:00</updated>
+	<updated>2011-12-20T13:26:34+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
 	</author>
 	<rights></rights>
 	
+	
+	<entry>
+		<title>Creating And Enjoying Knowledge</title>
+		<link href="/creating-and-enjoying-knowledge"/>
+		<updated>2009-12-02T00:00:00+02:00</updated>
+		<id>http:///creating-and-enjoying-knowledge</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>From Real To Digital?</title>
+		<link href="/from-real-to-digital"/>
+		<updated>2009-09-07T00:00:00+03:00</updated>
+		<id>http:///from-real-to-digital</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
 	
 	<entry>
 		<title>Community Driven Web Shopping</title>
@@ -25,6 +41,22 @@
 		<link href="/programming-languages-and-the-digital-universe"/>
 		<updated>2009-08-13T00:00:00+03:00</updated>
 		<id>http:///programming-languages-and-the-digital-universe</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Web Is The Singularity</title>
+		<link href="/the-web-is-the-singularity"/>
+		<updated>2009-06-13T00:00:00+03:00</updated>
+		<id>http:///the-web-is-the-singularity</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>The Web vs. The State</title>
+		<link href="/the-web-vs-the-state"/>
+		<updated>2009-04-12T00:00:00+03:00</updated>
+		<id>http:///the-web-vs-the-state</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	

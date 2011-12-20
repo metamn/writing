@@ -8,9 +8,27 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Idealist</description>
     <language>en-us</language>
-    <pubDate>Tue, 20 Dec 2011 12:29:23 EET</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2011 12:29:23 EET</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2011 13:26:34 EET</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2011 13:26:34 EET</lastBuildDate>
 
+    
+    <item>
+      <title>Creating And Enjoying Knowledge</title>
+      <link>/creating-and-enjoying-knowledge</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/creating-and-enjoying-knowledge</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>From Real To Digital?</title>
+      <link>/from-real-to-digital</link>
+      <pubDate>Mon, 07 Sep 2009 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/from-real-to-digital</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
     
     <item>
       <title>Community Driven Web Shopping</title>
@@ -27,6 +45,24 @@
       <pubDate>Thu, 13 Aug 2009 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/programming-languages-and-the-digital-universe</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Web Is The Singularity</title>
+      <link>/the-web-is-the-singularity</link>
+      <pubDate>Sat, 13 Jun 2009 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/the-web-is-the-singularity</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>The Web vs. The State</title>
+      <link>/the-web-vs-the-state</link>
+      <pubDate>Sun, 12 Apr 2009 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/the-web-vs-the-state</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
