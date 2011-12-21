@@ -1,2 +1,2 @@
-<li><a title="Articles in {{ category[0] }}" 
-href="/{{ site.category_dir }}/{{ category[0]  | downcase | replace:' ', '-'}}">{{ category[0] }}</a></li>
+<li><a title="{{ category[1].size }} articles in {{ category[0] | capitalize }}" 
+href="/{{ site.category_dir }}/{{ category[0]  | downcase | replace:' ', '-'}}">{{ category[0] | capitalize}}</a></li>
