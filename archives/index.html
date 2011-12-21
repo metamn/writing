@@ -14,7 +14,8 @@ title: Archives
 </div>
 
 <div id="quotes">
-  <h2>Dictionary</h2>
+  <h2>Canon</h2>
+  <p>Knowledge distilled into atomic definitions.</p>
   <ol>
   {% for post in site.posts %}
     {% if post.layout == 'quote' %}
@@ -24,24 +25,40 @@ title: Archives
   </ol>
 </div>
 
+<div id="channels">
+  <h2>Channels</h2>
+  <p>Major interests. They will be distilled into canons.</p>
+  <ol>
+  {% for category in site.categories %}
+    {% if category[1].size > 1 %}
+      {% include category-list.html %}
+    {% endif %}
+  {% endfor %}
+  </ol>
+</div>
+
+
 
 <div id="categories">
   <h2>Topics</h2>  
+  <p>Minor interests. They will be advanced into channels.</p>
   {% capture half %}
     {{ site.categories.size | divided_by:2 }}
   {% endcapture %}
    
   <ul class="col-1">
     {% for category in site.categories limit:half %}
-      <li><a title="Articles in {{ category[0] }}" 
-      href="/{{ site.category_dir }}/{{ category[0]  | downcase | replace:' ', '-'}}">{{ category[0] }}</a></li>
+      {% if category[1].size <= 1 %}  
+        {% include category-list.html %}     
+      {% endif %}
     {% endfor %}
   </ul>
   
   <ul class="col-2">
     {% for category in site.categories offset:half %}
-      <li><a title="Articles in {{ category[0] }}" 
-      href="/{{ site.category_dir }}/{{ category[0]  | downcase | replace:' ', '-' }}">{{ category[0] }}</a></li>
+      {% if category[1].size <= 1 %}  
+        {% include category-list.html %}     
+      {% endif %}
     {% endfor %}
   </ul>
 </div>

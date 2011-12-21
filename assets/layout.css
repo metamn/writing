@@ -109,3 +109,10 @@ article #body {
   margin-right: 10%;
 }
 
+.archives div > p {
+  margin-bottom: 1.25em;
+  font-style: italic;
+}
+
+
+
