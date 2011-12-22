@@ -4,13 +4,101 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2011-12-21T20:42:38+02:00</updated>
+	<updated>2011-12-22T20:29:15+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
 	</author>
 	<rights></rights>
 	
+	
+	<entry>
+		<title>Success</title>
+		<link href="/success-again"/>
+		<updated>2011-01-31T00:00:00+02:00</updated>
+		<id>http:///success-again</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Beautify</title>
+		<link href="/beautify"/>
+		<updated>2011-01-28T00:00:00+02:00</updated>
+		<id>http:///beautify</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Times</title>
+		<link href="/times"/>
+		<updated>2010-12-27T00:00:00+02:00</updated>
+		<id>http:///times</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Tactics</title>
+		<link href="/tactics"/>
+		<updated>2010-12-22T00:00:00+02:00</updated>
+		<id>http:///tactics</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Postmodern</title>
+		<link href="/postmodern"/>
+		<updated>2010-12-04T00:00:00+02:00</updated>
+		<id>http:///postmodern</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Assange</title>
+		<link href="/assange"/>
+		<updated>2010-12-04T00:00:00+02:00</updated>
+		<id>http:///assange</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Healthy Meaninglessness</title>
+		<link href="/healthy-meaninglessness"/>
+		<updated>2010-11-25T00:00:00+02:00</updated>
+		<id>http:///healthy-meaninglessness</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>LSD</title>
+		<link href="/lsd"/>
+		<updated>2010-11-21T00:00:00+02:00</updated>
+		<id>http:///lsd</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Innovation</title>
+		<link href="/innovation"/>
+		<updated>2010-11-21T00:00:00+02:00</updated>
+		<id>http:///innovation</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Dream</title>
+		<link href="/dream"/>
+		<updated>2010-10-16T00:00:00+03:00</updated>
+		<id>http:///dream</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>From Dostoevsky To Barabasi</title>
+		<link href="/from-dostoevsky-to-barabasi"/>
+		<updated>2010-09-11T00:00:00+03:00</updated>
+		<id>http:///from-dostoevsky-to-barabasi</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
 	
 	<entry>
 		<title>Focus / Reflection</title>
