@@ -46,6 +46,9 @@ h3 { font-size:1.23077em; padding:1.40579em 0; }
   position: relative;
   margin-bottom: 2.5em;
 }
+#menu h4 {
+  font-size: larger;
+}
 
 #contact {
   padding: 0;
