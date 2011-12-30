@@ -9,10 +9,10 @@
 
 #header {
   width: 28.196%;
-  margin-right: 10%;
 }
 #content {
   width: 61.804%;
+  margin-left: 38.196%;
 }
 #header, #content {
   float: left;
@@ -46,14 +46,13 @@ h3 { font-size:1.63636em; padding:1.28461em 0; }
 */
 
 
-#menu ul {
-  list-style: none;
-  margin: 0;
+#menu {
+  top: 61.804%;
+  position: fixed;
 }
 
-#contact {
-  margin: 2.5em 0;
-  padding: 2.5em 0;
+#menu li {
+  margin-right: 1.25em;
 }
 
 
