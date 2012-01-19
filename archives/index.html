@@ -1,67 +1,81 @@
 ---
 layout: page
-title: Archives
+title: Oh My Newsledge
 ---
 
-<div id="posts">
-  <ol>
-  {% for post in site.posts %}
-    {% if post.layout != 'quote' %}
-      {% include post-list.html %}
-    {% endif %}
-  {% endfor %}
-  </ol>
-</div>
+<p>
+Hello, this is my mindmap, my newsledge distilled from books and
+articles organised into essays, canons and channels. Since 2006.
+</p>
 
-<div id="quotes">
-  <h2>Canon</h2>
-  <p>Knowledge distilled into atomic definitions.</p>
-  <ol>
-  {% for post in site.posts %}
-    {% if post.layout == 'quote' %}
-      {% include post-list.html %}
-    {% endif %}
-  {% endfor %}
-  </ol>
-</div>
+<p>Looking to <a href="#contact">contact me?</a></p>
 
-<div id="channels">
-  <h2>Channels</h2>
-  <p>Major interests. They will be distilled into canons.</p>
-  <ol>
-  {% for category in site.categories %}
-    {% if category[1].size > 1 %}
-      {% include category-list.html %}
-    {% endif %}
-  {% endfor %}
-  </ol>
-</div>
-
-
-
-<div id="categories">
-  <h2>Topics</h2>  
-  <p>Minor interests. They will be advanced into channels.</p>
-  {% capture half %}
-    {{ site.categories.size | divided_by:2 }}
-  {% endcapture %}
-   
-  <ul class="col-1">
-    {% for category in site.categories limit:half %}
-      {% if category[1].size <= 1 %}  
-        {% include category-list.html %}     
+<div id="archives">
+  <div id="posts">
+    <h2>Essays</h2>
+    <ul>
+    {% for post in site.posts %}
+      {% if post.layout != 'quote' %}
+        {% include post-list.html %}
       {% endif %}
     {% endfor %}
-  </ul>
-  
-  <ul class="col-2">
-    {% for category in site.categories offset:half %}
-      {% if category[1].size <= 1 %}  
-        {% include category-list.html %}     
+    </ul>
+  </div>
+
+  <div id="quotes">
+    <h2>The New Canon</h2>
+    <p>Knowledge distilled into atomic definitions.</p>
+    <ul>
+    {% for post in site.posts %}
+      {% if post.layout == 'quote' %}
+        {% include post-list.html %}
       {% endif %}
     {% endfor %}
-  </ul>
+    </ul>
+  </div>
+
+  <div id="channels">
+    <h2>Channels</h2>
+    <p>Major interests. They will be distilled into canons.</p>
+    <ul>
+    {% for category in site.categories %}
+      {% if category[1].size > 1 %}
+        {% include category-list.html %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+
+
+
+  <div id="categories">
+    <h2>Topics</h2>  
+    <p>Minor interests. They will be advanced into channels.</p>
+    <div class="clear"></div>
+    
+    {% capture half %}
+      {{ site.categories.size | divided_by:2 }}
+    {% endcapture %}
+     
+    <ul class="col-1">
+      {% for category in site.categories limit:half %}
+        {% if category[1].size <= 1 %}  
+          {% include category-list.html %}     
+        {% endif %}
+      {% endfor %}
+    </ul>
+    
+    <ul class="col-2">
+      {% for category in site.categories offset:half %}
+        {% if category[1].size <= 1 %}  
+          {% include category-list.html %}     
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="clear"></div>
 </div>
+
 
 <div id="contact">
   <a title="Send me an email" href="mailto:bartus.csongor@gmail.com">

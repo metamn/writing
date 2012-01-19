@@ -97,6 +97,21 @@ article #body {
 /* Archives
 */
 
+#archives ul {
+  list-style: none;
+  margin-left: 0;
+}
+#archives li {
+  padding-bottom: .625em;
+  margin-bottom: 1.875em;
+  border-bottom: 1px solid;
+}
+.page h2 + p {
+  margin-bottom: 2.5em;
+  font-style: italic;
+}
+
+
 #categories ul {
   margin: 0 0 2.5em;
 }
@@ -108,10 +123,7 @@ article #body {
   margin-right: 10%;
 }
 
-.archives div > p {
-  margin-bottom: 1.25em;
-  font-style: italic;
-}
+
 
 #contact {
   margin-bottom: 2.5em;
