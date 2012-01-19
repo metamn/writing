@@ -25,6 +25,6 @@ h1 a, #menu a, #archives a {
 /* Archives
 */
 
-#archives li {
+#archives li, .archive li {
   border-color: #eee;
 }

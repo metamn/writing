@@ -12,13 +12,13 @@ id: archive
   
   <div id="body">
     {% if page.category != _blank %}
-      <ol>
+      <ul>
       {% for post in site.posts %}
         {% if post.categories contains page.category %}
           {% include post-list.html %}
         {% endif %}
       {% endfor %}
-      </ol>
+      </ul>
     {% endif %}
   </div>
   

@@ -97,11 +97,11 @@ article #body {
 /* Archives
 */
 
-#archives ul {
+#archives ul, .archive ul {
   list-style: none;
   margin-left: 0;
 }
-#archives li {
+#archives li, .archive li {
   padding-bottom: .625em;
   margin-bottom: 1.875em;
   border-bottom: 1px solid;
