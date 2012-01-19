@@ -118,4 +118,24 @@ article #body {
 }
 
 
+/* Other
+*/
+
+.separator:before {
+  content: "* * *";
+}
+.separator {  
+  margin-left: 38.196%;
+}
+
+ul.inside-text {
+  list-style: square;
+  margin-left: 1.25em;
+}
+ul.inside-text li {
+  margin-bottom: 1.25em;
+}
+
+
+
 

@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2012-01-08T22:09:18+02:00</updated>
+	<updated>2012-01-19T13:47:41+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
@@ -545,22 +545,6 @@
 		<link href="/the-web-vs-the-state"/>
 		<updated>2009-04-12T00:00:00+03:00</updated>
 		<id>http:///the-web-vs-the-state</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Automagically Generated Web Applications</title>
-		<link href="/automagically-generated-web-applications"/>
-		<updated>2009-03-30T00:00:00+03:00</updated>
-		<id>http:///automagically-generated-web-applications</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Small Shops Win</title>
-		<link href="/small-shops-win"/>
-		<updated>2009-03-22T00:00:00+02:00</updated>
-		<id>http:///small-shops-win</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
