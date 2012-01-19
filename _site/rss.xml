@@ -8,8 +8,8 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Idealist</description>
     <language>en-us</language>
-    <pubDate>Thu, 19 Jan 2012 13:47:41 EET</pubDate>
-    <lastBuildDate>Thu, 19 Jan 2012 13:47:41 EET</lastBuildDate>
+    <pubDate>Thu, 19 Jan 2012 16:42:54 EET</pubDate>
+    <lastBuildDate>Thu, 19 Jan 2012 16:42:54 EET</lastBuildDate>
 
     
     <item>
@@ -45,15 +45,6 @@
       <pubDate>Wed, 22 Dec 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/tactics</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>Postmodern</title>
-      <link>/postmodern</link>
-      <pubDate>Sat, 04 Dec 2010 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/postmodern</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
@@ -193,15 +184,6 @@
     </item>
     
     <item>
-      <title>Freedom And Control</title>
-      <link>/freedom-and-control</link>
-      <pubDate>Sat, 13 Feb 2010 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/freedom-and-control</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
       <title>The Mecanism Of Existence</title>
       <link>/the-mecanism-of-existence</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 EET</pubDate>
@@ -216,15 +198,6 @@
       <pubDate>Sat, 06 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-economics-of-time</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>Success</title>
-      <link>/success</link>
-      <pubDate>Sat, 06 Feb 2010 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/success</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
@@ -319,15 +292,6 @@
     </item>
     
     <item>
-      <title>What To Pay For?</title>
-      <link>/what-to-pay-for</link>
-      <pubDate>Mon, 18 Jan 2010 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/what-to-pay-for</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
       <title>Rational</title>
       <link>/rational</link>
       <pubDate>Mon, 18 Jan 2010 00:00:00 EET</pubDate>
@@ -418,15 +382,6 @@
     </item>
     
     <item>
-      <title>Procrastination</title>
-      <link>/procrastination</link>
-      <pubDate>Fri, 04 Dec 2009 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/procrastination</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
       <title>Hassan Elahi vs. Netochka Nezvanova</title>
       <link>/hassan-elahi-netochka-nezvanova</link>
       <pubDate>Fri, 04 Dec 2009 00:00:00 EET</pubDate>
@@ -477,15 +432,6 @@
       <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/wisdom</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>What To Share?</title>
-      <link>/what-to-share</link>
-      <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/what-to-share</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
@@ -567,24 +513,6 @@
       <pubDate>Mon, 07 Sep 2009 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/from-real-to-digital</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>Community Driven Web Shopping</title>
-      <link>/community-driven-web-shopping</link>
-      <pubDate>Tue, 18 Aug 2009 00:00:00 EEST</pubDate>
-      <author></author>
-      <guid>/community-driven-web-shopping</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>Programming Languages And The Digital Universe</title>
-      <link>/programming-languages-and-the-digital-universe</link>
-      <pubDate>Thu, 13 Aug 2009 00:00:00 EEST</pubDate>
-      <author></author>
-      <guid>/programming-languages-and-the-digital-universe</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     

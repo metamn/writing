@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2012-01-19T13:47:41+02:00</updated>
+	<updated>2012-01-19T16:42:54+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
@@ -41,14 +41,6 @@
 		<link href="/tactics"/>
 		<updated>2010-12-22T00:00:00+02:00</updated>
 		<id>http:///tactics</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Postmodern</title>
-		<link href="/postmodern"/>
-		<updated>2010-12-04T00:00:00+02:00</updated>
-		<id>http:///postmodern</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
@@ -173,14 +165,6 @@
 	</entry>
 	
 	<entry>
-		<title>Freedom And Control</title>
-		<link href="/freedom-and-control"/>
-		<updated>2010-02-13T00:00:00+02:00</updated>
-		<id>http:///freedom-and-control</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
 		<title>The Mecanism Of Existence</title>
 		<link href="/the-mecanism-of-existence"/>
 		<updated>2010-02-06T00:00:00+02:00</updated>
@@ -193,14 +177,6 @@
 		<link href="/the-economics-of-time"/>
 		<updated>2010-02-06T00:00:00+02:00</updated>
 		<id>http:///the-economics-of-time</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Success</title>
-		<link href="/success"/>
-		<updated>2010-02-06T00:00:00+02:00</updated>
-		<id>http:///success</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
@@ -285,14 +261,6 @@
 	</entry>
 	
 	<entry>
-		<title>What To Pay For?</title>
-		<link href="/what-to-pay-for"/>
-		<updated>2010-01-18T00:00:00+02:00</updated>
-		<id>http:///what-to-pay-for</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
 		<title>Rational</title>
 		<link href="/rational"/>
 		<updated>2010-01-18T00:00:00+02:00</updated>
@@ -373,14 +341,6 @@
 	</entry>
 	
 	<entry>
-		<title>Procrastination</title>
-		<link href="/procrastination"/>
-		<updated>2009-12-04T00:00:00+02:00</updated>
-		<id>http:///procrastination</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
 		<title>Hassan Elahi vs. Netochka Nezvanova</title>
 		<link href="/hassan-elahi-netochka-nezvanova"/>
 		<updated>2009-12-04T00:00:00+02:00</updated>
@@ -425,14 +385,6 @@
 		<link href="/wisdom"/>
 		<updated>2009-11-07T00:00:00+02:00</updated>
 		<id>http:///wisdom</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>What To Share?</title>
-		<link href="/what-to-share"/>
-		<updated>2009-11-07T00:00:00+02:00</updated>
-		<id>http:///what-to-share</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
@@ -505,22 +457,6 @@
 		<link href="/from-real-to-digital"/>
 		<updated>2009-09-07T00:00:00+03:00</updated>
 		<id>http:///from-real-to-digital</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Community Driven Web Shopping</title>
-		<link href="/community-driven-web-shopping"/>
-		<updated>2009-08-18T00:00:00+03:00</updated>
-		<id>http:///community-driven-web-shopping</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Programming Languages And The Digital Universe</title>
-		<link href="/programming-languages-and-the-digital-universe"/>
-		<updated>2009-08-13T00:00:00+03:00</updated>
-		<id>http:///programming-languages-and-the-digital-universe</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
