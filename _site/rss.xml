@@ -6,10 +6,10 @@
     <title>Csongor Bartus</title>
     <link></link>
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
-    <description>Idealist</description>
+    <description>Optimist</description>
     <language>en-us</language>
-    <pubDate>Fri, 20 Jan 2012 11:22:17 EET</pubDate>
-    <lastBuildDate>Fri, 20 Jan 2012 11:22:17 EET</lastBuildDate>
+    <pubDate>Tue, 24 Jan 2012 22:42:55 EET</pubDate>
+    <lastBuildDate>Tue, 24 Jan 2012 22:42:55 EET</lastBuildDate>
 
     
     <item>
@@ -481,24 +481,6 @@
     </item>
     
     <item>
-      <title>The World</title>
-      <link>/the-world</link>
-      <pubDate>Sat, 19 Dec 2009 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/the-world</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>The Life</title>
-      <link>/the-life</link>
-      <pubDate>Sat, 19 Dec 2009 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/the-life</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
       <title>Digital Has No Heart</title>
       <link>/digital-has-no-heart</link>
       <pubDate>Sat, 19 Dec 2009 00:00:00 EET</pubDate>
@@ -513,15 +495,6 @@
       <pubDate>Tue, 15 Dec 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/communication</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>The Open Startup</title>
-      <link>/the-open-startup</link>
-      <pubDate>Fri, 04 Dec 2009 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/the-open-startup</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
@@ -558,15 +531,6 @@
       <pubDate>Thu, 26 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-canon-of-creating-and-enjoying-knowledge</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>Fame</title>
-      <link>/fame</link>
-      <pubDate>Thu, 12 Nov 2009 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/fame</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	
-	<title type="text" xml:lang="en">Csongor Bartus. Idealist</title>
+	<title type="text" xml:lang="en">Csongor Bartus. Optimist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2012-01-20T11:22:17+02:00</updated>
+	<updated>2012-01-24T22:42:55+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
@@ -429,22 +429,6 @@
 	</entry>
 	
 	<entry>
-		<title>The World</title>
-		<link href="/the-world"/>
-		<updated>2009-12-19T00:00:00+02:00</updated>
-		<id>http:///the-world</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>The Life</title>
-		<link href="/the-life"/>
-		<updated>2009-12-19T00:00:00+02:00</updated>
-		<id>http:///the-life</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
 		<title>Digital Has No Heart</title>
 		<link href="/digital-has-no-heart"/>
 		<updated>2009-12-19T00:00:00+02:00</updated>
@@ -457,14 +441,6 @@
 		<link href="/communication"/>
 		<updated>2009-12-15T00:00:00+02:00</updated>
 		<id>http:///communication</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>The Open Startup</title>
-		<link href="/the-open-startup"/>
-		<updated>2009-12-04T00:00:00+02:00</updated>
-		<id>http:///the-open-startup</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
@@ -497,14 +473,6 @@
 		<link href="/the-canon-of-creating-and-enjoying-knowledge"/>
 		<updated>2009-11-26T00:00:00+02:00</updated>
 		<id>http:///the-canon-of-creating-and-enjoying-knowledge</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Fame</title>
-		<link href="/fame"/>
-		<updated>2009-11-12T00:00:00+02:00</updated>
-		<id>http:///fame</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
