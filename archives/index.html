@@ -3,59 +3,61 @@ layout: page
 title: The New Canon
 ---
 
-<p>
-Hello, this is my mindmap, my newsledge distilled from books and
-articles since 2006.
-</p>
-
-<p>
-To help the current metasystem transition I've developed 
-<a href="#senses">new senses defining new values</a>.
-</p>
-
-<p>
-Many <a href="#people">people</a> helped me to form this worldwiew. I recommend them
-warmly. 
-</p>
-
-<p class="separator">
-</p>
-
-<p>For any questions feel free to contact me at 
-<a title="Send me an email" href="mailto:bartus.csongor@gmail.com">bartus.csongor@gmail.com</a>.
-</p>
-
-
-<div id="archives">
-  <div id="senses">
-    <h2>Senses And Values</h2>
-    
+<aside id="about" class="block">
+  <div id="header">
+    <img src="/assets/gravatar.jpg">
   </div>
-
-  <div id="people">
-    <h2>People I've Learnt From</h2>
-    
+  
+  <div id="content">
+    <p>
+      Hello, beside writing I do 
+      <a href="http://ungainlyy.com">web design</a> and
+      <a href="http://metamn.github.com">development</a>. 
+      And running a <a href="http://smuff.ro">small online store</a>.
+    </p>
+    <p>
+      For any questions feel free to contact me at 
+      <a title="Send me an email" href="mailto:bartus.csongor@gmail.com">bartus.csongor@gmail.com</a>.
+    </p>
   </div>
+</aside>
 
-  <div id="channels">
-    <h2>Channels</h2>
-    
-  </div>
+<section id="archives">
+  <p>
+    This is my mindmap, my newsledge distilled from books and
+    articles since 2006.
+  </p>
+
+  <p>
+    To help the current metasystem transition I've developed 
+    new senses defining new values.
+  </p>
+
+  <p>
+    Many people helped me to form this worldwiew. I recommend them
+    warmly. 
+  </p>
+
+  <p>
+    &nbsp;
+    <ul>
+      <li><h4><a href="#senses">Senses And Values</a></h4></li>
+      <li><h4><a href="#people">People I've Learnt From</a></h4></li>
+      <li><h4><a href="#articles">Articles</a></h4></li>
+      <li><h4><a href="#channels">Channels</a></h4></li>
+      <li><h4><a href="#topics">Topics</a></h4></li>
+    </ul>
+  </p>
 
 
-
-  <div id="categories">
-    <h2>Topics</h2>  
-    
+  <div id="topics">
+    <h2>Topics</h2>      
     <ul class="col-1">
       {% for category in site.categories%}
           {% include category-list.html %}     
       {% endfor %}
     </ul>
-    
-    
   </div>
-  <div class="clear"></div>
-</div>
 
+</section>
 
