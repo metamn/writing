@@ -45,6 +45,7 @@ h3 { font-size:1.30769em; padding:1.28686em 0; }
   top: 0;
   position: relative;
   margin-bottom: 2.5em;
+  float: left;
 }
 #menu h4 {
   font-size: larger;
@@ -53,6 +54,7 @@ h3 { font-size:1.30769em; padding:1.28686em 0; }
 #contact {
   padding: 0;
 }
+
 
 
 /* Archives
