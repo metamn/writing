@@ -8,6 +8,7 @@ body {
 
 a {
   color: #0A6BD9;
+  text-decoration: none;
 }
 a:visited {
   color: #053367;
@@ -17,9 +18,7 @@ h1 a, #menu a,
 h1 a:visited, #menu a:visited {
   color: #000;
 }
-h1 a, #menu a, #archives a {
-  text-decoration: none;
-}
+
 
 
 /* Archives

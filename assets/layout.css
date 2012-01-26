@@ -120,22 +120,18 @@ article #body {
 }
 
 
-#categories ul {
+#topics ul {
   margin: 0 0 2.5em;
 }
-#categories .col-1, #categories .col-2 {
+#topics .col-1, #topics .col-2 {
   width: 45%;
   float: left;
 } 
-#categories .col-1 {
+#topics .col-1 {
   margin-right: 10%;
 }
 
 
-
-#contact {
-  margin-bottom: 2.5em;
-}
 
 
 /* Other

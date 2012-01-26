@@ -10,7 +10,10 @@ title: The New Canon
   
   <div id="content">
     <p>
-      Hello, beside writing I do 
+      Hello, it's Csongor. 
+    </p>
+    <p>
+      Beside writing I do 
       <a href="http://ungainlyy.com">web design</a> and
       <a href="http://metamn.github.com">development</a>. 
       And running a <a href="http://smuff.ro">small online store</a>.
@@ -48,13 +51,67 @@ title: The New Canon
       <li><h4><a href="#topics">Topics</a></h4></li>
     </ul>
   </p>
+  
+  <div id="senses">
+    <h2>Senses And Values</h2>      
+    <ul>
+      
+    </ul>
+  </div>
 
+  <div id="people">
+    <h2>People I've Learnt From</h2>      
+    <ul>
+      {% for post in site.posts %}
+        {% for person in post.people %}
+          <li>{{ person }}</li>
+        {% endfor %}
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <div id="articles">
+    <h2>Articles</h2>      
+    <ul>
+      {% for post in site.posts %}
+        {% include post-list.html %}
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <div id="channels">
+    <h2>Channels</h2>
+    <p>Major interests</p>
+    <ul>
+      {% for category in site.categories %}
+        {% if category[1].size > 2 %}
+          {% include category-list.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 
   <div id="topics">
     <h2>Topics</h2>      
+    <p>Minor interests. They will be advanced into channels.</p>
+    
+    {% capture half %}
+      {{ site.categories.size | divided_by:2 }}
+    {% endcapture %}
+     
     <ul class="col-1">
-      {% for category in site.categories%}
-          {% include category-list.html %}     
+      {% for category in site.categories limit:half %}
+        {% if category[1].size <= 2 %}
+          {% include category-list.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+    
+    <ul class="col-2">
+      {% for category in site.categories offset:half %}
+        {% if category[1].size <= 2 %}
+          {% include category-list.html %}
+        {% endif %}
       {% endfor %}
     </ul>
   </div>
