@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Optimist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2012-01-28T22:11:26+02:00</updated>
+	<updated>2012-01-28T23:00:15+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
@@ -261,14 +261,6 @@
 	</entry>
 	
 	<entry>
-		<title>Death And God</title>
-		<link href="/death-and-god"/>
-		<updated>2010-03-09T00:00:00+02:00</updated>
-		<id>http:///death-and-god</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
 		<title>There Is No Privacy In Augmented Reality</title>
 		<link href="/there-is-no-privacy-in-augmented-reality"/>
 		<updated>2010-03-07T00:00:00+02:00</updated>
@@ -281,14 +273,6 @@
 		<link href="/universe"/>
 		<updated>2010-02-20T00:00:00+02:00</updated>
 		<id>http:///universe</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Internet Is Built On Waste</title>
-		<link href="/internet-is-built-on-waste"/>
-		<updated>2010-02-14T00:00:00+02:00</updated>
-		<id>http:///internet-is-built-on-waste</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
@@ -309,10 +293,10 @@
 	</entry>
 	
 	<entry>
-		<title>The Economics Of Time</title>
-		<link href="/the-economics-of-time"/>
+		<title>Reality Is Attention</title>
+		<link href="/reality-is-attention"/>
 		<updated>2010-02-06T00:00:00+02:00</updated>
-		<id>http:///the-economics-of-time</id>
+		<id>http:///reality-is-attention</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
@@ -337,14 +321,6 @@
 		<link href="/the-xxi-century"/>
 		<updated>2010-02-02T00:00:00+02:00</updated>
 		<id>http:///the-xxi-century</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Schizophrenia To The Rescue</title>
-		<link href="/schizophrenia-to-the-rescue"/>
-		<updated>2010-02-02T00:00:00+02:00</updated>
-		<id>http:///schizophrenia-to-the-rescue</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	
@@ -497,14 +473,6 @@
 		<link href="/the-most"/>
 		<updated>2009-11-07T00:00:00+02:00</updated>
 		<id>http:///the-most</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
-	</entry>
-	
-	<entry>
-		<title>Real Time</title>
-		<link href="/real-time"/>
-		<updated>2009-11-07T00:00:00+02:00</updated>
-		<id>http:///real-time</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	

@@ -8,8 +8,8 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Optimist</description>
     <language>en-us</language>
-    <pubDate>Sat, 28 Jan 2012 22:11:26 EET</pubDate>
-    <lastBuildDate>Sat, 28 Jan 2012 22:11:26 EET</lastBuildDate>
+    <pubDate>Sat, 28 Jan 2012 23:00:15 EET</pubDate>
+    <lastBuildDate>Sat, 28 Jan 2012 23:00:15 EET</lastBuildDate>
 
     
     <item>
@@ -292,15 +292,6 @@
     </item>
     
     <item>
-      <title>Death And God</title>
-      <link>/death-and-god</link>
-      <pubDate>Tue, 09 Mar 2010 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/death-and-god</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
       <title>There Is No Privacy In Augmented Reality</title>
       <link>/there-is-no-privacy-in-augmented-reality</link>
       <pubDate>Sun, 07 Mar 2010 00:00:00 EET</pubDate>
@@ -315,15 +306,6 @@
       <pubDate>Sat, 20 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/universe</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>Internet Is Built On Waste</title>
-      <link>/internet-is-built-on-waste</link>
-      <pubDate>Sun, 14 Feb 2010 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/internet-is-built-on-waste</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
@@ -346,11 +328,11 @@
     </item>
     
     <item>
-      <title>The Economics Of Time</title>
-      <link>/the-economics-of-time</link>
+      <title>Reality Is Attention</title>
+      <link>/reality-is-attention</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
-      <guid>/the-economics-of-time</guid>
+      <guid>/reality-is-attention</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
@@ -378,15 +360,6 @@
       <pubDate>Tue, 02 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-xxi-century</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>Schizophrenia To The Rescue</title>
-      <link>/schizophrenia-to-the-rescue</link>
-      <pubDate>Tue, 02 Feb 2010 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/schizophrenia-to-the-rescue</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
@@ -558,15 +531,6 @@
       <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-most</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
-    </item>
-    
-    <item>
-      <title>Real Time</title>
-      <link>/real-time</link>
-      <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
-      <author></author>
-      <guid>/real-time</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
