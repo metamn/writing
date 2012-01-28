@@ -60,10 +60,10 @@ h3 { font-size:2.11538em; padding:1.44305em 0; }
 */
 
 article header {
-  margin-bottom: 2.5em;
+  margin-bottom: 5em;
 }
 article footer {
-  margin: 2.5em 0;
+  margin: 5em 0;
 }
 article #body {
   font-size: larger;
@@ -73,6 +73,7 @@ article #body {
   margin: 2.5em 0;
   padding: 1.25em 0;
   border-top: 1px solid;
+  border-bottom: 1px solid;
 }
 #next-post .prev, #next-post .next {
   display: block;
