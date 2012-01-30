@@ -1,7 +1,14 @@
 <div id="tags">
   In 
   {% for tag in page.categories %}
-    <a title="See more from {{ tag }}" 
-    href="/{{ site.category_dir }}/{{ tag  | downcase | replace:' ', '-'}}">{{ tag }}</a>{% if forloop.last %}.{% else %}, {% endif %}
+    {% assign item = tag %}
+    
+    {% if forloop.last %}
+      {% assign punctuation = '.' %}
+    {% else %}
+      {% assign punctuation = ', ' %}
+    {% endif %}
+    
+    {% include normalize-category-link.html %}
   {% endfor %} 
 </div>

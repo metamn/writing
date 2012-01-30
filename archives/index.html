@@ -79,7 +79,9 @@ title: Hello, it's Csongor
     <ul>
       {% for category in site.categories %}
         {% if category[1].size > 2 %}
-          {% include category-list.html %}
+          {% assign item = category[0] %}
+          {% assign punctuation = '' %} 
+          <li>{% include normalize-category-link.html %}</li>
         {% endif %}
       {% endfor %}
     </ul>
@@ -98,7 +100,9 @@ title: Hello, it's Csongor
     <ul class="col-1">
       {% for category in site.categories limit:half %}
         {% if category[1].size <= 2 %}
-          {% include category-list.html %}
+          {% assign item = category[0] %}
+          {% assign punctuation = '' %} 
+          <li>{% include normalize-category-link.html %}</li>
         {% endif %}
       {% endfor %}
     </ul>
@@ -106,7 +110,9 @@ title: Hello, it's Csongor
     <ul class="col-2">
       {% for category in site.categories offset:half %}
         {% if category[1].size <= 2 %}
-          {% include category-list.html %}
+          {% assign item = category[0] %}
+          {% assign punctuation = '' %} 
+          <li>{% include normalize-category-link.html %}</li>
         {% endif %}
       {% endfor %}
     </ul>
