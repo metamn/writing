@@ -68,11 +68,17 @@ article footer {
 article #body {
   font-size: larger;
 }
+article header time {
+  font-style: italic;
+}
+
 
 #next-post {
   margin: 2.5em 0;
   padding: 1.25em 0;
-  border-top: 1px inset;
+  border-top: 4px double;   
+  
+  font-variant: small-caps;
 }
 #next-post .prev, #next-post .next {
   display: block;
@@ -85,6 +91,7 @@ article #body {
 #next-post .next {
   float: right;
 }
+
 
 .quote blockquote {
   border-left: none;
