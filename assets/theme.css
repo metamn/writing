@@ -7,11 +7,14 @@ body {
 */
 
 a {
-  color: #529ff7;
+  color: #0000FF;
   text-decoration: none;
 }
 a:visited {
-  color: #0853a8;
+  color: #7914CC;
+}
+a:active {
+  color: #FF0000;
 }
 
 h1 a, #menu a,
@@ -25,10 +28,13 @@ h1 a:visited, #menu a:visited {
 */
 
 article header time {
-  background: #111;
-  color: #eee;
+  background: #36392F;
+  color: #F3F3F3;
   padding: .312em;
+  font-variant: small-caps;
 }
+
+
 
 
 /* Archives
