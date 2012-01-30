@@ -1,6 +1,4 @@
 {% if page.categories != _blank %}
-  This essay is about
-  <a title="See more from {{ page.categories.first }}" 
-  href="/{{ site.category_dir }}/{{ page.categories.first | downcase | replace:' ', '-' }}">
-  {{ page.categories.first }}</a>.
+  {% assign item = page.categories.first %}
+  This essay is about {% include normalize-category-link.html %}
 {% endif %}    

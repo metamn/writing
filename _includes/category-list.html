@@ -1,2 +1,4 @@
-<li><a title="{{ category[1].size }} articles in {{ category[0] | capitalize }}" 
-href="/{{ site.category_dir }}/{{ category[0]  | downcase | replace:' ', '-'}}">{{ category[0] | capitalize}}</a></li>
+<li>
+  {% assign item = category[0] %} 
+  {% include normalize-category-link.html %}
+</li>

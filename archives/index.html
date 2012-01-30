@@ -38,7 +38,13 @@ title: Hello, it's Csongor
   <div id="senses">
     <h2>New Senses And Values</h2>      
     <ul>
-      
+      {% for post in site.posts %}
+        {% for sense in post.senses %}
+          {% assign item = sense %}
+          {% assign punctuation = '' %}
+          <li>{% include normalize-category-link.html %}</li>
+        {% endfor %}
+      {% endfor %}
     </ul>
   </div>
 
@@ -47,7 +53,9 @@ title: Hello, it's Csongor
     <ul>
       {% for post in site.posts %}
         {% for person in post.people %}
-          <li>{{ person }}</li>
+          {% assign item = person %}
+          {% assign punctuation = '' %}
+          <li>{% include normalize-category-link.html %}</li>
         {% endfor %}
       {% endfor %}
     </ul>
