@@ -10,14 +10,14 @@ title: Hello, it's Csongor
   
   <div id="content">
     <p>
-      Beside writing I do 
-      <a href="http://ungainlyy.com">web design</a> and
-      <a href="http://metamn.github.com">development</a>. 
-      And running a <a href="http://smuff.ro">small online store</a>.
+      This is a new <em>metric</em> in a new <em>space</em> &mdash;
+      something called future</em>.
     </p>
     <p>
-      For any questions feel free to contact me at 
-      <a title="Send me an email" 
+      Have more questions about? Good. I'm able to generate solutions for you. 
+    </p>
+    <p>
+      Please send me an email to <a title="Send me an email" 
       href="mailto:bartus.csongor@gmail.com">bartus.csongor@gmail.com</a>
     </p>
   </div>
@@ -27,16 +27,16 @@ title: Hello, it's Csongor
   <p>
     &nbsp;
     <ul>
-      <li><h4><a href="#senses">New Senses And Values</a></h4></li>
-      <li><h4><a href="#people">People I've Learnt From</a></h4></li>
-      <li><h4><a href="#articles">Articles</a></h4></li>
-      <li><h4><a href="#channels">Channels</a></h4></li>
+      <li><h4><a href="#senses">Metric: New Senses And Values</a></h4></li>
+      <li><h4><a href="#articles">Space: A Collection of Articles</a></h4></li>
+      <li><h4><a href="#channels">Channels: Major Interests</a></h4></li>
       <li><h4><a href="#topics">Topics</a></h4></li>
+      <li><h4><a href="#people">People I've Learnt From</a></h4></li>      
     </ul>
   </p>
   
   <div id="senses">
-    <h2>New Senses And Values</h2>      
+    <h2>Metric: New Senses And Values</h2>      
     <ul>
       {% for post in site.posts %}
         {% for sense in post.senses %}
@@ -48,21 +48,9 @@ title: Hello, it's Csongor
     </ul>
   </div>
 
-  <div id="people">
-    <h2>People I've Learnt From</h2>      
-    <ul>
-      {% for post in site.posts %}
-        {% for person in post.people %}
-          {% assign item = person %}
-          {% assign punctuation = '' %}
-          <li>{% include normalize-category-link.html %}</li>
-        {% endfor %}
-      {% endfor %}
-    </ul>
-  </div>
-  
+    
   <div id="articles">
-    <h2>Articles</h2>      
+    <h2>Space: A Collection of Articles</h2>      
     <ul>
       {% for post in site.posts %}
         {% include post-list.html %}
@@ -114,6 +102,19 @@ title: Hello, it's Csongor
           {% assign punctuation = '' %} 
           <li>{% include normalize-category-link.html %}</li>
         {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <div id="people">
+    <h2>People I've Learnt From</h2>      
+    <ul>
+      {% for post in site.posts %}
+        {% for person in post.people %}
+          {% assign item = person %}
+          {% assign punctuation = '' %}
+          <li>{% include normalize-category-link.html %}</li>
+        {% endfor %}
       {% endfor %}
     </ul>
   </div>
