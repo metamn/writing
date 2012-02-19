@@ -27,16 +27,19 @@ title: Hello, it's Csongor
   <p>
     &nbsp;
     <ul>
-      <li><h4><a href="#senses">Metric: New Senses And Values</a></h4></li>
-      <li><h4><a href="#articles">Space: A Collection of Articles</a></h4></li>
-      <li><h4><a href="#channels">Channels: Major Interests</a></h4></li>
+      <li><h4><a href="#senses">Metric</a></h4></li>
+      <li><h4><a href="#articles">Space</a></h4></li>
+      <li><h4><a href="#channels">Channels</a></h4></li>
       <li><h4><a href="#topics">Topics</a></h4></li>
       <li><h4><a href="#people">People I've Learnt From</a></h4></li>      
     </ul>
   </p>
   
   <div id="senses">
-    <h2>Metric: New Senses And Values</h2>      
+    <h2>Metric</h2>   
+    <p>
+      New senses and values driving the current metasystem transition.
+    </p>   
     <ul>
       {% for post in site.posts %}
         {% for sense in post.senses %}
@@ -50,7 +53,10 @@ title: Hello, it's Csongor
 
     
   <div id="articles">
-    <h2>Space: A Collection of Articles</h2>      
+    <h2>Space</h2>   
+    <p>
+      What to be transformed and how. The collection of articles.
+    </p>   
     <ul>
       {% for post in site.posts %}
         {% include post-list.html %}
@@ -66,7 +72,7 @@ title: Hello, it's Csongor
     </p>
     <ul>
       {% for category in site.categories %}
-        {% if category[1].size > 2 %}
+        {% if category[1].size > 3 %}
           {% assign item = category[0] %}
           {% assign punctuation = '' %} 
           <li>{% include normalize-category-link.html %}</li>
@@ -87,7 +93,7 @@ title: Hello, it's Csongor
      
     <ul class="col-1">
       {% for category in site.categories limit:half %}
-        {% if category[1].size <= 2 %}
+        {% if category[1].size <= 3 %}
           {% assign item = category[0] %}
           {% assign punctuation = '' %} 
           <li>{% include normalize-category-link.html %}</li>
@@ -97,7 +103,7 @@ title: Hello, it's Csongor
     
     <ul class="col-2">
       {% for category in site.categories offset:half %}
-        {% if category[1].size <= 2 %}
+        {% if category[1].size <= 3 %}
           {% assign item = category[0] %}
           {% assign punctuation = '' %} 
           <li>{% include normalize-category-link.html %}</li>
