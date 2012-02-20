@@ -127,14 +127,14 @@ article header time {
 }
 
 
-#topics ul {
+#archives ul.col-1, #archives ul.col-2 {
   margin: 0 0 2.5em;
 }
-#topics .col-1, #topics .col-2 {
+#archives ul.col-1, #archives ul.col-2 {
   width: 45%;
   float: left;
 } 
-#topics .col-1 {
+#archives ul.col-1 {
   margin-right: 10%;
 }
 

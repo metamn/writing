@@ -40,8 +40,11 @@ title: Hello, it's Csongor
     <p>
       New senses and values driving the current metasystem transition.
     </p>   
-    <ul>
-      {% for post in site.posts %}
+    
+    {% assign half = 62 %}    
+    
+    <ul class="col-1">
+      {% for post in site.posts limit:half %}
         {% for sense in post.senses %}
           {% assign item = sense %}
           {% assign punctuation = '' %}
@@ -49,6 +52,18 @@ title: Hello, it's Csongor
         {% endfor %}
       {% endfor %}
     </ul>
+    
+    <ul class="col-2">
+      {% for post in site.posts offset:half %}
+        {% for sense in post.senses %}
+          {% assign item = sense %}
+          {% assign punctuation = '' %}
+          <li>{% include normalize-category-link.html %}</li>
+        {% endfor %}
+      {% endfor %}
+    </ul>
+    
+    
   </div>
 
     
