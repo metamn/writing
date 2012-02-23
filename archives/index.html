@@ -30,18 +30,18 @@ title: Hello, it's Csongor
       <li><h4><a href="#senses">Metric</a></h4></li>
       <li><h4><a href="#articles">Space</a></h4></li>
       <li><h4><a href="#channels">Channels</a></h4></li>
-      <li><h4><a href="#topics">Topics</a></h4></li>
       <li><h4><a href="#people">People I've Learnt From</a></h4></li>      
+      <li><h4><a href="#topics">Topics</a></h4></li>
     </ul>
   </p>
   
-  <div id="senses">
+  <div id="senses" class="block">
     <h2>Metric</h2>   
     <p>
       New senses and values driving the current metasystem transition.
     </p>   
     
-    {% assign half = 62 %}    
+    {% assign half = 52 %}    
     
     <ul class="col-1">
       {% for post in site.posts limit:half %}
@@ -62,12 +62,10 @@ title: Hello, it's Csongor
         {% endfor %}
       {% endfor %}
     </ul>
-    
-    
   </div>
 
     
-  <div id="articles">
+  <div id="articles" class="block">
     <h2>Space</h2>   
     <p>
       What to be transformed and how. The collection of articles.
@@ -79,7 +77,7 @@ title: Hello, it's Csongor
     </ul>
   </div>
   
-  <div id="channels">
+  <div id="channels" class="block">
     <h2>Channels</h2>
     <p>
       Major interests. They will be distilled into new 
@@ -96,38 +94,8 @@ title: Hello, it's Csongor
     </ul>
   </div>
 
-  <div id="topics">
-    <h2>Topics</h2>      
-    <p>
-      Minor interests. They will advance into <a href="#channels">channels</a>.
-    </p>
-    
-    {% capture half %}
-      {{ site.categories.size | divided_by:2 }}
-    {% endcapture %}
-     
-    <ul class="col-1">
-      {% for category in site.categories limit:half %}
-        {% if category[1].size <= 3 %}
-          {% assign item = category[0] %}
-          {% assign punctuation = '' %} 
-          <li>{% include normalize-category-link.html %}</li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-    
-    <ul class="col-2">
-      {% for category in site.categories offset:half %}
-        {% if category[1].size <= 3 %}
-          {% assign item = category[0] %}
-          {% assign punctuation = '' %} 
-          <li>{% include normalize-category-link.html %}</li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
   
-  <div id="people">
+  <div id="people" class="block">
     <h2>People I've Learnt From</h2>      
     <ul>
       {% for post in site.posts %}
@@ -140,5 +108,33 @@ title: Hello, it's Csongor
     </ul>
   </div>
 
+
+  <div id="topics" class="block">
+    <h2>Topics</h2>      
+    <p>
+      All tags. Some of them will advance into <a href="#channels">channels</a>.
+    </p>
+    
+    {% capture half %}
+      {{ site.categories.size | divided_by:2 }}
+    {% endcapture %}
+     
+    <ul class="col-1">
+      {% for category in site.categories limit:half %}        
+        {% assign item = category[0] %}
+        {% assign punctuation = '' %} 
+        <li>{% include normalize-category-link.html %}</li>        
+      {% endfor %}
+    </ul>
+    
+    <ul class="col-2">
+      {% for category in site.categories offset:half %}
+        {% assign item = category[0] %}
+        {% assign punctuation = '' %} 
+        <li>{% include normalize-category-link.html %}</li>        
+      {% endfor %}
+    </ul>
+  </div>
+  
 </section>
 

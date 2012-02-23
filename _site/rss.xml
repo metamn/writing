@@ -8,8 +8,8 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Optimist</description>
     <language>en-us</language>
-    <pubDate>Wed, 22 Feb 2012 18:09:11 EET</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2012 18:09:11 EET</lastBuildDate>
+    <pubDate>Thu, 23 Feb 2012 14:00:17 EET</pubDate>
+    <lastBuildDate>Thu, 23 Feb 2012 14:00:17 EET</lastBuildDate>
 
     
     <item>
@@ -158,10 +158,10 @@
     
     <item>
       <title>Success</title>
-      <link>/success-again</link>
+      <link>/success</link>
       <pubDate>Mon, 31 Jan 2011 00:00:00 EET</pubDate>
       <author></author>
-      <guid>/success-again</guid>
+      <guid>/success</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
@@ -229,7 +229,7 @@
     </item>
     
     <item>
-      <title>LSD</title>
+      <title>Lsd</title>
       <link>/lsd</link>
       <pubDate>Sun, 21 Nov 2010 00:00:00 EET</pubDate>
       <author></author>
