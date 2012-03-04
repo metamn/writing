@@ -2,6 +2,16 @@
   {% assign punctuation = '.' %}
 {% endif %}
 
+
+{% if item_type == 'person' %}
+  {% assign bio = item.bio %}
+  {% assign item = item.name %}
+{% endif %}
+
 <a title="See more from {{ item }}" 
   href="/{{ site.category_dir }}/{{ item | downcase | replace:' ', '-' }}">
   {{ item }}</a>{{ punctuation }}
+  
+{% if bio != _blank %}
+  <p class="bio">{{ bio }}</p>
+{% endif %}

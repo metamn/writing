@@ -101,6 +101,7 @@ title: Hello, it's Csongor
       {% for post in site.posts %}
         {% for person in post.people %}
           {% assign item = person %}
+          {% assign item_type = 'person' %}
           {% assign punctuation = '' %}
           <li>{% include normalize-category-link.html %}</li>
         {% endfor %}
