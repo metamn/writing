@@ -1,5 +1,16 @@
-<span class="people">{{ person.name }}</span>
-<div id="people-badge" class="hidden block">
+{% assign badgename = "" %}
+{% assign badge = "hidden" %}  
+
+{% if status == "opened" %}
+  {% assign badgename = "hidden" %}
+  {% assign badge = "" %}  
+{% endif %}
+
+{% capture badgeid %}{{ person.name | downcase | replace:' ', '-' }}{% endcapture %}
+
+
+<span id="people-badge-name" class="{{ badgename }}" rel="{{ badgeid }}">{{ person.name }}</span>
+<div id="people-badge" class="{{ badge }} {{ badgeid }} block">
   <div id="image"><img src="{{ person.img }}" /></div>
   <div id="bio">
     <h4>{{ person.name }}</h4>

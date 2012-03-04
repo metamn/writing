@@ -100,7 +100,7 @@ article header time {
 }
 
 
-article span.people {
+article #people-badge-name {
   cursor: pointer;
 }
 article #people-badge {

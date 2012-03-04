@@ -9,17 +9,21 @@ categories:
   - rebirth
   - control
   - dream
-  - Socrates
   - Bela Hamvas
   - Steve Yegge
   - Arthur Rimbaud
 senses:
   - simulacra
 people:
-  - Socrates
-  - Bela Hamvas
-  - Steve Yegge
-  - Arthur Rimbaud
+  - name: Bela Hamvas
+    bio: The librarian of all ancient knowledge. 
+    img: /assets/hamvas-bela.jpg
+  - name: Steve Yegge
+    bio: The new breed. One who knows what Control really is.
+    img: /assets/steve-yegge.jpg
+  - name: Arthur Rimbaud
+    bio: The invincible genius.
+    img: /assets/arthur-rimbaud.gif
 ---
 
 <p>
@@ -31,7 +35,9 @@ And we have that point.
 
 <h3>The Trapped Self</h3>
 <p>
-Bela Hamvas was extraordinary. 
+{% assign person = page.people[0] %} 
+{% assign status = 'opened' %}
+{% include people.html %} was extraordinary. 
 As a librarian he had access to old ancient knowledge. 
 He understood and translated all to us: the world from involution through Hermes Trismegistus to current times.
 </p>
@@ -51,7 +57,7 @@ A leader who controls society without obscure personal interests.
 
 <h3>Simulation Worlds</h3>
 <p>
-Steve Yegge started it’s last odyssey with the story of a Siamese fighting fish 
+{% assign person = page.people[1] %} {% include people.html %} started it’s last odyssey with the story of a Siamese fighting fish 
 trapped into and died in it’s own tank. 
 Trapped into an universe which borders were all known and not extendable by 
 imagination 
@@ -63,7 +69,7 @@ Next, he takes us to another simulation, to Super Mario Kart’s computer world 
 
 <p>
 <blockquote>
-I am thinked. (Arthur Rimbaud)
+I am thinked. ({% assign person = page.people[2] %} {% assign status = '' %} {% include people.html %})
 </blockquote>
 
 Yes, you are — your existence is — thinked by someone else. You are nothing than 

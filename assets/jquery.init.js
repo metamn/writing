@@ -1,7 +1,10 @@
 jQuery(document).ready(function(){
   
-  jQuery("span.people").click(function() {
-    jQuery(this).parent().next().slideToggle();
+  jQuery("#people-badge-name").click(function() {
+    var id = jQuery(this).attr('rel');
+    var badge = "." + id;
+    alert(badge);
+    jQuery(badge).slideToggle();
   });
   
     
