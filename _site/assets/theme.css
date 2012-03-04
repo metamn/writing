@@ -44,13 +44,13 @@ article span.people {
   background: #f3f3f3;
   padding: 0 .312em;
 }
-article #people {
+article #people-badge {
   background: #f3f3f3;
 }
-article #people h4 {
+article #people-badge h4 {
   border-bottom: 1px inset;
 }
-article #people p {
+article #people-badge p {
   font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
   font-size: small;
 }

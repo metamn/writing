@@ -103,17 +103,17 @@ article header time {
 article span.people {
   cursor: pointer;
 }
-article #people {
+article #people-badge {
   margin: 2.5em 0;
 }
-article #people #image, article #people #bio {
+article #people-badge #image, article #people-badge #bio {
   float: left;
   width: 45%;
 } 
-article #people #image {
+article #people-badge #image {
   margin-right: 10%;
 }
-article #people h4 {
+article #people-badge h4 {
   margin-bottom: 1.25em;
 }
 

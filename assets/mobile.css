@@ -62,7 +62,17 @@ article header {
 article footer {
   margin: 2.5em 0;
 }
-
+article #people-badge #image, article #people-badge #bio {
+  width: auto;
+  margin: auto;
+}
+article #people-badge #bio {
+  padding: 0 1.25em 1.25em;
+}
+article img {
+  width: 100%;
+  height: auto;
+}
 
 
 
@@ -89,3 +99,5 @@ ol {
 .desktop {
   display: none;
 }
+
+
