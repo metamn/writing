@@ -98,12 +98,10 @@ title: Hello, it's Csongor
   <div id="people" class="block">
     <h2>People I've Learnt From</h2>      
     <ul>
+      {% assign status = "opened" %}
       {% for post in site.posts %}
         {% for person in post.people %}
-          {% assign item = person %}
-          {% assign item_type = 'person' %}
-          {% assign punctuation = '' %}
-          <li>{% include normalize-category-link.html %}</li>
+          <li>{% include people.html %}</li>
         {% endfor %}
       {% endfor %}
     </ul>
