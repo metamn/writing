@@ -5,7 +5,9 @@ categories:
   - simulacra
   - Stephen Hawking
 people:
-  - Stephen Hawking 
+  - name: Stephen Hawking 
+    bio: A scientist adding an imaginary dimension to reality and saving the world, and us.
+    img: /assets/stephen-hawking.jpg
 ---
 
 <p>
@@ -38,4 +40,8 @@ It is strange the path physics walked through centuries:
 by researching the real life and existence they’ve come to add an 
 imaginary dimension to the rescue.
 </p>
+
+{% assign person = page.people[0] %} 
+{% assign status = 'opened' %}
+{% include people.html %}
 

@@ -5,9 +5,15 @@ categories:
   - values
   - Dimitri Verhults
 people:
-  - Dimitri Verhults
+  - name: Dimitri Verhults
+    bio: Writer. About living with attitude.
+    img: /assets/dimitri-verhults.jpg
 ---
 
 <p>
   Is engagement, commitment, mindset. With something or somebody. Nothing more.
 </p>
+
+{% assign person = page.people[0] %} 
+{% assign status = 'opened' %}
+{% include people.html %}

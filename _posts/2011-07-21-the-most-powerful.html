@@ -8,9 +8,15 @@ categories:
 senses:
   - mercy
 people:
-  - Nikita Mikhalkov
+  - name: Nikita Mikhalkov
+    bio: The Russian cultural oligarch.
+    img: /assets/nikita-mikhalkov.jpg
 ---
 
 <p>
 Mercy is more powerful than law.
 </p>
+
+{% assign person = page.people[0] %} 
+{% assign status = 'opened' %}
+{% include people.html %}

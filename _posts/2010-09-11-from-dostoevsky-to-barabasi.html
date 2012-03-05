@@ -10,8 +10,12 @@ categories:
   - Dostoevsky
   - Albert Laszlo Barabasi
 people:
-  - Dostoevsky
-  - Albert Laszlo Barabasi
+  - name: Dostoevsky
+    bio: Genial insights into human mind, heart and spirit
+    img: /assets/dostoevsky.jpg
+  - name: Albert Laszlo Barabasi
+    bio: Like Betrand Russell for the XXth, perhaps he knows the essence of this century.
+    img: /assets/barabasi.jpg
 ---
 
 <blockquote>
@@ -25,4 +29,12 @@ Think yourself as a dreaming robot on autopilot and you will be closer to the tr
 </blockquote>
 
 <p><strong>2010, Boston</strong></p>
+
+
+{% assign person = page.people[0] %} 
+{% assign status = 'opened' %}
+{% include people.html %}
+
+{% assign person = page.people[1] %} 
+{% include people.html %}
 

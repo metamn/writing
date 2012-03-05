@@ -6,7 +6,9 @@ categories:
   - aristocracy
   - Lyudmila Ulitskaya
 people:
-  - Lyudmila Ulitskaya
+  - name: Lyudmila Ulitskaya
+    bio: Writes about aristocracy. And about the invisible things.
+    img: /assets/lyudmilla-ulitskaya.jpg
 ---
 
 <p>
@@ -21,3 +23,7 @@ The art of living cannot be learned anymore. We have no visible examples around.
 <p>
 Before the net will turn us into empty bots everybody should read at least one essay from Lyudmila Ulitskaya.
 </p>
+
+{% assign person = page.people[0] %} 
+{% assign status = 'opened' %}
+{% include people.html %}

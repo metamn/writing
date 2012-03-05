@@ -101,7 +101,10 @@ title: Hello, it's Csongor
       {% assign status = "opened" %}
       {% for post in site.posts %}
         {% for person in post.people %}
-          <li>{% include people.html %}</li>
+          <li>
+            {% assign item = person.name %}
+            <a title="See more from {{ item }}" href="/{{ site.category_dir }}/{{ item | downcase | replace:' ', '-' }}">
+              {% include people.html %}</a></li>
         {% endfor %}
       {% endfor %}
     </ul>

@@ -8,7 +8,9 @@ categories:
   - control
   - John Dos Passos
 people:
-  - John Dos Passos 
+  - name: John Dos Passos 
+    bio: A sharp eyewitness of the birth of capitalism.
+    img: /assets/john-dos-passos.jpg
 ---
 
 <p>
@@ -17,3 +19,7 @@ The century of America literally killed all that part of the human <em>spirit</e
 <p>
 This second century of America will literally kill all human <em>life</em> which won’t be tied to fear or to pragmatism.
 </p>
+
+{% assign person = page.people[0] %} 
+{% assign status = 'opened' %}
+{% include people.html %}
