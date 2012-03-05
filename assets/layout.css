@@ -26,7 +26,7 @@
 h1 { font-size:3.42308em; padding:1.38338em 0; }
 h2 { font-size:2.61538em; padding:1.28666em 0; }
 h3 { font-size:2.11538em; padding:1.44305em 0; }
-h4 { padding: 1.25em 0; }
+
 
 
 /* Startpage
@@ -115,6 +115,7 @@ article #people-badge #image {
 }
 article #people-badge h4 {
   margin-bottom: 1.25em;
+  padding: 1.25em 0;
 }
 
 

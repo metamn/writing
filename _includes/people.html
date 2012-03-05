@@ -9,7 +9,7 @@
 {% capture badgeid %}{{ person.name | downcase | replace:' ', '-' }}{% endcapture %}
 
 
-<span id="people-badge-name" class="{{ badgename }}" rel="{{ badgeid }}">{{ person.name }}</span>
+<span id="people-badge-name" class="people-badge-name {{ badgename }}" rel="{{ badgeid }}">{{ person.name }}</span>
 <div id="people-badge" class="{{ badge }} {{ badgeid }} block">
   <div id="image"><img src="{{ person.img }}" /></div>
   <div id="bio">
