@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Csongor Bartus. Optimist</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2012-03-05T13:46:15+02:00</updated>
+	<updated>2012-03-08T11:35:55+02:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
@@ -205,7 +205,7 @@
 	</entry>
 	
 	<entry>
-		<title>Lsd</title>
+		<title>LSD</title>
 		<link href="/lsd"/>
 		<updated>2010-11-21T00:00:00+02:00</updated>
 		<id>http:///lsd</id>

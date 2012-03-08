@@ -2,7 +2,7 @@
   {% assign punctuation = '.' %}
 {% endif %}
 
-<a title="See more from {{ item }}" 
+<a title="See more from {{ item | titleize }}" 
   href="/{{ site.category_dir }}/{{ item | downcase | replace:' ', '-' }}">
-  {{ item }}</a>{{ punctuation }}
+  {{ item | titleize }}</a>{{ punctuation }}
 
