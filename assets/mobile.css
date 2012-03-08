@@ -9,6 +9,9 @@
 #header, #content {
   width: 100%;
 }
+.page #header, .page #content {
+  width: auto;
+}
 #content {
   float: left;
   padding-bottom: 2.5em;
