@@ -9,7 +9,7 @@
       {% include header.html %}   
     </div>
     
-    <section id="content" class="{{ page.title | downcase | replace:' ', '-' }}">
+    <section id="content" class="block {{ page.title | downcase | replace:' ', '-' }}">
       {{ content }}
     </section>  
     
