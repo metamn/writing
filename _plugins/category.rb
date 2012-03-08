@@ -12,7 +12,7 @@ module Jekyll
       self.data['category'] = category
 
       category_title_prefix = site.config['category_title_prefix'] || 'Category: '
-      self.data['title'] = "#{category_title_prefix} #{category}";
+      self.data['title'] = "<em>#{category_title_prefix}</em> #{category}";
     end
   end
 
