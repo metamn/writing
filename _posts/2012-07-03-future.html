@@ -1,0 +1,19 @@
+---
+layout: quote
+categories:
+  - future
+  - values
+  - Jorge Luis Borges
+people:
+  - name: Jorge Luis Borges
+    bio: The first metaman.
+    img: /assets/jorge-luis-borges.jpg
+---
+
+<p>
+  The future already exists. If you really want something to happen think about it as it was already happened in the past.
+</p>
+
+{% assign person = page.people[0] %} 
+{% assign status = 'opened' %}
+{% include people.html %}

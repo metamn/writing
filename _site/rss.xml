@@ -8,9 +8,144 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>Optimist</description>
     <language>en-us</language>
-    <pubDate>Thu, 08 Mar 2012 12:00:04 EET</pubDate>
-    <lastBuildDate>Thu, 08 Mar 2012 12:00:04 EET</lastBuildDate>
+    <pubDate>Tue, 03 Jul 2012 22:56:39 EEST</pubDate>
+    <lastBuildDate>Tue, 03 Jul 2012 22:56:39 EEST</lastBuildDate>
 
+    
+    <item>
+      <title>Future</title>
+      <link>/future</link>
+      <pubDate>Tue, 03 Jul 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/future</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>/art</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/art</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Three King Things</title>
+      <link>/three-king-things</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/three-king-things</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>There Are No Requirements</title>
+      <link>/there-are-no-requirements</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/there-are-no-requirements</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Letting Go</title>
+      <link>/letting-go</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/letting-go</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Graphs</title>
+      <link>/graphs</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/graphs</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Gap</title>
+      <link>/gap</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/gap</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Fast Culture</title>
+      <link>/fast-culture</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/fast-culture</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Belief</title>
+      <link>/belief</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/belief</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Anger</title>
+      <link>/anger</link>
+      <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/anger</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Scent</title>
+      <link>/scent</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/scent</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Metaprogramming</title>
+      <link>/metaprogramming</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/metaprogramming</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>After Stress Schizophrenia</title>
+      <link>/after-stress-schizophrenia</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/after-stress-schizophrenia</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Advertising</title>
+      <link>/advertising</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/advertising</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Overpopulation</title>
+      <link>/overpopulation</link>
+      <pubDate>Tue, 03 Apr 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/overpopulation</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
     
     <item>
       <title>Love</title>
