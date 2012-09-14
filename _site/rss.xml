@@ -6,802 +6,802 @@
     <title>Csongor Bartus</title>
     <link></link>
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
-    <description>Optimist</description>
+    <description>on gust</description>
     <language>en-us</language>
-    <pubDate>Tue, 03 Jul 2012 22:56:39 EEST</pubDate>
-    <lastBuildDate>Tue, 03 Jul 2012 22:56:39 EEST</lastBuildDate>
+    <pubDate>Fri, 14 Sep 2012 12:07:39 EEST</pubDate>
+    <lastBuildDate>Fri, 14 Sep 2012 12:07:39 EEST</lastBuildDate>
 
     
     <item>
       <title>Future</title>
-      <link>/future</link>
+      <link>/future.html</link>
       <pubDate>Tue, 03 Jul 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/future</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Art</title>
-      <link>/art</link>
+      <link>/art.html</link>
       <pubDate>Tue, 26 Jun 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/art</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Three King Things</title>
-      <link>/three-king-things</link>
+      <link>/three-king-things.html</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/three-king-things</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>There Are No Requirements</title>
-      <link>/there-are-no-requirements</link>
+      <link>/there-are-no-requirements.html</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/there-are-no-requirements</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Letting Go</title>
-      <link>/letting-go</link>
+      <link>/letting-go.html</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/letting-go</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Graphs</title>
-      <link>/graphs</link>
+      <link>/graphs.html</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/graphs</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Gap</title>
-      <link>/gap</link>
+      <link>/gap.html</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/gap</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Fast Culture</title>
-      <link>/fast-culture</link>
+      <link>/fast-culture.html</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/fast-culture</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Belief</title>
-      <link>/belief</link>
+      <link>/belief.html</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/belief</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Anger</title>
-      <link>/anger</link>
+      <link>/anger.html</link>
       <pubDate>Sun, 03 Jun 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/anger</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Scent</title>
-      <link>/scent</link>
+      <link>/scent.html</link>
       <pubDate>Thu, 03 May 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/scent</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Metaprogramming</title>
-      <link>/metaprogramming</link>
+      <link>/metaprogramming.html</link>
       <pubDate>Thu, 03 May 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/metaprogramming</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>After Stress Schizophrenia</title>
-      <link>/after-stress-schizophrenia</link>
+      <link>/after-stress-schizophrenia.html</link>
       <pubDate>Thu, 03 May 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/after-stress-schizophrenia</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Advertising</title>
-      <link>/advertising</link>
+      <link>/advertising.html</link>
       <pubDate>Thu, 03 May 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/advertising</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Overpopulation</title>
-      <link>/overpopulation</link>
+      <link>/overpopulation.html</link>
       <pubDate>Tue, 03 Apr 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/overpopulation</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Love</title>
-      <link>/love</link>
+      <link>/love.html</link>
       <pubDate>Mon, 20 Feb 2012 00:00:00 EET</pubDate>
       <author></author>
       <guid>/love</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Digital Samsara</title>
-      <link>/digital-samsara</link>
+      <link>/digital-samsara.html</link>
       <pubDate>Sat, 10 Dec 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/digital-samsara</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Stealing</title>
-      <link>/stealing</link>
+      <link>/stealing.html</link>
       <pubDate>Thu, 08 Dec 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/stealing</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Most Powerful</title>
-      <link>/the-most-powerful</link>
+      <link>/the-most-powerful.html</link>
       <pubDate>Thu, 21 Jul 2011 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/the-most-powerful</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Switch</title>
-      <link>/switch</link>
+      <link>/switch.html</link>
       <pubDate>Sat, 23 Apr 2011 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/switch</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Information</title>
-      <link>/information</link>
+      <link>/information.html</link>
       <pubDate>Sat, 23 Apr 2011 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/information</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Lifelines</title>
-      <link>/lifelines</link>
+      <link>/lifelines.html</link>
       <pubDate>Tue, 12 Apr 2011 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/lifelines</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Images Are Programs</title>
-      <link>/images-are-programs</link>
+      <link>/images-are-programs.html</link>
       <pubDate>Mon, 11 Apr 2011 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/images-are-programs</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Corruption</title>
-      <link>/corruption</link>
+      <link>/corruption.html</link>
       <pubDate>Sun, 27 Mar 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/corruption</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Beauty</title>
-      <link>/beauty</link>
+      <link>/beauty.html</link>
       <pubDate>Sat, 19 Mar 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/beauty</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Names</title>
-      <link>/names</link>
+      <link>/names.html</link>
       <pubDate>Tue, 08 Mar 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/names</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Anonymous</title>
-      <link>/anonymous</link>
+      <link>/anonymous.html</link>
       <pubDate>Sun, 06 Mar 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/anonymous</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Desire</title>
-      <link>/desire</link>
+      <link>/desire.html</link>
       <pubDate>Wed, 02 Mar 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/desire</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Newsledge</title>
-      <link>/newsledge</link>
+      <link>/newsledge.html</link>
       <pubDate>Sat, 26 Feb 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/newsledge</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Worlds</title>
-      <link>/worlds</link>
+      <link>/worlds.html</link>
       <pubDate>Thu, 24 Feb 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/worlds</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Institutions</title>
-      <link>/institutions</link>
+      <link>/institutions.html</link>
       <pubDate>Tue, 15 Feb 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/institutions</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Success</title>
-      <link>/success</link>
+      <link>/success.html</link>
       <pubDate>Mon, 31 Jan 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/success</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Faith</title>
-      <link>/faith</link>
+      <link>/faith.html</link>
       <pubDate>Mon, 31 Jan 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/faith</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Failure</title>
-      <link>/failure</link>
+      <link>/failure.html</link>
       <pubDate>Mon, 31 Jan 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/failure</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Beautify</title>
-      <link>/beautify</link>
+      <link>/beautify.html</link>
       <pubDate>Fri, 28 Jan 2011 00:00:00 EET</pubDate>
       <author></author>
       <guid>/beautify</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Times</title>
-      <link>/times</link>
+      <link>/times.html</link>
       <pubDate>Mon, 27 Dec 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/times</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Tactics</title>
-      <link>/tactics</link>
+      <link>/tactics.html</link>
       <pubDate>Wed, 22 Dec 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/tactics</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Assange</title>
-      <link>/assange</link>
+      <link>/assange.html</link>
       <pubDate>Sat, 04 Dec 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/assange</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Healthy Meaninglessness</title>
-      <link>/healthy-meaninglessness</link>
+      <link>/healthy-meaninglessness.html</link>
       <pubDate>Thu, 25 Nov 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/healthy-meaninglessness</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>LSD</title>
-      <link>/lsd</link>
+      <link>/lsd.html</link>
       <pubDate>Sun, 21 Nov 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/lsd</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Innovation</title>
-      <link>/innovation</link>
+      <link>/innovation.html</link>
       <pubDate>Sun, 21 Nov 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/innovation</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Dream</title>
-      <link>/dream</link>
+      <link>/dream.html</link>
       <pubDate>Sat, 16 Oct 2010 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/dream</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>From Dostoevsky To Barabasi</title>
-      <link>/from-dostoevsky-to-barabasi</link>
+      <link>/from-dostoevsky-to-barabasi.html</link>
       <pubDate>Sat, 11 Sep 2010 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/from-dostoevsky-to-barabasi</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Focus / Reflection</title>
-      <link>/focus-reflection</link>
+      <link>/focus-reflection.html</link>
       <pubDate>Wed, 12 May 2010 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/focus-reflection</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Social Network</title>
-      <link>/social-network</link>
+      <link>/social-network.html</link>
       <pubDate>Tue, 11 May 2010 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/social-network</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Name And Profile</title>
-      <link>/name-and-profile</link>
+      <link>/name-and-profile.html</link>
       <pubDate>Thu, 11 Mar 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/name-and-profile</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Hollywood And Internet</title>
-      <link>/hollywood-and-internet</link>
+      <link>/hollywood-and-internet.html</link>
       <pubDate>Thu, 11 Mar 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/hollywood-and-internet</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>There Is No Privacy In Augmented Reality</title>
-      <link>/there-is-no-privacy-in-augmented-reality</link>
+      <link>/there-is-no-privacy-in-augmented-reality.html</link>
       <pubDate>Sun, 07 Mar 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/there-is-no-privacy-in-augmented-reality</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Universe</title>
-      <link>/universe</link>
+      <link>/universe.html</link>
       <pubDate>Sat, 20 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/universe</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Largest Impact Replicator</title>
-      <link>/the-largest-impact-replicator</link>
+      <link>/the-largest-impact-replicator.html</link>
       <pubDate>Sat, 13 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-largest-impact-replicator</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Mecanism Of Existence</title>
-      <link>/the-mecanism-of-existence</link>
+      <link>/the-mecanism-of-existence.html</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-mecanism-of-existence</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Reality Is Attention</title>
-      <link>/reality-is-attention</link>
+      <link>/reality-is-attention.html</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/reality-is-attention</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Eclectic Span Of Attention</title>
-      <link>/eclectic-span-of-attention</link>
+      <link>/eclectic-span-of-attention.html</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/eclectic-span-of-attention</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Brain Race</title>
-      <link>/brain-race</link>
+      <link>/brain-race.html</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/brain-race</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The XXI Century</title>
-      <link>/the-xxi-century</link>
+      <link>/the-xxi-century.html</link>
       <pubDate>Tue, 02 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-xxi-century</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Business Opportunity</title>
-      <link>/business-opportunity</link>
+      <link>/business-opportunity.html</link>
       <pubDate>Tue, 02 Feb 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/business-opportunity</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Wrong Way</title>
-      <link>/wrong-way</link>
+      <link>/wrong-way.html</link>
       <pubDate>Thu, 28 Jan 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/wrong-way</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Greed</title>
-      <link>/greed</link>
+      <link>/greed.html</link>
       <pubDate>Thu, 28 Jan 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/greed</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Freedom</title>
-      <link>/freedom</link>
+      <link>/freedom.html</link>
       <pubDate>Thu, 28 Jan 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/freedom</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Fear</title>
-      <link>/fear</link>
+      <link>/fear.html</link>
       <pubDate>Thu, 28 Jan 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/fear</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Albert Laszlo Barabasi</title>
-      <link>/albert-laszlo-barabasi</link>
+      <link>/albert-laszlo-barabasi.html</link>
       <pubDate>Wed, 27 Jan 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/albert-laszlo-barabasi</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Rational</title>
-      <link>/rational</link>
+      <link>/rational.html</link>
       <pubDate>Mon, 18 Jan 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/rational</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Attention Based Economy</title>
-      <link>/attention-based-economy</link>
+      <link>/attention-based-economy.html</link>
       <pubDate>Mon, 18 Jan 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/attention-based-economy</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Consumerism</title>
-      <link>/consumerism</link>
+      <link>/consumerism.html</link>
       <pubDate>Sun, 17 Jan 2010 00:00:00 EET</pubDate>
       <author></author>
       <guid>/consumerism</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Control</title>
-      <link>/control</link>
+      <link>/control.html</link>
       <pubDate>Sun, 20 Dec 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/control</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Digital Has No Heart</title>
-      <link>/digital-has-no-heart</link>
+      <link>/digital-has-no-heart.html</link>
       <pubDate>Sat, 19 Dec 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/digital-has-no-heart</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Communication</title>
-      <link>/communication</link>
+      <link>/communication.html</link>
       <pubDate>Tue, 15 Dec 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/communication</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Digital Society</title>
-      <link>/the-digital-society</link>
+      <link>/the-digital-society.html</link>
       <pubDate>Fri, 04 Dec 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-digital-society</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Hassan Elahi vs. Netochka Nezvanova</title>
-      <link>/hassan-elahi-netochka-nezvanova</link>
+      <link>/hassan-elahi-netochka-nezvanova.html</link>
       <pubDate>Fri, 04 Dec 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/hassan-elahi-netochka-nezvanova</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>A Way Of Creating And Enjoying Knowledge</title>
-      <link>/a-way-of-creating-and-enjoying-knowledge</link>
+      <link>/a-way-of-creating-and-enjoying-knowledge.html</link>
       <pubDate>Wed, 02 Dec 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/a-way-of-creating-and-enjoying-knowledge</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Canon Of Creating And Enjoying Knowledge</title>
-      <link>/the-canon-of-creating-and-enjoying-knowledge</link>
+      <link>/the-canon-of-creating-and-enjoying-knowledge.html</link>
       <pubDate>Thu, 26 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-canon-of-creating-and-enjoying-knowledge</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>You Are An Email</title>
-      <link>/you-are-an-email</link>
+      <link>/you-are-an-email.html</link>
       <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/you-are-an-email</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Wisdom</title>
-      <link>/wisdom</link>
+      <link>/wisdom.html</link>
       <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/wisdom</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Gratitude & Thanks</title>
-      <link>/gratitude-and-thanks</link>
+      <link>/gratitude-and-thanks.html</link>
       <pubDate>Sat, 07 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/gratitude-and-thanks</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Second Law</title>
-      <link>/the-second-law</link>
+      <link>/the-second-law.html</link>
       <pubDate>Fri, 06 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-second-law</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Most Valuable</title>
-      <link>/the-most-valuable</link>
+      <link>/the-most-valuable.html</link>
       <pubDate>Fri, 06 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/the-most-valuable</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Secondary Values</title>
-      <link>/secondary-values</link>
+      <link>/secondary-values.html</link>
       <pubDate>Fri, 06 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/secondary-values</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Death</title>
-      <link>/death</link>
+      <link>/death.html</link>
       <pubDate>Fri, 06 Nov 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/death</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Trapped Self, Simulation Worlds and Transparency</title>
-      <link>/the-trapped-self-simulation-worlds-and-transparency</link>
+      <link>/the-trapped-self-simulation-worlds-and-transparency.html</link>
       <pubDate>Wed, 14 Oct 2009 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/the-trapped-self-simulation-worlds-and-transparency</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Science, Society and Control — The Structure of Evolution</title>
-      <link>/science-society-and-control-the-structure-of-evolution</link>
+      <link>/science-society-and-control-the-structure-of-evolution.html</link>
       <pubDate>Wed, 14 Oct 2009 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/science-society-and-control-the-structure-of-evolution</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>From Real To Digital?</title>
-      <link>/from-real-to-digital</link>
+      <link>/from-real-to-digital.html</link>
       <pubDate>Mon, 07 Sep 2009 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/from-real-to-digital</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Web Is The Singularity</title>
-      <link>/the-web-is-the-singularity</link>
+      <link>/the-web-is-the-singularity.html</link>
       <pubDate>Sat, 13 Jun 2009 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/the-web-is-the-singularity</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Daily Zeitgeist / Flow</title>
-      <link>/the-daily-zeitgeist</link>
+      <link>/the-daily-zeitgeist.html</link>
       <pubDate>Tue, 28 Apr 2009 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/the-daily-zeitgeist</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Web vs. The State</title>
-      <link>/the-web-vs-the-state</link>
+      <link>/the-web-vs-the-state.html</link>
       <pubDate>Sun, 12 Apr 2009 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/the-web-vs-the-state</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Force come with me</title>
-      <link>/force-come-with-me</link>
+      <link>/force-come-with-me.html</link>
       <pubDate>Mon, 12 Jan 2009 00:00:00 EET</pubDate>
       <author></author>
       <guid>/force-come-with-me</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>Reconstructing The Deconstruction</title>
-      <link>/reconstructing-deconstruction</link>
+      <link>/reconstructing-deconstruction.html</link>
       <pubDate>Fri, 17 Nov 2006 00:00:00 EET</pubDate>
       <author></author>
       <guid>/reconstructing-deconstruction</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>What's Next? A Tribute To Stanislaw Lem</title>
-      <link>/whats-next</link>
+      <link>/whats-next.html</link>
       <pubDate>Wed, 15 Nov 2006 00:00:00 EET</pubDate>
       <author></author>
       <guid>/whats-next</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
     <item>
       <title>The Story Of Time And Surreal Numbers</title>
-      <link>/surreal-numbers</link>
+      <link>/surreal-numbers.html</link>
       <pubDate>Thu, 09 Nov 2006 00:00:00 EET</pubDate>
       <author></author>
       <guid>/surreal-numbers</guid>
-      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+      <description>Liquid error: private method `gsub' called for nil:NilClass</description>
     </item>
     
   </channel> 
