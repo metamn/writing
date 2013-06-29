@@ -4,13 +4,37 @@
 	<title type="text" xml:lang="en">Csongor Bartus. on gust</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2013-06-29T18:17:12+03:00</updated>
+	<updated>2013-06-29T18:47:18+03:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
 	</author>
 	<rights></rights>
 	
+	
+	<entry>
+		<title>Perversion</title>
+		<link href="/perversion.html"/>
+		<updated>2013-06-21T00:00:00+03:00</updated>
+		<id>http:///perversion</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Heroes</title>
+		<link href="/heroes.html"/>
+		<updated>2013-06-06T00:00:00+03:00</updated>
+		<id>http:///heroes</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>One Way</title>
+		<link href="/one-way.html"/>
+		<updated>2012-12-01T00:00:00+02:00</updated>
+		<id>http:///one-way</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
 	
 	<entry>
 		<title>Style</title>
@@ -21,10 +45,26 @@
 	</entry>
 	
 	<entry>
+		<title>Past</title>
+		<link href="/past.html"/>
+		<updated>2012-08-03T00:00:00+03:00</updated>
+		<id>http:///past</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
 		<title>Knowledge</title>
 		<link href="/knowledge.html"/>
 		<updated>2012-08-03T00:00:00+03:00</updated>
 		<id>http:///knowledge</id>
+		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+	</entry>
+	
+	<entry>
+		<title>Hack</title>
+		<link href="/hack.html"/>
+		<updated>2012-08-03T00:00:00+03:00</updated>
+		<id>http:///hack</id>
 		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
 	</entry>
 	

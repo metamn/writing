@@ -8,9 +8,36 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>on gust</description>
     <language>en-us</language>
-    <pubDate>Sat, 29 Jun 2013 18:17:12 EEST</pubDate>
-    <lastBuildDate>Sat, 29 Jun 2013 18:17:12 EEST</lastBuildDate>
+    <pubDate>Sat, 29 Jun 2013 18:47:18 EEST</pubDate>
+    <lastBuildDate>Sat, 29 Jun 2013 18:47:18 EEST</lastBuildDate>
 
+    
+    <item>
+      <title>Perversion</title>
+      <link>/perversion.html</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/perversion</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Heroes</title>
+      <link>/heroes.html</link>
+      <pubDate>Thu, 06 Jun 2013 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/heroes</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>One Way</title>
+      <link>/one-way.html</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 EET</pubDate>
+      <author></author>
+      <guid>/one-way</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
     
     <item>
       <title>Style</title>
@@ -22,11 +49,29 @@
     </item>
     
     <item>
+      <title>Past</title>
+      <link>/past.html</link>
+      <pubDate>Fri, 03 Aug 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/past</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
       <title>Knowledge</title>
       <link>/knowledge.html</link>
       <pubDate>Fri, 03 Aug 2012 00:00:00 EEST</pubDate>
       <author></author>
       <guid>/knowledge</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
+    
+    <item>
+      <title>Hack</title>
+      <link>/hack.html</link>
+      <pubDate>Fri, 03 Aug 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/hack</guid>
       <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
     </item>
     
