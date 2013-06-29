@@ -8,9 +8,18 @@
     <atom:link href="Csongor Bartus/rss.xml" rel="self" type="application/rss+xml" />
     <description>on gust</description>
     <language>en-us</language>
-    <pubDate>Sat, 29 Jun 2013 18:06:37 EEST</pubDate>
-    <lastBuildDate>Sat, 29 Jun 2013 18:06:37 EEST</lastBuildDate>
+    <pubDate>Sat, 29 Jun 2013 18:17:12 EEST</pubDate>
+    <lastBuildDate>Sat, 29 Jun 2013 18:17:12 EEST</lastBuildDate>
 
+    
+    <item>
+      <title>Style</title>
+      <link>/style.html</link>
+      <pubDate>Fri, 03 Aug 2012 00:00:00 EEST</pubDate>
+      <author></author>
+      <guid>/style</guid>
+      <description>Liquid error: undefined method `gsub' for nil:NilClass</description>
+    </item>
     
     <item>
       <title>Knowledge</title>
