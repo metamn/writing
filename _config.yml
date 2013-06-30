@@ -9,9 +9,4 @@ strapline: on gust
 
 
 
-exclude: [config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README, vendor]
-
-assets:
-  compress:
-    js: uglifier
-    css: sass
+exclude: Gemfile Gemfile.lock Procfile config.ru
