@@ -1,2 +1,6 @@
-_site
+_site/*
 
+Thumbs.db
+.DS_Store
+
+!.gitkeep
