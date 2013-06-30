@@ -6,3 +6,12 @@ category_dir: 'on'
 title: Csongor Bartus
 age: 36
 strapline: on gust
+
+
+
+exclude: [config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README, vendor]
+
+assets:
+  compress:
+    js: uglifier
+    css: sass
