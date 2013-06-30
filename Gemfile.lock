@@ -37,5 +37,3 @@ PLATFORMS
 DEPENDENCIES
   RedCloth
   rack-jekyll!
-
-
