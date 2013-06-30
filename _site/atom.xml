@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Csongor Bartus. on gust</title>
 	<link type="application/atom+xml" href="/feed/" rel="self"/>
  	<link type="text" href="" rel="alternate"/>
-	<updated>2013-06-30T09:25:48+03:00</updated>
+	<updated>2013-06-30T09:30:41+03:00</updated>
 	<id></id>
 	<author>
 		<name>Csongor Bartus</name>
@@ -17,7 +17,18 @@
 		<link href="/perversion.html"/>
 		<updated>2013-06-21T00:00:00+03:00</updated>
 		<id>http:///perversion</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Woman are life's pervert beauty.
+&lt;/p&gt;
+&lt;p&gt;
+With their snick mind they fuck everything.
+&lt;/p&gt;
+&lt;p&gt;
+Now what is your perversity in response?
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -25,7 +36,17 @@
 		<link href="/heroes.html"/>
 		<updated>2013-06-06T00:00:00+03:00</updated>
 		<id>http:///heroes</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Are all fascinating and addictive. For a while. Then their egoism destroys all.
+&lt;/p&gt;
+&lt;p&gt;
+They become as small as we are &amp;mdash; even silly &amp;mdash; comparing to the simply smart.
+&lt;/p&gt;
+&lt;p&gt;
+Yes, heroes die lonely.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -33,7 +54,12 @@
 		<link href="/one-way.html"/>
 		<updated>2012-12-01T00:00:00+02:00</updated>
 		<id>http:///one-way</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Only with heart and soul.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -41,7 +67,24 @@
 		<link href="/style.html"/>
 		<updated>2012-08-03T00:00:00+03:00</updated>
 		<id>http:///style</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+We slow down from Big Bang to where there is nothing, just uniformity, no difference, no movement and no potential. To the maximum entropy. 
+&lt;/p&gt;
+&lt;p&gt;
+We tend to become uniform thus nothing. Breaking that rule, moving against the cosmos it was, it is, and it will be highly rewarded by those who are just going with the flow.
+&lt;/p&gt;
+&lt;p&gt;
+Making a difference is against the law of entropy so it costs you.
+The cost you pay with the currency of the universe which is energy.
+&lt;/p&gt;
+&lt;p&gt;
+So what Style is? The sum of energies you’re spending to stay different, unique.
+It’s your own world ruled by your own god.
+&lt;/p&gt;
+&lt;p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -49,7 +92,11 @@
 		<link href="/past.html"/>
 		<updated>2012-08-03T00:00:00+03:00</updated>
 		<id>http:///past</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+  ...like and old romance, without body, but still real...
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -57,7 +104,11 @@
 		<link href="/knowledge-is-personal.html"/>
 		<updated>2012-08-03T00:00:00+03:00</updated>
 		<id>http:///knowledge-is-personal</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+  Knowledge is personal and seeks no generalisation. Knowledge is not common thruth.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -65,7 +116,11 @@
 		<link href="/knowledge.html"/>
 		<updated>2012-08-03T00:00:00+03:00</updated>
 		<id>http:///knowledge</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+  Knowledge is personal and seeks no generalisation. Knowledge is not common thruth.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -73,7 +128,17 @@
 		<link href="/hack.html"/>
 		<updated>2012-08-03T00:00:00+03:00</updated>
 		<id>http:///hack</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Assange created a perpetuum mobile. He hacked first of all our heads.
+&lt;br/&gt; 
+An one man show going global which cannot be stopped.
+&lt;/p&gt;
+&lt;p&gt;
+This is democracy. The culture of —partial— freedom.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -81,7 +146,11 @@
 		<link href="/future.html"/>
 		<updated>2012-07-03T00:00:00+03:00</updated>
 		<id>http:///future</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+  The future already exists. If you really want something to happen think about it as it was already happened in the past.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -89,7 +158,11 @@
 		<link href="/art.html"/>
 		<updated>2012-06-26T00:00:00+03:00</updated>
 		<id>http:///art</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+  Art is the only thing more beautiful than people and perhaps life.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -97,7 +170,12 @@
 		<link href="/three-king-things.html"/>
 		<updated>2012-06-03T00:00:00+03:00</updated>
 		<id>http:///three-king-things</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+There are three things one can really do today: 
+art, science and free physical work.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -105,7 +183,9 @@
 		<link href="/there-are-no-requirements.html"/>
 		<updated>2012-06-03T00:00:00+03:00</updated>
 		<id>http:///there-are-no-requirements</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">
+
+</content>
 	</entry>
 	
 	<entry>
@@ -113,7 +193,12 @@
 		<link href="/letting-go.html"/>
 		<updated>2012-06-03T00:00:00+03:00</updated>
 		<id>http:///letting-go</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+You win a new life each time you loose a quirky person.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -121,7 +206,30 @@
 		<link href="/graphs.html"/>
 		<updated>2012-06-03T00:00:00+03:00</updated>
 		<id>http:///graphs</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Facebook builds the social graph, 
+Google the knowledge graph, 
+Twitter the interest graph, 
+Linkedin your professional graph,
+Amazon you taste graph.
+&lt;/p&gt;
+&lt;p&gt;
+A graph? It’s nothing more than your offline habits and thoughts made digital.
+&lt;/p&gt;
+&lt;p&gt;
+These services are mapping you as a digital object on the information universe called internet.
+&lt;/p&gt;
+&lt;p&gt;
+That’s the point, the quantified self. You’ll be measurable, taggable, computable, programmable.
+&lt;/p&gt;
+&lt;p&gt;
+And yes that’s the knowledge economy: not rising people by making them know but knowing everything about them.
+&lt;/p&gt;
+&lt;p&gt;
+What a twist darling!
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -129,7 +237,13 @@
 		<link href="/gap.html"/>
 		<updated>2012-06-03T00:00:00+03:00</updated>
 		<id>http:///gap</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Older people are living in the past and in the future. 
+They are driven by emotions and feelings, 
+they think with the heart and they do a lot.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -137,7 +251,24 @@
 		<link href="/fast-culture.html"/>
 		<updated>2012-06-03T00:00:00+03:00</updated>
 		<id>http:///fast-culture</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+I was raised exclusively on books no tv, video at all.
+&lt;br/&gt;
+I was reading more books than hours spent watching American, or any culture.
+&lt;/p&gt;
+&lt;p&gt;
+Then I had the chance to spend ten years taking all from Western culture, live or behind the monitor.
+&lt;p&gt;
+When I saw Angels in America (1993, won Pulitzer) 
+I was shocked how close we are. 
+And when I saw Shame (2011, won Venice Film Festival) this came to my mind.
+&lt;/p&gt;
+&lt;p&gt;
+Cultural penetration is incredibly fast. 
+In maximum twenty years the entire world can be converted to Western culture.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -145,7 +276,11 @@
 		<link href="/belief.html"/>
 		<updated>2012-06-03T00:00:00+03:00</updated>
 		<id>http:///belief</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+  In that moment you stop believing it, disappears.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -153,7 +288,12 @@
 		<link href="/anger.html"/>
 		<updated>2012-06-03T00:00:00+03:00</updated>
 		<id>http:///anger</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Put your anger into your work, my son.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -161,7 +301,12 @@
 		<link href="/scent.html"/>
 		<updated>2012-05-03T00:00:00+03:00</updated>
 		<id>http:///scent</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Humour has scent. Scent is style. 
+And as we know the scent is the man […] because humour is worldview.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -169,7 +314,13 @@
 		<link href="/metaprogramming.html"/>
 		<updated>2012-05-03T00:00:00+03:00</updated>
 		<id>http:///metaprogramming</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+It is sad when someone is driven by his thoughts instead of 
+driving his thoughts.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -177,7 +328,22 @@
 		<link href="/after-stress-schizophrenia.html"/>
 		<updated>2012-05-03T00:00:00+03:00</updated>
 		<id>http:///after-stress-schizophrenia</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Fearing future is stress. Not understanding present is schizophrenia.
+&lt;/p&gt;
+&lt;p&gt;
+Marketers call it multitasking but in fact real time 
+young people does not understand what is happening to them.
+&lt;/p&gt;
+&lt;p&gt;
+Lost today is the same, I hope not worse, like it was being afraid of tomorrow.
+&lt;/p&gt;
+&lt;p&gt;
+Existential insecurity just transformed into perceptional insecurity. 
+It seems nothing changes below the line just rhymes.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -185,7 +351,13 @@
 		<link href="/advertising.html"/>
 		<updated>2012-05-03T00:00:00+03:00</updated>
 		<id>http:///advertising</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Advertising is the way we grant power to the machines.
+&lt;/p&gt;
+(via &lt;a href=&quot;http://edge.org/conversation/a-universe-of-self-replicating-code&quot;&gt;Edge&lt;/a&gt;)
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -193,7 +365,34 @@
 		<link href="/overpopulation.html"/>
 		<updated>2012-04-03T00:00:00+03:00</updated>
 		<id>http:///overpopulation</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Today more than half of all internet trafic is generated by non-humans, 
+so called bots.
+&lt;/p&gt;
+&lt;p&gt;
+Starting this year stock is traded by software instead of brokers.
+&lt;/p&gt;
+&lt;p&gt;
+There are bots writing articles and books. 
+Others are reading them, rating them and selling them over Amazon.
+&lt;/p&gt;
+&lt;p&gt;
+Capital and thought are napstered in a strange way. 
+We are who are eliminated in this stack of 
+creation because we are found incumbent by 
+faster evolving intelligent lifeforms.
+&lt;/p&gt;
+&lt;p&gt;
+Spimes, the brainchild of Bruce Sterling are the next big bang. 
+3D printing, drones, quantified selves soon 
+independenly coming alive are all building the internet of things.
+&lt;/p&gt;
+&lt;p&gt;
+Yes we are already overpopulated. Aliens are us.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -201,7 +400,11 @@
 		<link href="/love.html"/>
 		<updated>2012-02-20T00:00:00+02:00</updated>
 		<id>http:///love</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+  Is engagement, commitment, mindset. With something or somebody. Nothing more.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -209,7 +412,22 @@
 		<link href="/digital-samsara.html"/>
 		<updated>2011-12-10T00:00:00+02:00</updated>
 		<id>http:///digital-samsara</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+When you spend too much time with computers you’ll loose the sense of reality.
+Your heart won’t be able anymore to follow your brain. 
+&lt;/p&gt;
+&lt;p&gt;
+Next, your attention will become very narrowed allowing you to focus only on a very few people at once and only on very interesting conversations. 
+&lt;/p&gt;
+&lt;p&gt;
+With other words you’ll become incompatible with life outside your computer. Nothing offline will satisfy you anymore. Because you’ll have too much speed for this very static slow life. 
+&lt;/p&gt;
+&lt;p&gt;
+Humans are far less interesting than creation itself. You can’t create anymore together with your friends.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -217,7 +435,15 @@
 		<link href="/stealing.html"/>
 		<updated>2011-12-08T00:00:00+02:00</updated>
 		<id>http:///stealing</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The mother of all sins.
+&lt;/p&gt;
+&lt;p&gt;
+Taking someone’s time, goodwill, beliefs, joy, work, kidney, hope, life. Or anything else.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -225,7 +451,11 @@
 		<link href="/the-most-powerful.html"/>
 		<updated>2011-07-21T00:00:00+03:00</updated>
 		<id>http:///the-most-powerful</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Mercy is more powerful than law.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -233,7 +463,17 @@
 		<link href="/switch.html"/>
 		<updated>2011-04-23T00:00:00+03:00</updated>
 		<id>http:///switch</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Driven by Rationalism and Power materialism made Selfishness and Arrogance the most 
+worshiped deities.
+&lt;/p&gt;
+&lt;p&gt;
+Driven by Empathy and Modesty post-materialism 
+will made Creativity, Kindness, and Humour the basic skills making our lives better.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -241,7 +481,12 @@
 		<link href="/information.html"/>
 		<updated>2011-04-23T00:00:00+03:00</updated>
 		<id>http:///information</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Ten years ago it represented the status. Now even friends are running away when trying to give them some
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -249,7 +494,15 @@
 		<link href="/lifelines.html"/>
 		<updated>2011-04-12T00:00:00+03:00</updated>
 		<id>http:///lifelines</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The most boring lifeline belongs to politicians and whom they rule.
+&lt;br/&gt;
+Second are engineers with a constant march to the unwanted.
+&lt;br/&gt;
+The best might be for entrepreneurs or whoever goes for the ride.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -257,7 +510,43 @@
 		<link href="/images-are-programs.html"/>
 		<updated>2011-04-11T00:00:00+03:00</updated>
 		<id>http:///images-are-programs</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Today I’ve found Piet, a programming language  where the source code looks like an image.
+&lt;/p&gt;
+&lt;p&gt;
+In other words an image is executable as a program: 
+you run the image with Piet and something happens.
+&lt;/p&gt;
+&lt;p&gt;
+Think QR codes. But instead of black dots there are colors and shapes, and, 
+the information these images encode have some real functionality. Like …
+&lt;/p&gt;
+&lt;p&gt;
+… Anything. Probably with some development Piet can be enhanced to a level where 
+an ordinary image can encode a full website, or web application.
+&lt;/p&gt;
+&lt;p&gt;
+Even more: you could have an avatar encoded with Piet holding all information 
+about you. Who you are, what do you think, what you did in your entire lifetime, 
+and what are you up to.
+&lt;/p&gt;
+&lt;p&gt;
+Now think about yourself as a 3D Piet program. 
+&lt;/p&gt;
+&lt;p&gt;
+And think about Universe as a Piet program. 
+When looking at, running it, it displays itself as we perceive today.
+&lt;/p&gt;
+&lt;p&gt;
+So everything we perceive is a program, nothing more. 
+There is a picture in where we all live.
+&lt;/p&gt;
+&lt;p&gt;
+The existence of that picture is our existence itself.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -265,7 +554,17 @@
 		<link href="/corruption.html"/>
 		<updated>2011-03-27T00:00:00+02:00</updated>
 		<id>http:///corruption</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The Latin verb &lt;em&gt;corruptus&lt;/em&gt; is the past participle of destruction.
+&lt;/p&gt;
+&lt;p&gt;
+Through history we’ve lived mostly together with destruction than without; it seems we have a natural affection to destroy ourselves and the world around.
+&lt;/p&gt;
+&lt;p&gt;
+Yes we are all corrupted. We are all destroyers. As a specie we are done unless we stop destroying.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -273,7 +572,12 @@
 		<link href="/beauty.html"/>
 		<updated>2011-03-19T00:00:00+02:00</updated>
 		<id>http:///beauty</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+That thing worth living and dying for.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -281,7 +585,26 @@
 		<link href="/names.html"/>
 		<updated>2011-03-08T00:00:00+02:00</updated>
 		<id>http:///names</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Hmm ... difficult.
+&lt;/p&gt;
+&lt;p&gt;
+Low quality individuals have some additional terms attached to their names 
+describing their function: President, Maestro, Engineer, Father etc.
+&lt;/p&gt;
+&lt;p&gt;
+They are less individuals and more Functions. Some robots with a special feature, 
+destination.
+&lt;/p&gt;
+&lt;p&gt;
+The function is stronger than the individual itself, moreover the individual lets, by free will, even more by Desire, the function to take over (a part of) its life.
+&lt;/p&gt;
+&lt;p&gt;
+Since the function lives in many individuals it is stronger than the 
+individual, and the sum of individuals where it is present.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -289,7 +612,12 @@
 		<link href="/anonymous.html"/>
 		<updated>2011-03-06T00:00:00+02:00</updated>
 		<id>http:///anonymous</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+I am not a product!
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -297,7 +625,21 @@
 		<link href="/desire.html"/>
 		<updated>2011-03-02T00:00:00+02:00</updated>
 		<id>http:///desire</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The completely wrong way; It is the most life and energy consuming thing on Earth.
+&lt;/p&gt;
+&lt;p&gt;
+It has many destinations. Fame, knowledge, beauty, sex, money, freedom.
+&lt;/p&gt;
+&lt;p&gt;
+Those who desire will never get it. Or they will get it with a collateral damage making not worth it.
+&lt;/p&gt;
+&lt;p&gt;
+Remember there is no Me who can have desires. There is Desire who can have — unfortunately — many Mes, us, just those usual guys trapped in this (fucking) simulacra.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -305,7 +647,24 @@
 		<link href="/newsledge.html"/>
 		<updated>2011-02-26T00:00:00+02:00</updated>
 		<id>http:///newsledge</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Newsledge is a multi-faceted tool because it knows everything about you.
+&lt;/p&gt;
+&lt;p&gt;
+You can name it Your Personal Search Engine, Your Mind Rate Monitor, Your Own Flow Engine, or Your Quantified Meta Self.
+&lt;/p&gt;
+&lt;p&gt;
+It makes you a Metaman, it makes your digital ego and echo visible, visualisable, analysable and understandable.
+&lt;/p&gt;
+&lt;p&gt;
+Without Newsledge you are a simple consumer with no feedback and knowledge distilled by your — more and more obvious — digital existence.
+&lt;/p&gt;
+&lt;p&gt;
+It is your power, reputation, attention in one place. So guard it with your life.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -313,7 +672,17 @@
 		<link href="/worlds.html"/>
 		<updated>2011-02-24T00:00:00+02:00</updated>
 		<id>http:///worlds</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+There is an outer world, shiny, and projected from above. It’s currency is light, spotlight, fame.
+&lt;/p&gt;
+&lt;p&gt;
+It is built on a huge mass, chaotic dark matter, fueled by just simple attention without focus — waste for more.
+&lt;/p&gt;
+&lt;p&gt;
+Corruption, in Latin, is continuous never ending destruction.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -321,7 +690,23 @@
 		<link href="/institutions.html"/>
 		<updated>2011-02-15T00:00:00+02:00</updated>
 		<id>http:///institutions</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Nobody thought the conquer of capitalism over socialism will have a drawback, kickback, revenge.
+&lt;/p&gt;
+&lt;p&gt;
+Here at East everything was institutionalised even life. 
+The revolution, in fact, was about changing these institutions. 
+&lt;/p&gt;
+&lt;p&gt;
+Now, after 20 years all Western institutions are napstered or under fire.
+&lt;/p&gt;
+&lt;p&gt;
+It seems the change was not about ideologies but &lt;em&gt;structures&lt;/em&gt;, and not
+from west to east but vice versa.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -329,7 +714,16 @@
 		<link href="/success.html"/>
 		<updated>2011-01-31T00:00:00+02:00</updated>
 		<id>http:///success</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Free spirit and mind in modern behavior.
+&lt;br/&gt;
+Clear ideas executed fast and simple.
+&lt;br/&gt;
+Awake in present.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -337,7 +731,17 @@
 		<link href="/faith.html"/>
 		<updated>2011-01-31T00:00:00+02:00</updated>
 		<id>http:///faith</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+When you know success and failure are both temporary.
+&lt;/p&gt;
+&lt;p&gt;
+Presence is just temporary.
+&lt;br/&gt;
+Everything is Temporary.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -345,7 +749,12 @@
 		<link href="/failure.html"/>
 		<updated>2011-01-31T00:00:00+02:00</updated>
 		<id>http:///failure</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Not being present.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -353,7 +762,20 @@
 		<link href="/beautify.html"/>
 		<updated>2011-01-28T00:00:00+02:00</updated>
 		<id>http:///beautify</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+People are beautifying their lives automagically driven by a basic instinct. The everyday people’s life is so unbearingly gray — they must hallucinate to keep up for the next step.
+&lt;/p&gt;
+&lt;p&gt;
+Aristocracy — the single cast meant for a decent life — meantime stays shady more than ever.
+&lt;/p&gt;
+&lt;p&gt;
+The art of living cannot be learned anymore. We have no visible examples around.
+&lt;/p&gt;
+&lt;p&gt;
+Before the net will turn us into empty bots everybody should read at least one essay from Lyudmila Ulitskaya.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -361,7 +783,38 @@
 		<link href="/times.html"/>
 		<updated>2010-12-27T00:00:00+02:00</updated>
 		<id>http:///times</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+There are at least two types of time: the one we all know — with past 
+and future — and another, called present, 
+the moment when everything is happening.
+&lt;/p&gt;
+&lt;p&gt;
+Stephen Hawking showed us the linear time is finite — started about 15bn 
+years ago and having an end somewhere. And he also says physics — thus 
+humans in a physical universe — have less sense in a finite spacetime.
+&lt;/p&gt;
+&lt;p&gt;
+Physics managed to solve this problem by transforming the finite 
+spacetime to something infinite like the surface of our planet by 
+adding a new kind of time, an imaginary one.
+&lt;/p&gt;
+&lt;p&gt;
+This imaginary time has a completely different nature and direction 
+than the real time. It is not about the far past and the far future but 
+the endless possibilities one has in the present.
+&lt;/p&gt;
+&lt;p&gt;
+Imaginary time moves up and down instead of back and forth. 
+It may be your mood for a given moment. 
+Your level of spirit at a certain time.
+&lt;/p&gt;
+&lt;p&gt;
+It is strange the path physics walked through centuries: 
+by researching the real life and existence they’ve come to add an 
+imaginary dimension to the rescue.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -369,7 +822,36 @@
 		<link href="/tactics.html"/>
 		<updated>2010-12-22T00:00:00+02:00</updated>
 		<id>http:///tactics</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Everybody has a goal in life. 
+Some attach a strategy to help it happen. 
+Few have the ability — tactics — to realise.
+&lt;/p&gt;
+&lt;p&gt;
+Goals worth nothing because anybody can have any. 
+Strategy is put higher — not anybody can do proper planning.
+&lt;/p&gt;
+&lt;p&gt;
+Moreover it turns out planning is obsolete. Plans are not realizable due to their disconnected nature from reality.
+&lt;/p&gt;
+&lt;p&gt;
+Goals, plans and strategy are pure thoughts distorted during execution by the unforeseen.
+&lt;/p&gt;
+&lt;p&gt;
+So it’s all about tactics. And when you build from bottom up — as everything in this century — strategy and goals become useless.
+&lt;/p&gt;
+&lt;p&gt;
+Pure tactics without strategy requires huge life experience, sharp 
+instincts and slim lifestyle. You have to be caught in the present. 
+Not worrying about past and future.
+&lt;/p&gt;
+&lt;p&gt;
+A mastery few achieved, we migh think. 
+But there are many, unknown everyday ‘heroes’.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -377,7 +859,20 @@
 		<link href="/assange.html"/>
 		<updated>2010-12-04T00:00:00+02:00</updated>
 		<id>http:///assange</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The first hacker in the modern history who napstered global politics.
+&lt;/p&gt;
+&lt;p&gt;
+Effects will be similar like in the music, airlines and telecom industry. Politics will be forced to cut the bullshit and strip down to the basics.
+&lt;/p&gt;
+&lt;p&gt;
+Currently there is no obsolete power structure left un-napstered, politics was the last standing man.
+&lt;/p&gt;
+&lt;p&gt;
+In our scale-free networks future everybody will have to work for the money, even the state and the capital, moreover, every entity must collaborate to form an ecosystem whom only god is Progress.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -385,7 +880,10 @@
 		<link href="/healthy-meaninglessness.html"/>
 		<updated>2010-11-25T00:00:00+02:00</updated>
 		<id>http:///healthy-meaninglessness</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">Is the biggest luxury one can afford on Earth.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -393,7 +891,11 @@
 		<link href="/lsd.html"/>
 		<updated>2010-11-21T00:00:00+02:00</updated>
 		<id>http:///lsd</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Has the highest price tag of all things on Earth.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -401,7 +903,10 @@
 		<link href="/innovation.html"/>
 		<updated>2010-11-21T00:00:00+02:00</updated>
 		<id>http:///innovation</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">Innovation without execution is hallucination.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -409,7 +914,10 @@
 		<link href="/dream.html"/>
 		<updated>2010-10-16T00:00:00+03:00</updated>
 		<id>http:///dream</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">When you don’t dream in fact you are living a previous dream you've dreamed to life.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -417,7 +925,11 @@
 		<link href="/from-dostoevsky-to-barabasi.html"/>
 		<updated>2010-09-11T00:00:00+03:00</updated>
 		<id>http:///from-dostoevsky-to-barabasi</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;blockquote&gt;
+Science itself will teach man (though to my mind it’s a superfluous luxury) that he never has really had any caprice or will of his own, and that he himself is something of the nature of a piano-key or the stop of an organ.
+&lt;/blockquote&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -425,7 +937,21 @@
 		<link href="/focus-reflection.html"/>
 		<updated>2010-05-12T00:00:00+03:00</updated>
 		<id>http:///focus-reflection</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Facebook is focusing on privacy, Twitter on data and openness, Tumblr on usability and experience.
+&lt;/p&gt;
+&lt;p&gt;
+How all these associations are reflecting on you?
+&lt;/p&gt;
+&lt;p&gt;
+The first probably bothers you, the second might appear interesting, exciting to you, the third gives you satisfaction.
+&lt;/p&gt;
+&lt;p&gt;
+If I were Venture Capitalist I would invest guided by the feelings a service reflects on its consumers, rather than on rational business figures and endless financial sheets, as were in the old times.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -433,7 +959,10 @@
 		<link href="/social-network.html"/>
 		<updated>2010-05-11T00:00:00+03:00</updated>
 		<id>http:///social-network</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">This whole social network internet is just a smoking pause.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -441,7 +970,23 @@
 		<link href="/name-and-profile.html"/>
 		<updated>2010-03-11T00:00:00+02:00</updated>
 		<id>http:///name-and-profile</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+In war under heavy pressure soldiers are asked for 
+&lt;blockquote&gt;
+Name and rank
+&lt;/blockquote&gt;
+to check their physical integrity. If one fails the identity test he or she will be 
+taken down immediately.
+&lt;/p&gt;
+&lt;p&gt;
+If you don’t know who you are you can be anything or you can be taken over by anyone.
+&lt;/p&gt;
+&lt;p&gt;
+Netizens don’t have rank but sooner or later they will have to have a public profile.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -449,7 +994,14 @@
 		<link href="/hollywood-and-internet.html"/>
 		<updated>2010-03-11T00:00:00+02:00</updated>
 		<id>http:///hollywood-and-internet</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The century of America literally killed all that part of the human &lt;em&gt;spirit&lt;/em&gt; which is not tied to fear or to pragmatism.
+&lt;/p&gt;
+&lt;p&gt;
+This second century of America will literally kill all human &lt;em&gt;life&lt;/em&gt; which won’t be tied to fear or to pragmatism.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -457,7 +1009,33 @@
 		<link href="/there-is-no-privacy-in-augmented-reality.html"/>
 		<updated>2010-03-07T00:00:00+02:00</updated>
 		<id>http:///there-is-no-privacy-in-augmented-reality</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Imagine every important object you touch will be connected to the internet.
+&lt;/p&gt;
+&lt;p&gt;
+And it will be optimised to serve you the fastest way possible by knowing you, your habits.
+&lt;/p&gt;
+&lt;p&gt;
+Even when you’ll relax on your couch and listening to your music 
+everything you sense will be fed into the machine to serve you better.
+&lt;/p&gt;
+&lt;p&gt;
+Do you need this? Can you relax right now laying on your couch and listening to 
+your music without being fed into something to serve you better?
+&lt;/p&gt;
+&lt;p&gt;
+What is the name &amp;mdash; tell me right now! &amp;mdash; of that thing who knows everything about you, 
+about humanity and the surrounding environment?
+&lt;/p&gt;
+&lt;p&gt;
+Yes. Until now God was invisible thus questionable thus acceptable.
+&lt;/p&gt;
+&lt;p&gt;
+But now we can see the clouds from where a visible thus unquestionable thus unacceptable God will soon arrive into our everyday life.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -465,7 +1043,10 @@
 		<link href="/universe.html"/>
 		<updated>2010-02-20T00:00:00+02:00</updated>
 		<id>http:///universe</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">Uni verse is one rhythm.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -473,7 +1054,17 @@
 		<link href="/the-largest-impact-replicator.html"/>
 		<updated>2010-02-13T00:00:00+02:00</updated>
 		<id>http:///the-largest-impact-replicator</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+It would be interesting to analyse which replicator has the largest impact on life and universe.
+&lt;/p&gt;
+&lt;p&gt;
+The building blocks of matter, the genes of life, the memes of culture, or the capital of prosperity.
+&lt;/p&gt;
+&lt;p&gt;
+It would be an interesting analysis to discover how they relate, what makes them living together, how they compete and collaborate, where all these will head.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -481,7 +1072,34 @@
 		<link href="/the-mecanism-of-existence.html"/>
 		<updated>2010-02-06T00:00:00+02:00</updated>
 		<id>http:///the-mecanism-of-existence</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+We know from quantum physics every object starts to exist when it is started to be watched, analysed.
+&lt;/p&gt;
+&lt;p&gt;
+In the same way in our life things are starting to exist when we are starting to 
+pay attention to them. And the strength of their existence depends on the amount of attention they are getting.
+&lt;/p&gt;
+&lt;p&gt;
+Proven is that those objects which are not under observation  
+are in the state of their superposition — having all their values, 
+characteristics and properties co-existing in silence.
+&lt;/p&gt;
+&lt;p&gt;
+The world around us can have any facets we could ever imagine. 
+We build the world around with our attention, focus. The most focused things will become the most lively ones.
+&lt;/p&gt;
+&lt;p&gt;
+The larger the community the stronger the reality it is projecting.
+&lt;/p&gt;
+&lt;p&gt;
+If you are watching TV news about war, diseases, corrupt politicians — the world will become as projected from behind.
+&lt;/p&gt;
+&lt;p&gt;
+If you spend time making it better and get others help you — it could show that face you want to see.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -489,7 +1107,21 @@
 		<link href="/reality-is-attention.html"/>
 		<updated>2010-02-06T00:00:00+02:00</updated>
 		<id>http:///reality-is-attention</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Time is the most valuable non-renewable, infinite resource our world has.
+&lt;/p&gt;
+&lt;p&gt;
+Attention is when a portion of time is taken by an individual.
+&lt;/p&gt;
+&lt;p&gt;
+Attention transforms time into energy. If you spend it admiring Tom Cruise you will become less and he will become more.
+&lt;/p&gt;
+&lt;p&gt;
+Reality is built on the energies of people spending attention.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -497,7 +1129,15 @@
 		<link href="/eclectic-span-of-attention.html"/>
 		<updated>2010-02-06T00:00:00+02:00</updated>
 		<id>http:///eclectic-span-of-attention</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+People who are really living the life are eclectic. They have their own rhythm, schedule, not constrained by external events.
+&lt;/p&gt;
+&lt;p&gt;
+Each activity on the schedule takes as much time is needed, important is to catch the flow, not to be forced to span the attention elsewhere.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -505,7 +1145,18 @@
 		<link href="/brain-race.html"/>
 		<updated>2010-02-06T00:00:00+02:00</updated>
 		<id>http:///brain-race</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Often you might catch yourself — your brain — processing ideas, events, goals, tasks, desires, feelings on an unimaginable speed.
+&lt;/p&gt;
+&lt;p&gt;
+This frantic race has a goal. This is when the biggest ideas are coming out.
+&lt;/p&gt;
+&lt;p&gt;
+Don’t be afraid letting your mind running wildly free.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -513,7 +1164,30 @@
 		<link href="/the-xxi-century.html"/>
 		<updated>2010-02-02T00:00:00+02:00</updated>
 		<id>http:///the-xxi-century</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Scientists will discover the hidden pattern behind everything you do.
+&lt;/p&gt;
+&lt;p&gt;
+Meantime on the internet you'll share everything you think you do.
+&lt;/p&gt;
+&lt;p&gt;
+Instead of making Power transparent you will become all visible to them.
+&lt;/p&gt;
+&lt;p&gt;
+Augmented reality will be the next simulacra in which all you do and planning to do 
+will be under total control by others.
+&lt;/p&gt;
+&lt;p&gt;
+You won’t change as times are changing. You’ll just blindly enjoy technology.
+&lt;/p&gt;
+&lt;p&gt;
+You'll work 1 hour/day. 
+You'll play the next seven. 
+The new reality will make sure you are just a doll resting in peace.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -521,7 +1195,10 @@
 		<link href="/business-opportunity.html"/>
 		<updated>2010-02-02T00:00:00+02:00</updated>
 		<id>http:///business-opportunity</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">Microsoft doesn’t know web. Google doesn’t know social. Facebook doesn’t know privacy.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -529,7 +1206,10 @@
 		<link href="/wrong-way.html"/>
 		<updated>2010-01-28T00:00:00+02:00</updated>
 		<id>http:///wrong-way</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">When you have to lie to yourself.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -537,7 +1217,10 @@
 		<link href="/greed.html"/>
 		<updated>2010-01-28T00:00:00+02:00</updated>
 		<id>http:///greed</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">When something you like hurts you.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -545,7 +1228,10 @@
 		<link href="/freedom.html"/>
 		<updated>2010-01-28T00:00:00+02:00</updated>
 		<id>http:///freedom</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">When you don’t have to lie. To nobody.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -553,7 +1239,10 @@
 		<link href="/fear.html"/>
 		<updated>2010-01-28T00:00:00+02:00</updated>
 		<id>http:///fear</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">Holes in your integrity.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -561,7 +1250,23 @@
 		<link href="/albert-laszlo-barabasi.html"/>
 		<updated>2010-01-27T00:00:00+02:00</updated>
 		<id>http:///albert-laszlo-barabasi</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The century of the self was driven by Freud’s theories and ended up with the lifestyle business — the full control of our desires.
+&lt;/p&gt;
+&lt;p&gt;
+Barabási now invents the science of objectively understand and measure people, humanity.
+&lt;/p&gt;
+&lt;p&gt;
+This will spark the control of behavior. 
+If the century begins — after the total control of unconscious — with the control 
+of conscious, how it will end?
+&lt;/p&gt;
+&lt;p&gt;
+Who will need our souls? Anymore?
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -569,7 +1274,22 @@
 		<link href="/rational.html"/>
 		<updated>2010-01-18T00:00:00+02:00</updated>
 		<id>http:///rational</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The conquest of the irrational, to satisfy all desires, is over. It is too far to dare.
+&lt;/p&gt;
+&lt;p&gt;
+The era of the rational just started and will be over when people will realize it is too big to know.
+&lt;/p&gt;
+&lt;p&gt;
+Once we’ll all want less the evolution will be surprised. Good for us until then the Internet will replace our world and the programs will replace us.
+&lt;/p&gt;
+&lt;p&gt;
+Evolution will go on, and we will be like monkeys in the zoo. Relaxed and having fun, finally.
+&lt;/p&gt;
+&lt;p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -577,7 +1297,11 @@
 		<link href="/attention-based-economy.html"/>
 		<updated>2010-01-18T00:00:00+02:00</updated>
 		<id>http:///attention-based-economy</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+After satisfying all your unconscious desires the next target is your mind, the collective conscious.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -585,7 +1309,11 @@
 		<link href="/consumerism.html"/>
 		<updated>2010-01-17T00:00:00+02:00</updated>
 		<id>http:///consumerism</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Is a way of giving people the illusion of control. It is not the people in charge, it is their desires in charge and all their desires are filled by products.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -593,7 +1321,11 @@
 		<link href="/control.html"/>
 		<updated>2009-12-20T00:00:00+02:00</updated>
 		<id>http:///control</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+If you name it you control it. Who names you controls you. Everything is about control. Neither you should be controlled nor in control.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -601,7 +1333,33 @@
 		<link href="/digital-has-no-heart.html"/>
 		<updated>2009-12-19T00:00:00+02:00</updated>
 		<id>http:///digital-has-no-heart</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Information and Knowledge Economy is about the reason, the rational, the singularity toward moves is the digital brain.
+&lt;/p&gt;
+&lt;p&gt;
+People riding the knowledge wave are spending huge energies to create it — living on the bleeding edge of technology sacrifices almost all offline, real world presence.
+&lt;/p&gt;
+&lt;p&gt;
+Humans are pre-conditioned to think both with the mind and the soul, to sense both the rational and beyond, to use all available senses when gathering life experiences.
+&lt;/p&gt;
+&lt;p&gt;
+Digital life simplifies all these by dealing only with the mind.
+&lt;/p&gt;
+&lt;p&gt;
+During transition digital workers will loose their sense of reality, their capability to think with the heart, to realise the presence of the irrational in rational.
+&lt;/p&gt;
+&lt;p&gt;
+The new universe will be completely transparent in meanings of having no hidden dimensions, no need of other senses than the brain.
+&lt;/p&gt;
+&lt;p&gt;
+Irrational will be conditioned only by (the brain) capacity not by integrity, oneness and awareness.
+&lt;/p&gt;
+&lt;p&gt;
+Soon the heart won’t be needed anymore.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -609,7 +1367,35 @@
 		<link href="/communication.html"/>
 		<updated>2009-12-15T00:00:00+02:00</updated>
 		<id>http:///communication</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+In real life when talking to someone we heavily influence each 
+other — even more — the person we are talking to acts like a mirror, 
+a reflection of our self, driving and defining our entire existence during the interaction.
+&lt;/p&gt;
+&lt;p&gt;
+Maybe we see, feel, sense more than we simply hear.
+&lt;/p&gt;
+&lt;p&gt;
+Talking to someone first of all starts with building, connecting, and syncing channels — the medium such way created will be added to the message.
+&lt;/p&gt;
+&lt;p&gt;
+Many times the subject, the content of the talk does not simply matters, it matters only the context, to enjoy the created conversational aura.
+&lt;/p&gt;
+&lt;p&gt;
+Digital communication is much simpler and poorer.
+&lt;/p&gt;
+&lt;p&gt;
+It’s ubiquitous and instant — no efforts needed to meet someone — so very noisy.
+&lt;/p&gt;
+&lt;p&gt;
+The medium is already given — no need to add personal touch — so very distant.
+&lt;/p&gt;
+&lt;p&gt;
+Using digital communication to replace personal contacts will make us noisy and distant. Using for dealing with technical and professional issues will make us more performant.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -617,7 +1403,11 @@
 		<link href="/the-digital-society.html"/>
 		<updated>2009-12-04T00:00:00+02:00</updated>
 		<id>http:///the-digital-society</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Near future is about digitally cloning yourself, creating alter egos living their own life on the net.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -625,7 +1415,16 @@
 		<link href="/hassan-elahi-netochka-nezvanova.html"/>
 		<updated>2009-12-04T00:00:00+02:00</updated>
 		<id>http:///hassan-elahi-netochka-nezvanova</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Hasan Elahi had to provide full online transparency of his every action and 
+whereabouts to be let live the offline life he desired. 
+&lt;/p&gt;
+&lt;p&gt;
+Netochka fooled everybody about her offline identity so she could live any online life she wanted without consequences.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -633,7 +1432,11 @@
 		<link href="/a-way-of-creating-and-enjoying-knowledge.html"/>
 		<updated>2009-12-02T00:00:00+02:00</updated>
 		<id>http:///a-way-of-creating-and-enjoying-knowledge</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Find the best sources. Combine with your existing knowledge, arrange to your mind map. Format in such way it can grow. Add your secret ingredients, compose in such way it touches harmony. Enjoy the beauty and the force of the creation you are part of.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -641,7 +1444,27 @@
 		<link href="/the-canon-of-creating-and-enjoying-knowledge.html"/>
 		<updated>2009-11-26T00:00:00+02:00</updated>
 		<id>http:///the-canon-of-creating-and-enjoying-knowledge</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The way creation follows is an universal rule. The universe, the Greek drama, Shakespeare, all creators and you are driven by these steps. This is the canon of creating and enjoying knowledge.
+&lt;/p&gt;
+&lt;p&gt;
+First comes the hard work to conquer your fear to meet the unknown, to stop ignoring things that matter, to be able to sense the noise, to start feeding yourself with source you consider valuable.
+&lt;/p&gt;
+&lt;p&gt;
+After the fear comes the acceptance once you’ve created usable interfaces to the unknown. You’ve already identified your heroes, leaders, points to follow on the subject. Noise is filtered into signal and you’ll start learning by combination and logistics.
+&lt;/p&gt;
+&lt;p&gt;
+You’ll gain self confidence by becoming able to share. You are now part of a culture you are proud of, an accepted member of a tribe — your reasoning has finally an echo. Your format strengthens, your growth started.
+&lt;/p&gt;
+&lt;p&gt;
+Once you are able to use what you are — you become master to, intelligent to your environment. You are part of the revolution your tribe is aiming for,  you are a creator in harmony with your goals and your achievements.
+&lt;/p&gt;
+&lt;p&gt;
+This is called love, evolution, progress as everyone desires, the all wanted flow, the beauty and the force of knowledge.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -649,7 +1472,15 @@
 		<link href="/you-are-an-email.html"/>
 		<updated>2009-11-07T00:00:00+02:00</updated>
 		<id>http:///you-are-an-email</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Email is your digital self, your identity shell in the digital life.
+&lt;/p&gt;
+&lt;p&gt;
+Guard it with your life. Build as many digital egos you like but keep your self clean.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -657,7 +1488,10 @@
 		<link href="/wisdom.html"/>
 		<updated>2009-11-07T00:00:00+02:00</updated>
 		<id>http:///wisdom</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">To know but to not take.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -665,7 +1499,10 @@
 		<link href="/gratitude-and-thanks.html"/>
 		<updated>2009-11-07T00:00:00+02:00</updated>
 		<id>http:///gratitude-and-thanks</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">The outmost one can give and get is gratitude and thanks.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -673,7 +1510,15 @@
 		<link href="/the-second-law.html"/>
 		<updated>2009-11-06T00:00:00+02:00</updated>
 		<id>http:///the-second-law</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The first we all know: “Know yourself”. 
+&lt;/p&gt;
+&lt;p&gt;
+The second is: “Do everything in reason”. With measure and by moderating yourself.
+&lt;/p&gt;
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -681,7 +1526,10 @@
 		<link href="/the-most-valuable.html"/>
 		<updated>2009-11-06T00:00:00+02:00</updated>
 		<id>http:///the-most-valuable</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">The most valuable it was, it is and it will be the life experience.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -689,7 +1537,11 @@
 		<link href="/secondary-values.html"/>
 		<updated>2009-11-06T00:00:00+02:00</updated>
 		<id>http:///secondary-values</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">Secondary values are building your self, the inner; 
+The world flashing shines your ego only.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -697,7 +1549,10 @@
 		<link href="/death.html"/>
 		<updated>2009-11-06T00:00:00+02:00</updated>
 		<id>http:///death</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">One day you’ll have to give up your most loved drug, hobby and life.
+
+
+</content>
 	</entry>
 	
 	<entry>
@@ -705,7 +1560,14 @@
 		<link href="/the-trapped-self-simulation-worlds-and-transparency.html"/>
 		<updated>2009-10-14T00:00:00+03:00</updated>
 		<id>http:///the-trapped-self-simulation-worlds-and-transparency</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+&lt;blockquote&gt;
+Give me a stable point and I’ll dislodge the world. (Socrates)
+&lt;/blockquote&gt;
+And we have that point.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -713,7 +1575,15 @@
 		<link href="/science-society-and-control-the-structure-of-evolution.html"/>
 		<updated>2009-10-14T00:00:00+03:00</updated>
 		<id>http:///science-society-and-control-the-structure-of-evolution</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Watching recently BBC’s documentary 
+&lt;blockquote&gt;
+The Century of the Self (2002) 
+&lt;/blockquote&gt;
+shed some light on how strongly scientific discoveries, socio-cultural evolution, and, the power and control structures are working together to advance civilisation.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -721,7 +1591,11 @@
 		<link href="/from-real-to-digital.html"/>
 		<updated>2009-09-07T00:00:00+03:00</updated>
 		<id>http:///from-real-to-digital</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Since inception internet was meant to deconstruct the existing real world barriers between humans. It brought people closer by eliminating the layers on which power structures were built. Making control transparent let human culture to evolve faster than whenever before in the history.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -729,7 +1603,10 @@
 		<link href="/the-web-is-the-singularity.html"/>
 		<updated>2009-06-13T00:00:00+03:00</updated>
 		<id>http:///the-web-is-the-singularity</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Visionaries of our time are propheting the Singularity is near. They are waiting for a superintelligence, something transhuman and something wrong:
+
+</content>
 	</entry>
 	
 	<entry>
@@ -737,7 +1614,13 @@
 		<link href="/the-daily-zeitgeist.html"/>
 		<updated>2009-04-28T00:00:00+03:00</updated>
 		<id>http:///the-daily-zeitgeist</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Keeping yourself updated with the news, getting on the flow is not easy today. 
+Finding a healthy balance between your &lt;em&gt;input&lt;/em&gt; 
+— acquiring knowledge — and &lt;em&gt;output&lt;/em&gt; — creating knowledge — is the key to your success.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -745,7 +1628,11 @@
 		<link href="/the-web-vs-the-state.html"/>
 		<updated>2009-04-12T00:00:00+03:00</updated>
 		<id>http:///the-web-vs-the-state</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+The current crisis is more about the state than about the financial system and the web has the potential to became the infrastructure, the foundation for the upcoming systems replacing state and capitalism.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -753,7 +1640,13 @@
 		<link href="/force-come-with-me.html"/>
 		<updated>2009-01-12T00:00:00+02:00</updated>
 		<id>http:///force-come-with-me</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+When young &amp; restless everybody should look forward to discover and 
+understand the world around, as 
+{% assign person = page.people[0] %} {% include people.html %} says, to create an equilibrium between the universe — the many things around — and the self — the individual, the one-and-only.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -761,7 +1654,12 @@
 		<link href="/reconstructing-deconstruction.html"/>
 		<updated>2006-11-17T00:00:00+02:00</updated>
 		<id>http:///reconstructing-deconstruction</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+ &lt;a title=&quot;What's next? A Tribute to Stanislaw Lem&quot; href=&quot;/whats-next&quot;&gt;Stanislaw Lem’s major concern&lt;/a&gt; about this &lt;em&gt;new&lt;/em&gt; future was the missing of a moral canon, 
+ a belief system upon the new culture can be built. 
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -769,7 +1667,14 @@
 		<link href="/whats-next.html"/>
 		<updated>2006-11-15T00:00:00+02:00</updated>
 		<id>http:///whats-next</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+It’s not easy to describe
+{% assign person = page.people[0] %} {% include people.html %}
+&amp;mdash; to summarise his heritage to the world. But one thing is sure: he was a visionary strategist and a 
+scholar spanning over multiple fields of science.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 	<entry>
@@ -777,7 +1682,11 @@
 		<link href="/surreal-numbers.html"/>
 		<updated>2006-11-09T00:00:00+02:00</updated>
 		<id>http:///surreal-numbers</id>
-		<content type="html">Liquid error: undefined method `gsub' for nil:NilClass</content>
+		<content type="html">&lt;p&gt;
+Surreal numbers are the sweetest story of everything, especially of time.
+&lt;/p&gt;
+
+</content>
 	</entry>
 	
 </feed>
