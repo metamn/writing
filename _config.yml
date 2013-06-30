@@ -9,4 +9,4 @@ strapline: on gust
 
 
 
-exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
+exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
