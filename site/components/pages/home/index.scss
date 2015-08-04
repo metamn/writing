@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    @include figure($figcaption: from-title);
+    padding: 2em;
+  }
+}

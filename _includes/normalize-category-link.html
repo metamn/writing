@@ -1,8 +1,0 @@
-{% if punctuation == _blank %}
-  {% assign punctuation = '.' %}
-{% endif %}
-
-<a title="See more from {{ item | titleize }}" 
-  href="/{{ site.category_dir }}/{{ item | downcase | replace:' ', '-' }}">
-  {{ item | titleize }}</a>{{ punctuation }}
-
