@@ -1,0 +1,9 @@
+// Uppercase
+//
+// Uppercase text. Letters inside an uppercase text have larger letter spacing for better readability.
+//
+// Styleguide uppercase
+@mixin uppercase($letter-spacing) {
+  text-transform: uppercase;
+  letter-spacing: $letter-spacing;
+}

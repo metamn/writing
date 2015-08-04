@@ -1,0 +1,25 @@
+// Link
+//
+// Simple link styling. By default no underline just differentiation by style.
+// Links inside a long text are decorated with an underline, inactive menu items are marked with a line-through.
+//
+// Styleguide link
+@mixin link($color-scheme: none, $type: none) {
+  text-decoration: none;
+  
+  @if ($color-scheme != none) {
+    @include colors($color-scheme);
+  }
+
+  @if ($type == flip) {
+    @include link--flip;
+  }
+
+  @if ($type == line-through) {
+    @include link--line-through;
+  }
+
+  @if ($type == underline) {
+    @include link--underline;
+  }
+}

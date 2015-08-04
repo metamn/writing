@@ -1,23 +1,4 @@
-
-
-
-<!doctype html>
-<html lang="en" class=" ">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-    <title> &mdash; Writing</title>
-
-    <script src="//use.typekit.net/wrb3hlx.js"></script>
-    <script>try{Typekit.load();}catch(e){}</script>
-
-    <link href="/assets/styles/site.css" media="screen, projection" rel="stylesheet" type="text/css" />
-
-    <!-- Picturefill Responsive Images -->
-    <script async src="/assets/scripts/picturefill.min.js"></script>
-
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://metamn.io/assets/images/icons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://metamn.io/assets/images/icons/apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://metamn.io/assets/images/icons/apple-touch-icon-114x114.png" />
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://metamn.io/assets/images/icons/apple-touch-icon-72x72.png" />
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://metamn.io/assets/images/icons/apple-touch-icon-144x144.png" />
@@ -37,25 +18,3 @@
 <meta name="msapplication-square150x150logo" content="http://metamn.io/assets/images/icons/mstile-150x150.png" />
 <meta name="msapplication-wide310x150logo" content="http://metamn.io/assets/images/icons/mstile-310x150.png" />
 <meta name="msapplication-square310x310logo" content="http://metamn.io/assets/images/icons/mstile-310x310.png" />
-
-  </head>
-
-  <body>
-
-
-
-
-  Home
-
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-<script src="/assets/scripts/jquery.touchSwipe.min.js"></script>
-<script src="/assets/scripts/site.min.js"></script>
-
-<script>
-</script>
-
-</body>
-</html>
-

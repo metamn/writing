@@ -1,0 +1,82 @@
+
+
+// Text style
+//
+// Typographic settings for different text types.
+// Each text type has set a `font`, a `scale`, a `color` and parameters like letter-spacing, max-width or else.
+// Everything text uses this `text-style` mixin. We don't set `color` or `font` directly for a text.
+//
+// Styleguide text-style
+
+// The width of a text block
+
+$text-block-width: 25em; 
+
+
+
+// The text mixin
+@mixin text-style($variant) {
+  
+  // Default
+  // - The basic settings for a text.
+  @if ($variant == 'default') {
+    @include font(nimbus-sans-regular);
+    @include scale(default);
+    @include colors(white-on-blue);
+    
+    letter-spacing: 1.1px;
+    
+    
+  }
+  
+  // Logo
+  // - Settings for the logo.
+  @if ($variant == 'logo') {
+    @include font(silkscreen-regular);
+    @include scale(large-1);
+    
+    
+    
+  }
+  
+  // Body text
+  // - Settings for long text blocks.
+  @if ($variant == 'body-text') {
+    @include p;
+    
+    max-width: 25em;
+    
+    
+  }
+  
+}
+
+
+// Text style classes
+
+.text-style--default {
+  @include font(nimbus-sans-regular);
+  @include scale(default);
+  @include colors(white-on-blue);
+  
+  letter-spacing: 1.1px;
+  
+  
+}
+
+.text-style--logo {
+  @include font(silkscreen-regular);
+  @include scale(large-1);
+  
+  
+  
+}
+
+.text-style--body-text {
+  @include p;
+  
+  max-width: 25em;
+  
+  
+}
+

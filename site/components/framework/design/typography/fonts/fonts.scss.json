@@ -1,0 +1,37 @@
+{
+  "fonts": [
+    {
+      "name": "Nimbus Sans",
+      "description": "The default typeface",
+      "family": "sans-serif",
+      "character_set": "English, with OpenType Features",
+      "served_from": "Typekit",
+      "styles": [
+        {
+          "name": "Regular",
+          "weight": "400",
+          "style": "normal"
+        },
+        {
+          "name": "Bold",
+          "weight": "700",
+          "style": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Silkscreen",
+      "description": "The logo typeface",
+      "family": "sans-serif",
+      "character_set": "English, with OpenType Features",
+      "served_from": "Typekit",
+      "styles": [
+        {
+          "name": "Regular",
+          "weight": "400",
+          "style": "normal"
+        }
+      ]
+    }
+  ]
+}

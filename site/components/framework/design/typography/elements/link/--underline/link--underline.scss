@@ -1,0 +1,10 @@
+@mixin link--underline {
+  border-bottom: 1px solid;
+
+  @include transition(opacity);
+  &:active,
+  &:hover {
+    border-color: transparent;
+    @include link--line-through;
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "text_styles": [
+    {
+      "name": "Default",
+      "description": "The basic settings for a text.",
+      "based_on": "Nimbus Sans",
+      "mixins": [
+        {
+          "name": "font",
+          "value": "nimbus-sans-regular"
+        },
+        {
+          "name": "scale",
+          "value": "default"
+        },
+        {
+          "name": "colors",
+          "value": "white-on-blue"
+        }
+      ],
+      "properties": [
+        {
+          "name": "letter-spacing",
+          "value": "1.1px"
+        }
+      ]
+    },
+    {
+      "name": "Logo",
+      "description": "Settings for the logo.",
+      "based_on": "Silkscreen",
+      "mixins": [
+        {
+          "name": "font",
+          "value": "silkscreen-regular"
+        },
+        {
+          "name": "scale",
+          "value": "large-1"
+        }
+      ]
+    },
+    {
+      "name": "Body text",
+      "description": "Settings for long text blocks.",
+      "based_on": "Nimbus Sans",
+      "properties": [
+        {
+          "name": "max-width",
+          "value": "25em"
+        }
+      ],
+      "mixins": [
+        {
+          "name": "p"
+        }
+      ]
+    }
+  ]
+}
