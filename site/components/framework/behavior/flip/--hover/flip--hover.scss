@@ -1,0 +1,7 @@
+@mixin flip--hover {
+  outline: none;
+
+  span {
+    transform: translateY(-100%);
+  }
+}

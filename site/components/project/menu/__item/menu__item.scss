@@ -1,7 +1,7 @@
 @mixin menu__item($color-scheme) {
   .menu__item {
     a {
-      @include link($color-scheme);
+      @include link($color-scheme, flip);
       @include text-style(menu);
     }
 

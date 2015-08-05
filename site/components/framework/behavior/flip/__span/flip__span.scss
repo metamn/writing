@@ -1,0 +1,15 @@
+@mixin flip__span($decoration) {
+  span {
+    text-decoration: $decoration;
+    position: relative;
+    display: inline-block;
+    transition: transform 0.3s;
+  }
+
+  span::before {
+    position: absolute;
+    top: 100%;
+    content: attr(data-hover);
+    transform: translate3d(0, 0, 0);
+  }
+}

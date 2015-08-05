@@ -1,0 +1,18 @@
+// Flip
+//
+// Flip effect used on links. Based on this [Codrops article](http://tympanus.net/Development/CreativeLinkEffects/).
+//
+// Styleguide flip
+@mixin flip($decoration: none) {
+  position: relative;
+  display: inline-block;
+  outline: none;
+  overflow: hidden;
+
+  @include flip__span($decoration);
+
+  &:hover,
+  &:focus {
+    @include flip--hover;
+  }
+}

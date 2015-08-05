@@ -6,9 +6,13 @@
 // Styleguide link
 @mixin link($color-scheme: none, $type: none) {
   text-decoration: none;
-
+  
   @if ($color-scheme != none) {
     @include colors($color-scheme);
+  }
+
+  @if ($type == flip) {
+    @include link--flip;
   }
 
   @if ($type == line-through) {
