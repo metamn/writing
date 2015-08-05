@@ -2,7 +2,7 @@
   "colors": [
     {
       "name": "white",
-      "value": "fff",
+      "value": "#fff",
       "description": "Main color"
     },
     {

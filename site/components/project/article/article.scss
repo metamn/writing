@@ -1,4 +1,7 @@
 @mixin article {
+  @include text-style(body-text);
+  padding: $lem;
+  
   .article__title {
     @include article__title;
   }

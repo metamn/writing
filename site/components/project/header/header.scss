@@ -4,7 +4,7 @@
 //
 // Styleguide header
 @mixin header($color-scheme: white-on-blue) {
-  padding: $lem $lem 0;
+  padding: 0 0 $lem $lem;
   @include colors($color-scheme);
 
   .header__site-title {
