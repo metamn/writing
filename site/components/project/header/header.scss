@@ -1,0 +1,17 @@
+// Header
+//
+// A simple header containing just the logo.
+//
+// Styleguide header
+@mixin header($color-scheme: white-on-blue) {
+  padding: $lem $lem 0;
+  @include colors($color-scheme);
+
+  .header__site-title {
+    @include text-style(logo);
+  }
+
+  .link {
+    @include link($color-scheme, flip);
+  }
+}

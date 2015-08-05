@@ -1,0 +1,16 @@
+// Menu
+//
+// The main navigation menu. The current menu item is marked with a line-through.
+// On mobile menu items are displayed vertical otherwise horizontal.
+//
+// Styleguide menu
+@mixin menu($color-scheme: white-on-blue) {
+  display: flex;
+  flex-direction: row;
+
+  padding: $lem;
+  @include colors($color-scheme);
+
+  @include menu__item($color-scheme);
+  @include menu--mobile;
+}

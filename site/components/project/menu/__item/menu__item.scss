@@ -1,0 +1,20 @@
+@mixin menu__item($color-scheme) {
+  .menu__item {
+    a {
+      @include link($color-scheme);
+      @include text-style(menu);
+    }
+
+    &.inactive {
+      a {
+        span {
+          @include link($color-scheme, line-through);
+        }
+      }
+    }
+
+    + .menu__item {
+      margin-left: $lem;
+    }
+  }
+}

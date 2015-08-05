@@ -3,5 +3,13 @@ html {
     @include semantic-html5-titles;
     @include reset;
     @include text-style(default);
+
+    .menu {
+      @include menu;
+    }
+
+    .header {
+      @include header;
+    }
   }
 }

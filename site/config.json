@@ -2,5 +2,24 @@
   "url": "/",
   "urly": "http://metamn.io/writing/",
   "title": "Writing",
-  "images": "assets/images/"
+
+  "metamn_url": "http://metamn.io",
+  "metamn_title": "Metamn",
+
+  "images": "assets/images/",
+
+  "menu": {
+    "links": [
+      {
+        "title": "Writing",
+        "url": "/",
+        "type": "external"
+      },
+      {
+        "title": "Archive",
+        "url": "/archive",
+        "type": "external"
+      }
+    ]
+  }
 }
