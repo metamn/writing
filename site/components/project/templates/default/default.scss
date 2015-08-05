@@ -4,6 +4,10 @@ html {
     @include reset;
     @include text-style(default);
 
+    .article {
+      @include article;
+    }
+    
     .menu {
       @include menu;
     }

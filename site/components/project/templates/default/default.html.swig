@@ -1,6 +1,11 @@
 {% include '../head/head.html.swig' %}
 
-{% block content %}{% endblock %}
+<article class="article">
+  <h3 class="article__title">{{ title }}</h3>
+
+  {% block content %}{% endblock %}
+</article>
+
 
 {% include '../../menu/menu.html.swig' %}
 {% include '../../header/header.html.swig' %}

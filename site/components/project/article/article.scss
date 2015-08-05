@@ -1,0 +1,5 @@
+@mixin article {
+  .article__title {
+    @include article__title;
+  }
+}
