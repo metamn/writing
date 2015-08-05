@@ -4,6 +4,10 @@
   <h3 class="article__title">{{ title }}</h3>
 
   {% block content %}{% endblock %}
+
+  {% if categories %}
+    {% include '../../article/__meta/article__meta.html.swig' %}
+  {% endif %}
 </article>
 
 

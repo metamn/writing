@@ -10,7 +10,7 @@
 
 // The width of a text block
 
-$text-block-width: 25em; 
+$text-block-width: 35em; 
 
 
 
@@ -44,7 +44,7 @@ $text-block-width: 25em;
   @if ($variant == 'body-text') {
     @include p;
     
-    max-width: 25em;
+    max-width: 35em;
     
     
   }
@@ -75,7 +75,7 @@ $text-block-width: 25em;
 .text-style--body-text {
   @include p;
   
-  max-width: 25em;
+  max-width: 35em;
   
   
 }

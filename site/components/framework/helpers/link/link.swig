@@ -32,4 +32,4 @@ description: Generate link url and title
   {% endif %}
 
   <a class="link" href="{{ base_url }}{{ url }}" title="{{ title }}">
-{%- endmacro %}
+{%- endmacro -%}

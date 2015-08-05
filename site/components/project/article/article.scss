@@ -9,4 +9,8 @@
   .article__title {
     @include article__title;
   }
+
+  .article__meta {
+    @include article__meta;
+  }
 }
