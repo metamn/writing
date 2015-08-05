@@ -1,7 +1,11 @@
 @mixin article {
   @include text-style(body-text);
   padding: $lem;
-  
+
+  .link {
+    @include link(white-on-blue, underline);
+  }
+
   .article__title {
     @include article__title;
   }
