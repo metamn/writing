@@ -1,0 +1,9 @@
+@mixin grid--mobile {
+  @include mobile {
+    margin-right: 0;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}

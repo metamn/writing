@@ -1,6 +1,6 @@
 @mixin article {
-  @include text-style(body-text);
-  padding: $lem;
+  display: flex;
+  align-items: center;
 
   .link,
   a {
@@ -9,14 +9,16 @@
 
   .article__title {
     @include article__title;
+    order: 2;
   }
 
   .article__body {
     @include article__body;
+    order: 1;
   }
 
   .article__meta {
     @include article__meta;
-    display: none;
+    order: 3;
   }
 }

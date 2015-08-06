@@ -1,1 +1,4 @@
-@mixin article__body {}
+@mixin article__body {
+  @include text-style(body-text);
+  padding: $lem;
+}

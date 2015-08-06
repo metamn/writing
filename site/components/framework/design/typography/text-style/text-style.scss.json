@@ -65,6 +65,12 @@
           "name": "font",
           "value": "nimbus-sans-bold"
         }
+      ],
+      "properties": [
+        {
+          "name": "max-width",
+          "value": "17.5em"
+        }
       ]
     }
   ]

@@ -1,0 +1,14 @@
+// Stretch
+//
+// Stretching columns or rows to fill the entire viewport.
+//
+// Styleguide stretch
+@mixin stretch($direction) {
+  @if ($direction == columns) {
+    @include stretch--columns;
+  }
+
+  @if ($direction == rows) {
+    @include stretch--rows;
+  }
+}

@@ -54,6 +54,7 @@ $text-block-width: 35em;
   @if ($variant == 'article-title') {
     @include font(nimbus-sans-bold);
     
+    max-width: 17.5em;
     
     
   }
@@ -92,6 +93,7 @@ $text-block-width: 35em;
 .text-style--article-title {
   @include font(nimbus-sans-bold);
   
+  max-width: 17.5em;
   
   
 }

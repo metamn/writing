@@ -4,6 +4,12 @@ html {
     @include reset;
     @include text-style(default);
 
+    @include stretch(rows);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
     .article {
       @include article;
     }
