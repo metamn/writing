@@ -22,7 +22,7 @@ $text-block-width: 35em;
   @if ($variant == 'default') {
     @include font(nimbus-sans-regular);
     @include scale(default);
-    @include colors(white-on-blue);
+    @include colors(black-on-white);
     
     letter-spacing: 1.1px;
     
@@ -49,6 +49,15 @@ $text-block-width: 35em;
     
   }
   
+  // Article title
+  // - Article title.
+  @if ($variant == 'article-title') {
+    @include font(nimbus-sans-bold);
+    
+    
+    
+  }
+  
 }
 
 
@@ -57,7 +66,7 @@ $text-block-width: 35em;
 .text-style--default {
   @include font(nimbus-sans-regular);
   @include scale(default);
-  @include colors(white-on-blue);
+  @include colors(black-on-white);
   
   letter-spacing: 1.1px;
   
@@ -76,6 +85,13 @@ $text-block-width: 35em;
   @include p;
   
   max-width: 35em;
+  
+  
+}
+
+.text-style--article-title {
+  @include font(nimbus-sans-bold);
+  
   
   
 }

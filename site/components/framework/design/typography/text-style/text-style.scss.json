@@ -15,7 +15,7 @@
         },
         {
           "name": "colors",
-          "value": "white-on-blue"
+          "value": "black-on-white"
         }
       ],
       "properties": [
@@ -53,6 +53,17 @@
       "mixins": [
         {
           "name": "p"
+        }
+      ]
+    },
+    {
+      "name": "Article title",
+      "description": "Article title.",
+      "based_on": "Nimbus Sans",
+      "mixins": [
+        {
+          "name": "font",
+          "value": "nimbus-sans-bold"
         }
       ]
     }

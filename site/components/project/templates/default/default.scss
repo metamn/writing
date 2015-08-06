@@ -7,13 +7,15 @@ html {
     .article {
       @include article;
     }
-    
+
     .menu {
       @include menu;
+      display: none;
     }
 
     .header {
       @include header;
+      display: none;
     }
   }
 }

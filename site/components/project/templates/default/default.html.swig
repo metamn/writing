@@ -3,7 +3,9 @@
 <article class="article">
   <h3 class="article__title">{{ title }}</h3>
 
-  {% block content %}{% endblock %}
+  <div class="article__body">
+    {% block content %}{% endblock %}
+  </div>
 
   {% if categories %}
     {% include '../../article/__meta/article__meta.html.swig' %}

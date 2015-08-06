@@ -3,7 +3,7 @@
 // A simple header containing just the logo.
 //
 // Styleguide header
-@mixin header($color-scheme: white-on-blue) {
+@mixin header($color-scheme: black-on-white) {
   padding: 0 0 $lem $lem;
   @include colors($color-scheme);
 

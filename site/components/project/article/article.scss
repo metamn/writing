@@ -2,15 +2,21 @@
   @include text-style(body-text);
   padding: $lem;
 
-  .link {
-    @include link(white-on-blue, underline);
+  .link,
+  a {
+    @include link(black-on-white, underline);
   }
 
   .article__title {
     @include article__title;
   }
 
+  .article__body {
+    @include article__body;
+  }
+
   .article__meta {
     @include article__meta;
+    display: none;
   }
 }
