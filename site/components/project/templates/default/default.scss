@@ -7,21 +7,15 @@ html {
     @include stretch(rows);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
 
 
     .article {
       @include article;
     }
 
-    .menu {
-      @include menu;
-      display: none;
-    }
-
     .header {
       @include header;
-      display: none;
     }
   }
 }

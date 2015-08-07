@@ -3,12 +3,17 @@
 // A simple header containing just the logo.
 //
 // Styleguide header
-@mixin header($color-scheme: black-on-white) {
-  padding: 0 0 $lem $lem;
+@mixin header($color-scheme: white-on-black) {
+  padding: $lem * 2;
+  margin: $lem * 4 $lem * 4 0;
   @include colors($color-scheme);
 
-  .header__site-title {
-    @include text-style(logo);
+  .logo {
+    @include logo
+  }
+
+  .menu {
+    @include menu;
   }
 
   .link {

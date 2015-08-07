@@ -4,13 +4,10 @@
 // On mobile menu items are displayed vertical otherwise horizontal.
 //
 // Styleguide menu
-@mixin menu($color-scheme: black-on-white) {
+@mixin menu($color-scheme: white-on-black) {
   display: flex;
-  flex-direction: row;
 
-  padding: $lem;
   @include colors($color-scheme);
-
   @include menu__item($color-scheme);
   @include menu--mobile;
 }

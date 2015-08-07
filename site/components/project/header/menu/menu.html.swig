@@ -4,7 +4,7 @@
   {% for link in site.menu.links %}
     <div class="menu__item">
       {% set link = link %}
-      {% include '../../framework/design/typography/elements/link/link.html.swig' %}
+      {% include '../../../framework/design/typography/elements/link/link.html.swig' %}
     </div>
   {% endfor %}
 </nav>

@@ -11,7 +11,5 @@
   {% include '../../article/__next/article__next.html.swig' %}
 </article>
 
-
-{% include '../../menu/menu.html.swig' %}
 {% include '../../header/header.html.swig' %}
 {% include '../scripts/scripts.html.swig' %}

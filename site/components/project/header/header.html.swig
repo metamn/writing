@@ -1,6 +1,4 @@
 <header class="header">
-  <h3 class="header__site-title">
-    {% set link = { title: site.metamn_title, url: site.metamn_url, type: "external"} %}
-    {% include '../../framework/design/typography/elements/link/link.html.swig' %}
-  </h3>
+  {% include 'logo/logo.html.swig' %}
+  {% include 'menu/menu.html.swig' %}
 </header>
