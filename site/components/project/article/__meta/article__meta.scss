@@ -1,4 +1,9 @@
 @mixin article__meta {
   @include text-style(body-text);
   padding: $lem;
+
+  .link,
+  a {
+    @include link(black-on-white, underline);
+  }
 }

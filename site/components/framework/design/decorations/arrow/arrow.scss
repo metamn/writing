@@ -1,0 +1,18 @@
+// Arrow
+//
+// Left and right arrows used for navigation.
+// They have active and inactive states.
+//
+// Styleguide arrow
+@mixin arrow($color-scheme, $arrow-inactive) {
+  display: inline-flex;
+
+  + .arrow {
+    margin-left: $lem / 2;
+  }
+
+  @include arrow__link($color-scheme);
+  @include arrow__icon;
+  @include arrow__text;
+  @include arrow--inactive($arrow-inactive);
+}

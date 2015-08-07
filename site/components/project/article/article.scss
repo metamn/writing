@@ -1,9 +1,5 @@
 @mixin article {
-  .link,
-  a {
-    @include link(black-on-white, underline);
-  }
-
+  
   blockquote {
     @include blockquote;
   }
@@ -23,5 +19,13 @@
 
   .article__body {
     @include article__body;
+  }
+
+  .article__meta {
+    @include article__meta;
+  }
+
+  .article__next {
+    @include article__next;
   }
 }

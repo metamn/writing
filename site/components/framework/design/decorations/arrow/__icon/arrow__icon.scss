@@ -1,0 +1,10 @@
+@mixin arrow__icon {
+  .arrow__icon {
+    font-size: 200%;
+    line-height: 0;
+
+    &.arrow__icon--left {
+      @include arrow__icon--left;
+    }
+  }
+}

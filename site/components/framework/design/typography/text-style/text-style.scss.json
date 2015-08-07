@@ -77,6 +77,21 @@
           "value": "nimbus-sans-italic"
         }
       ]
+    },
+    {
+      "name": "Menu",
+      "description": "Navigation links",
+      "based_on": "Nimbus Sans",
+      "mixins": [
+        {
+          "name": "uppercase",
+          "value": "1.1px"
+        },
+        {
+          "name": "scale",
+          "value": "small-1"
+        }
+      ]
     }
   ]
 }

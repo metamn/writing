@@ -67,6 +67,16 @@ $text-block-width: 35em;
     
   }
   
+  // Menu
+  // - Navigation links
+  @if ($variant == 'menu') {
+    @include uppercase(1.1px);
+    @include scale(small-1);
+    
+    
+    
+  }
+  
 }
 
 
@@ -107,6 +117,14 @@ $text-block-width: 35em;
 
 .text-style--italic {
   @include font(nimbus-sans-italic);
+  
+  
+  
+}
+
+.text-style--menu {
+  @include uppercase(1.1px);
+  @include scale(small-1);
   
   
   

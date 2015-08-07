@@ -1,0 +1,7 @@
+@mixin arrow__text {
+  .arrow__text {
+    @include text-style(menu);
+    @include text-style(article-title);
+    max-width: 15em;
+  }
+}

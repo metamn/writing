@@ -1,0 +1,10 @@
+@mixin article__next {
+  padding: $lem;
+
+  display: flex;
+  justify-content: space-between;
+
+  .arrow {
+    @include arrow(black-on-white, $black);
+  }
+}

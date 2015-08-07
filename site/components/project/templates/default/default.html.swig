@@ -6,6 +6,9 @@
   <div class="article__body">
     {% block content %}{% endblock %}
   </div>
+
+  {% include '../../article/__meta/article__meta.html.swig' %}
+  {% include '../../article/__next/article__next.html.swig' %}
 </article>
 
 
