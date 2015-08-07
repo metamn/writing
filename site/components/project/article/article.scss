@@ -1,7 +1,4 @@
 @mixin article {
-  display: flex;
-  align-items: center;
-
   .link,
   a {
     @include link(black-on-white, underline);
@@ -9,16 +6,13 @@
 
   .article__title {
     @include article__title;
-    order: 2;
   }
 
   .article__body {
     @include article__body;
-    order: 1;
   }
 
   .article__meta {
     @include article__meta;
-    order: 3;
   }
 }
