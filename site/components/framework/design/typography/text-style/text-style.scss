@@ -54,7 +54,15 @@ $text-block-width: 35em;
   @if ($variant == 'article-title') {
     @include font(nimbus-sans-bold);
     
-    max-width: 17.5em;
+    
+    
+  }
+  
+  // Italic
+  // - Italic for Nimbus Sans
+  @if ($variant == 'italic') {
+    @include font(nimbus-sans-italic);
+    
     
     
   }
@@ -93,7 +101,13 @@ $text-block-width: 35em;
 .text-style--article-title {
   @include font(nimbus-sans-bold);
   
-  max-width: 17.5em;
+  
+  
+}
+
+.text-style--italic {
+  @include font(nimbus-sans-italic);
+  
   
   
 }

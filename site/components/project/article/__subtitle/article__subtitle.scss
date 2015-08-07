@@ -1,0 +1,4 @@
+@mixin article__subtitle {
+  @include text-style(article-title);
+  padding: $lem * 2 0 0;
+}

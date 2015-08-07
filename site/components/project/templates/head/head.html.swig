@@ -12,8 +12,8 @@
 
     <title>{{ page_title | safe }}</title>
 
-    <script src="//use.typekit.net/wrb3hlx.js"></script>
-    <script>try{Typekit.load();}catch(e){}</script>
+    <script src="//use.typekit.net/oks5ysz.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
     <link href="{{ site.url }}assets/styles/site.css" media="screen, projection" rel="stylesheet" type="text/css" />
 

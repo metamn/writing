@@ -6,10 +6,6 @@
   <div class="article__body">
     {% block content %}{% endblock %}
   </div>
-
-  {% if categories %}
-    {% include '../../article/__meta/article__meta.html.swig' %}
-  {% endif %}
 </article>
 
 

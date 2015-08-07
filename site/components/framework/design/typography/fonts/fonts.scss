@@ -12,7 +12,7 @@
 // - The default typeface, sans-serif
 // - character set: English, with OpenType Features
 // - served from Typekit
-// - styles and weights: Regular, Bold, 
+// - styles and weights: Regular, Bold, Italic, 
 
 
 // Silkscreen
@@ -39,6 +39,12 @@
     font-style: normal;
   }
   
+  @if ($variant == 'nimbus-sans-italic') {
+    font-family: 'nimbus-sans', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
   @if ($variant == 'silkscreen-regular') {
     font-family: 'silkscreen', sans-serif;
     font-weight: 400;
@@ -60,6 +66,12 @@
   font-family: 'nimbus-sans', sans-serif;
   font-weight: 700;
   font-style: normal;
+}
+
+.nimbus-sans-italic {
+  font-family: 'nimbus-sans', sans-serif;
+  font-weight: 400;
+  font-style: italic;
 }
 
 .silkscreen-regular {

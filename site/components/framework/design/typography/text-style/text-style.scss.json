@@ -65,11 +65,16 @@
           "name": "font",
           "value": "nimbus-sans-bold"
         }
-      ],
-      "properties": [
+      ]
+    },
+    {
+      "name": "Italic",
+      "description": "Italic for Nimbus Sans",
+      "based_on": "Nimbus Sans",
+      "mixins": [
         {
-          "name": "max-width",
-          "value": "17.5em"
+          "name": "font",
+          "value": "nimbus-sans-italic"
         }
       ]
     }

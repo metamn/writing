@@ -4,15 +4,24 @@
     @include link(black-on-white, underline);
   }
 
+  blockquote {
+    @include blockquote;
+  }
+
+  ul {
+    @include ul;
+  }
+
+  h2,
+  h3 {
+    @include article__subtitle;
+  }
+
   .article__title {
     @include article__title;
   }
 
   .article__body {
     @include article__body;
-  }
-
-  .article__meta {
-    @include article__meta;
   }
 }

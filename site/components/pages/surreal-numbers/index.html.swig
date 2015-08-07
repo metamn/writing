@@ -25,7 +25,7 @@ Surreal numbers are the sweetest story of everything, especially of time.
 </p>
 
 <p>
-Introduced by the father of programming Prof.
+Introduced by the father of programming Prof. {{ people[0].name }}
 
 <blockquote>Surreal Numbers: How Two Ex-Students Turned on to Pure Mathematics and Found Total Happiness (1974)</blockquote>
 and inspired by the game go, this theory explains the birth of the numbers through mechanisms of reproduction and inheritance,

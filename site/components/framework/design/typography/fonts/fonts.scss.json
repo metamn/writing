@@ -16,6 +16,11 @@
           "name": "Bold",
           "weight": "700",
           "style": "normal"
+        },
+        {
+          "name": "Italic",
+          "weight": "400",
+          "style": "italic"
         }
       ]
     },
