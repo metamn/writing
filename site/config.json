@@ -12,7 +12,7 @@
   "menu": {
     "links": [
       {
-        "title": "archives",
+        "title": "archive",
         "url": "/archive",
         "type": "external"
       }
