@@ -1,6 +1,5 @@
 @mixin article__body {
   @include text-style(body-text);
-  text-align: justify;
   padding: $lem;
 
   .link,

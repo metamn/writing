@@ -15,7 +15,9 @@ title: Home
   </p>
 
   <p>
-    A new perception about ourselves built bottom up, by a new generation, on new values.
+    A new perception about ourselves built bottom up, by a new generation, on new
+    {% set link = { url: 'surreal-numbers', title: 'values', separator: '.' } %}
+    {% include '../../framework/design/typography/elements/link/link.html.swig' %}
   </p>
 
 {% endblock %}

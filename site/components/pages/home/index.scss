@@ -1,11 +1,7 @@
 html {
   &.home {
-    .article {
-      .article__title {
-        display: none;
-      }
-    }
-
+    .article .article__title,
+    .article .article__next,
     .header {
       display: none;
     }

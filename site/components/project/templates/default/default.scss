@@ -7,8 +7,7 @@ html {
     @include stretch(rows);
     display: flex;
     justify-content: center;
-    align-items: flex-end;
-
+    align-items: center;
 
     .article {
       @include article;
