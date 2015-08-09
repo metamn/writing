@@ -1,6 +1,7 @@
 @mixin article__title {
   display: flex;
-  
+
   @include text-style(article-title);
   padding: $lem;
+  padding-top: $lem * 2;
 }

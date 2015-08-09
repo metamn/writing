@@ -12,6 +12,9 @@ $white: #fff;
 // Main color
 $black: #2f2f2f;
 
+// Secondary color
+$lightgray: #f1f1f1;
+
 
 // Color combinations. Colors are not used standalone but in pairs
 @mixin colors($name) {
@@ -28,6 +31,12 @@ $black: #2f2f2f;
     
   }
 
+  @if ($name == 'black-on-lightgray') {
+    color: $black;
+    background-color: $lightgray;
+    
+  }
+
 }
 
 // Color classes
@@ -38,6 +47,10 @@ $black: #2f2f2f;
 
 .black {
   background: #2f2f2f;
+};
+
+.lightgray {
+  background: #f1f1f1;
 };
 
 
@@ -52,6 +65,12 @@ $black: #2f2f2f;
 .black-on-white {
   color: $black;
   background-color: $white;
+  
+}
+
+.black-on-lightgray {
+  color: $black;
+  background-color: $lightgray;
   
 }
 

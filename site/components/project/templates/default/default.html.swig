@@ -7,6 +7,7 @@
     {% block content %}{% endblock %}
   </div>
 
+  {% include '../../article/__date/article__date.html.swig' %}
   {% include '../../article/__meta/article__meta.html.swig' %}
   {% include '../../article/__next/article__next.html.swig' %}
 </article>

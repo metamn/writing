@@ -1,0 +1,7 @@
+@mixin article__next--mobile {
+  @include mobile {
+    .arrow__icon {
+      display: none;
+    }
+  }
+}

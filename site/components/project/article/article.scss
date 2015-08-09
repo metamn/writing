@@ -1,5 +1,5 @@
 @mixin article {
-  
+
   blockquote {
     @include blockquote;
   }
@@ -15,6 +15,10 @@
 
   .article__title {
     @include article__title;
+  }
+
+  .article__date {
+    @include article__date;
   }
 
   .article__body {

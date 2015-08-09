@@ -9,6 +9,11 @@
       "name": "black",
       "value": "#2f2f2f",
       "description": "Main color"
+    },
+    {
+      "name": "lightgray",
+      "value": "#f1f1f1",
+      "description": "Secondary color"
     }
   ],
   "color_pairs": [
@@ -35,6 +40,19 @@
         {
           "name": "background-color",
           "value": "$white"
+        }
+      ]
+    },
+    {
+      "name": "black-on-lightgray",
+      "properties": [
+        {
+          "name": "color",
+          "value": "$black"
+        },
+        {
+          "name": "background-color",
+          "value": "$lightgray"
         }
       ]
     }

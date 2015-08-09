@@ -1,3 +1,7 @@
-@mixin logo {
+@mixin logo($color-scheme) {
   @include text-style(logo);
+
+  .link {
+    @include link($color-scheme, flip);
+  }
 }

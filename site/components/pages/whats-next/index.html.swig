@@ -1,6 +1,6 @@
 ---
-layout: post
 title: What's Next? A Tribute To Stanislaw Lem
+date: October 2006
 categories:
   - asymmetry
   - postmodernism

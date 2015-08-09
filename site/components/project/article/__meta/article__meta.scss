@@ -1,6 +1,7 @@
 @mixin article__meta {
   @include text-style(body-text);
   padding: $lem;
+  border: 2px dashed $lightgray;
 
   .link,
   a {
