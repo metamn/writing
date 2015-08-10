@@ -13,6 +13,13 @@ module.exports = {
   dest: 'dist',
 
 
+  // Articles
+  articles_src: 'site/components/pages/**/*.swig',
+
+  // Article metadata collected into a josn file
+  articles_json: 'site/articles.json',
+
+
 
   // where to resize images
   image_resize_dest: 'site/assets/images/resized',
