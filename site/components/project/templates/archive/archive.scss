@@ -1,7 +1,12 @@
 html {
-  body {
-    &.archive {
+  &.archive {
+    body {
+      justify-content: flex-start;
+      align-items: flex-start;
 
+      .archive {
+        @include archive;
+      }
     }
   }
 }
