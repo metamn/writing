@@ -60,8 +60,8 @@ var _swig = function(source, dest, config, grabJSON) {
         locals: {
           // Load site-wide JSON settings
           site: require(config),
-          // Load site-wide KSS file
-          kss: require(paths.kss_src)
+          // Load articles.json
+          metadata: require('../../' + paths.articles_json)
         }
       }
     }))

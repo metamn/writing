@@ -1,6 +1,6 @@
 // Archive
 //
-// Generate archives from posts.
+// Generate a file with JSON metadata from posts.
 
 
 // Plugins
@@ -10,18 +10,19 @@ var gulp = require('gulp'),
     data = require('gulp-data'),
     fm = require('front-matter'),
     fs = require('fs'),
-    onError = require('../utils/onError');;
+    runSequence = require('run-sequence'),
+    onError = require('../utils/onError');
 
 
 // Configuration
 var paths = require('./../config');
 
 
-// Task for creating archive pages
-gulp.task('archive', function() {
+// Generate the JSON archive file
+gulp.task('archiveCreateFile', function() {
   // Reset the articles.json file
   fs.openSync(paths.articles_json, 'w');
-  fs.appendFile(paths.articles_json, '[', function (err) {});
+  fs.appendFileSync(paths.articles_json, '{"articles":[');
 
   return gulp.src(paths.articles_src)
     .pipe(plumber({errorHandler: onError}))
@@ -30,9 +31,22 @@ gulp.task('archive', function() {
     .pipe(data(function(file) {
       var content = fm(String(file.contents));
       file.contents = new Buffer(content.body);
-      fs.appendFile(paths.articles_json, JSON.stringify(content.attributes) + ',', function (err) {});
+      fs.appendFileSync(paths.articles_json, JSON.stringify(content.attributes) + ',');
       return content.attributes;
     }))
+});
 
-  fs.appendFile(paths.articles_json, ']', function (err) {});
+
+// Close the JSON archive file
+gulp.task('archiveCloseFile', function() {
+  fs.appendFileSync(paths.articles_json, '{}]}');
+});
+
+
+gulp.task('archive', function(cb) {
+  runSequence(
+    'archiveCreateFile',
+    'archiveCloseFile',
+    cb
+  );
 });
