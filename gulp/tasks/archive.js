@@ -43,10 +43,26 @@ gulp.task('archiveCloseFile', function() {
 });
 
 
+// Order the JSON archive file by date
+gulp.task('archiveOrderArticles', function() {
+  var json = JSON.parse(fs.readFileSync(paths.articles_json, 'utf8'));
+
+  json.articles.sort(function(a, b) {
+    return new Date(a.date) - new Date(b.date);
+  });
+
+  fs.openSync(paths.articles_json, 'w');
+  fs.appendFileSync(paths.articles_json, JSON.stringify(json));
+
+  //console.log(json.articles);
+});
+
+
 gulp.task('archive', function(cb) {
   runSequence(
     'archiveCreateFile',
     'archiveCloseFile',
+    'archiveOrderArticles',
     cb
   );
 });

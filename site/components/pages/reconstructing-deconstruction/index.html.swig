@@ -1,6 +1,7 @@
 ---
 title: Reconstructing The Deconstruction
-date: October 2006
+url: reconstructing-deconstruction
+date: 2006-10-03
 categories:
   - reconstruction
   - digital natives

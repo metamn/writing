@@ -17,24 +17,5 @@
         "type": "external"
       }
     ]
-  },
-
-  "articles": [
-    {
-      "title": "Home",
-      "url": ""
-    },
-    {
-      "title": "The Story Of Time And Surreal Numbers",
-      "url": "surreal-numbers"
-    },
-    {
-      "title": "What's Next? A Tribute To Stanislaw Lem",
-      "url": "whats-next"
-    },
-    {
-      "title": "Reconstructing The Deconstruction",
-      "url": "reconstructing-deconstruction"
-    }
-  ]
+  }
 }

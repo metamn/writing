@@ -3,7 +3,7 @@
 
   {% if date %}
     <p class="date">
-      {{ date }}
+      {{ date | date('F Y')}}
     </p>
   {% endif %}
 </aside>

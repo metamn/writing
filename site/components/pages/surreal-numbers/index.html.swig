@@ -1,6 +1,7 @@
 ---
 title: The Story Of Time And Surreal Numbers
-date: October 2006
+url: surreal-numbers
+date: 2006-10-01
 categories:
   - time
   - game theory
