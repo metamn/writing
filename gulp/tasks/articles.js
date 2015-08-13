@@ -1,6 +1,6 @@
-// Archive
+// Articles
 //
-// Generate a file with JSON metadata from posts.
+// Generate a file with JSON metadata from all posts.
 
 
 // Plugins
@@ -17,8 +17,8 @@ var gulp = require('gulp'),
 var paths = require('./../config');
 
 
-// Generate the JSON archive file
-gulp.task('archiveCreateFile', function() {
+// Generate the JSON article file
+gulp.task('articleCreateFile', function() {
   // Reset the articles.json file
   fs.openSync(paths.articles_json, 'w');
   fs.appendFileSync(paths.articles_json, '[');
@@ -32,12 +32,13 @@ gulp.task('archiveCreateFile', function() {
 });
 
 
-// Close the JSON archive file
-gulp.task('archiveCloseFile', function() {
+// Close the JSON article file
+gulp.task('articleCloseFile', function() {
   fs.appendFileSync(paths.articles_json, '{}]');
 });
 
 
+// Sort articles by date
 function sortByDate(data) {
   var sorted = [];
 
@@ -51,8 +52,8 @@ function sortByDate(data) {
 }
 
 
-// Order the JSON archive file by date
-gulp.task('archiveOrderArticles', function() {
+// Order the JSON article file by date
+gulp.task('articleOrderArticles', function() {
   var articles = JSON.parse(fs.readFileSync(paths.articles_json, 'utf8'));
 
   articles = sortByDate(articles);
@@ -62,11 +63,11 @@ gulp.task('archiveOrderArticles', function() {
 });
 
 
-gulp.task('archive', function(cb) {
+gulp.task('articles', function(cb) {
   runSequence(
-    'archiveCreateFile',
-    'archiveCloseFile',
-    'archiveOrderArticles',
+    'articleCreateFile',
+    'articleCloseFile',
+    'articleOrderArticles',
     cb
   );
 });
