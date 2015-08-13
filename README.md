@@ -13,4 +13,4 @@ Short essays since 2006.
 * this information is made available compile time via the `articles` array
 
 #### License
-(c) 2006-2015 Bartus Csongor. Licensed under [GPL v2.0](http://choosealicense.com/licenses/gpl-2.0/).
+(c) Copyright Bartus Csongor. All rights reserved.
