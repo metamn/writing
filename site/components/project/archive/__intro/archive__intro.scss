@@ -1,1 +1,3 @@
-@mixin archive__intro {}
+@mixin archive__intro {
+  @include text-style(body-text);
+}

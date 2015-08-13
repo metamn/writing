@@ -61,7 +61,7 @@ var _swig = function(source, dest, config, grabJSON) {
           // Load site-wide JSON settings
           site: require(config),
           // Load articles.json
-          metadata: require('../../' + paths.articles_json)
+          articles: require('../../' + paths.articles_json)
         }
       }
     }))

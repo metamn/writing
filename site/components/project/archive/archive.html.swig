@@ -3,6 +3,6 @@
 
   {% include '__intro/archive__intro.html.swig' %}
 
-  {% set m = metadata.articles | first %}
+  {% set m = articles | first %}
   {{ m.title }}
 </section>

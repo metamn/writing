@@ -22,7 +22,7 @@ var paths = require('./../config');
 gulp.task('archiveCreateFile', function() {
   // Reset the articles.json file
   fs.openSync(paths.articles_json, 'w');
-  fs.appendFileSync(paths.articles_json, '{"articles":[');
+  fs.appendFileSync(paths.articles_json, '[');
 
   return gulp.src(paths.articles_src)
     .pipe(plumber({errorHandler: onError}))
@@ -30,31 +30,27 @@ gulp.task('archiveCreateFile', function() {
     // use YAML Front Matter
     .pipe(data(function(file) {
       var content = fm(String(file.contents));
-      file.contents = new Buffer(content.body);
       fs.appendFileSync(paths.articles_json, JSON.stringify(content.attributes) + ',');
-      return content.attributes;
     }))
 });
 
 
 // Close the JSON archive file
 gulp.task('archiveCloseFile', function() {
-  fs.appendFileSync(paths.articles_json, '{}]}');
+  fs.appendFileSync(paths.articles_json, '{}]');
 });
 
 
 // Order the JSON archive file by date
 gulp.task('archiveOrderArticles', function() {
-  var json = JSON.parse(fs.readFileSync(paths.articles_json, 'utf8'));
+  var articles = JSON.parse(fs.readFileSync(paths.articles_json, 'utf8'));
 
-  json.articles.sort(function(a, b) {
+  articles.sort(function(a, b) {
     return new Date(a.date) - new Date(b.date);
   });
 
   fs.openSync(paths.articles_json, 'w');
-  fs.appendFileSync(paths.articles_json, JSON.stringify(json));
-
-  //console.log(json.articles);
+  fs.appendFileSync(paths.articles_json, JSON.stringify(articles));
 });
 
 
