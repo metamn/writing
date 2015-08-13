@@ -16,8 +16,12 @@ module.exports = {
   // Articles
   articles_src: 'site/components/pages/**/*.swig',
 
-  // Article metadata collected into a josn file
+  // Article metadata collected into a JSON file
   articles_json: 'site/articles.json',
+
+
+  // Import path for Jekyll posts
+  import_src: '../../Downloads/writing/Jekyll/_posts/*.html',
 
 
 
