@@ -1,9 +1,3 @@
----
-title: Home
-url:
-date: 2006-09-01
----
-
 {% extends '../../project/templates/default/default.html.swig' %}
 {% block content %}
 

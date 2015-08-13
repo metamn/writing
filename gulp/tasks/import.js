@@ -1,6 +1,9 @@
 // Import
 //
 // Import Jekyll posts into Gulp
+// The Jekyll YAML and Liquid code will be converted to JSON and SWIG
+// There will be two separated files, one with metadata (.json) and the other with the content (.swig)
+
 
 
 // Plugins
@@ -8,11 +11,10 @@ var gulp = require('gulp'),
     plumber = require('gulp-plumber'),
 
     data = require('gulp-data'),
-    fm = require('front-matter'),
     fs = require('fs'),
+    fm = require('front-matter'),
     path = require('path'),
     mkdirp = require('mkdirp'),
-    YAML = require('json2yaml'),
     onError = require('../utils/onError');
 
 
@@ -31,7 +33,7 @@ var convertImageUrl = function(url) {
 }
 
 
-// Convert jekyll Person to gulp figure
+// Convert Jekyll Person to Gulp figure
 var convertPerson = function(yaml) {
   if (yaml.people) {
     for (var i = 0; i < yaml.people.length; i++ ) {
@@ -48,7 +50,8 @@ var convertPerson = function(yaml) {
   }
 }
 
-// Convert filename to YAML url
+// Convert filename to url
+// - 2011-01-01-whats-next -> whats-next
 var createURL = function(file) {
   splits = file.split('.');
   filename = splits[0];
@@ -58,7 +61,8 @@ var createURL = function(file) {
 }
 
 
-// Convert filename to YAML date
+// Convert filename to date
+// - 2011-01-01-whats-next -> 2011-01-01
 var createDate = function(file) {
   splits = file.split('.');
   filename = splits[0];
@@ -68,7 +72,8 @@ var createDate = function(file) {
 }
 
 
-// Create title if missing
+// Create title if missing, from url
+// 'whats-next' -> What's Next
 var createTitle = function(yaml) {
   if (!yaml.title) {
     var words = yaml.url.split('-');
@@ -92,7 +97,7 @@ var convertYAML = function(yaml, file) {
   yaml.url = createURL(file);
   yaml.date = createDate(file);
 
-  // Create title if missing;
+  // Create title if missing
   createTitle(yaml);
 
   // People -> Figure
@@ -130,6 +135,8 @@ var convertContent = function(content, file) {
 
 
 // Create a Gulp article
+// .swig will contain the content
+// .json will hold the metadata
 var createArticle = function(content, file) {
   // names
   folderName = createURL(file);

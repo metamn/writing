@@ -8,7 +8,6 @@ var gulp = require('gulp'),
     plumber = require('gulp-plumber'),
 
     data = require('gulp-data'),
-    fm = require('front-matter'),
     fs = require('fs'),
     runSequence = require('run-sequence'),
     onError = require('../utils/onError');
@@ -27,12 +26,6 @@ gulp.task('archiveCreateFile', function() {
   return gulp.src(paths.articles_src)
     .pipe(plumber({errorHandler: onError}))
 
-    // use YAML Front Matter
-    //.pipe(data(function(file) {
-    //  var content = fm(String(file.contents));
-    //  fs.appendFileSync(paths.articles_json, JSON.stringify(content.attributes) + ',');
-    //}))
-
     .pipe(data(function(file) {
       fs.appendFileSync(paths.articles_json, file.contents + ',');
     }))
@@ -45,13 +38,24 @@ gulp.task('archiveCloseFile', function() {
 });
 
 
+function sortByDate(data) {
+  var sorted = [];
+
+  Object.keys(data).sort(function(a, b) {
+    return data[a].date < data[b].date ? -1 : 1
+  }).forEach(function(key) {
+    sorted.push(data[key]);
+  });
+
+  return sorted;
+}
+
+
 // Order the JSON archive file by date
 gulp.task('archiveOrderArticles', function() {
   var articles = JSON.parse(fs.readFileSync(paths.articles_json, 'utf8'));
 
-  articles.sort(function(a, b) {
-    return new Date(a.date) - new Date(b.date);
-  });
+  articles = sortByDate(articles);
 
   fs.openSync(paths.articles_json, 'w');
   fs.appendFileSync(paths.articles_json, JSON.stringify(articles));
