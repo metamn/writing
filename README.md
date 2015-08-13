@@ -1,8 +1,10 @@
 #### Writings
 
+Short essays since 2006.
+
 ##### Conventions
 * Each article is a new page in `site/components/pages`
-* Article metadata goes into a separate .json file
+* Article metadata goes into a separate `.json` file
 * Mandatory fields are `title`, `url` and `date`
 * Each time metadata changes the `articles` object must be recreated with the `gulp archive` task
 
