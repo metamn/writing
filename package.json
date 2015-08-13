@@ -46,6 +46,7 @@
     "gulp-uglify": "^1.2.0",
     "imagemin-pngquant": "^4.1.0",
     "inflection": "^1.7.1",
+    "json2yaml": "^1.0.3",
     "kss": "^2.1.0",
     "mkdirp": "^0.5.1",
     "run-sequence": "^1.1.0",

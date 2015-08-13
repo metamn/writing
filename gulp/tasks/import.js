@@ -11,6 +11,8 @@ var gulp = require('gulp'),
     fm = require('front-matter'),
     fs = require('fs'),
     path = require('path'),
+    mkdirp = require('mkdirp'),
+    YAML = require('json2yaml'),
     onError = require('../utils/onError');
 
 
@@ -29,13 +31,8 @@ var convertImageUrl = function(url) {
 }
 
 
-
-// Convert Jekyll YAML data to Gulp format
-var convertYAML = function(yaml, file) {
-  // Remove layout
-  delete yaml.layout;
-
-  // People -> Figure
+// Convert jekyll Person to gulp figure
+var convertPerson = function(yaml) {
   if (yaml.people) {
     for (var i = 0; i < yaml.people.length; i++ ) {
       person = yaml.people[i];
@@ -49,17 +46,109 @@ var convertYAML = function(yaml, file) {
       delete person.bio;
     }
   }
+}
 
-  // Create url & date
+// Convert filename to YAML url
+var createURL = function(file) {
   splits = file.split('.');
   filename = splits[0];
   date = filename.match(/\d{4}\-\d{2}\-\d{2}\-/);
 
-  yaml.url = filename.replace(date[0], '');
-  yaml.date = date[0].slice(0, -1);
+  return filename.replace(date[0], '');
+}
+
+
+// Convert filename to YAML date
+var createDate = function(file) {
+  splits = file.split('.');
+  filename = splits[0];
+  date = filename.match(/\d{4}\-\d{2}\-\d{2}\-/);
+
+  return date[0].slice(0, -1);
+}
+
+
+// Create title if missing
+var createTitle = function(yaml) {
+  if (!yaml.title) {
+    var words = yaml.url.split('-');
+    var array = [];
+    for (var i = 0; i < words.length; ++i) {
+      array.push(words[i].charAt(0).toUpperCase() + words[i].toLowerCase().slice(1));
+    }
+
+    yaml.title = array.join(' ');
+  }
+}
+
+
+
+// Convert Jekyll YAML data to Gulp format
+var convertYAML = function(yaml, file) {
+  // Remove layout
+  delete yaml.layout;
+
+  // Create url & date
+  yaml.url = createURL(file);
+  yaml.date = createDate(file);
+
+  // Create title if missing;
+  createTitle(yaml);
+
+  // People -> Figure
+  convertPerson(yaml);
 
   return yaml;
 }
+
+
+// Convert Liquid tags to Swig
+var convertLiquid = function(body) {
+  body = body.replace("{% assign", "{% set");
+  body = body.replace("people.html", "'../../framework/structure/figure/figure.html.swig'");
+  body = body.replace("{% assign status = 'opened' %}", '');
+
+  return body;
+}
+
+
+
+// Convert Jekyll content to Gulp
+var convertContent = function(content, file) {
+  // Convert Jekyll YAML data to Gulp format
+  content.attributes = convertYAML(content.attributes, file);
+
+  // Convert Liquid tags to Swig tags
+  content.body = convertLiquid(content.body);
+
+  // Append article body with a swig template;
+  content.body = "{% extends '../../project/templates/default/default.html.swig' %}{% block content %}" + content.body;
+  content.body += "{% endblock %}";
+
+  //console.log(content);
+}
+
+
+// Create a Gulp article
+var createArticle = function(content, file) {
+  // names
+  folderName = createURL(file);
+  folder = 'site/components/pages/' + folderName;
+  fileName = folderName + '/' + folderName + '.html.swig';
+
+  // content
+  yaml = YAML.stringify(content.attributes);
+  fullContent = yaml + '---\n\r' + content.body;
+
+  console.log(fullContent);
+
+  // create folder
+  mkdirp(folder);
+
+  // create file
+  fs.WriteFile(fileName, fullContent);
+}
+
 
 
 // The import task
@@ -75,9 +164,14 @@ gulp.task('import', function() {
       var status = content.attributes.published;
       if (status != false) {
 
-        // Convert Jekyll YAML data to Gulp format
-        yaml = convertYAML(content.attributes, path.basename(file.path));
-        console.log(yaml);
+        // Get filename
+        fileName = path.basename(file.path);
+
+        // Convert content
+        convertContent(content, fileName);
+
+        // Create Gulp article
+        createArticle(content, fileName);
       }
     }))
 });
