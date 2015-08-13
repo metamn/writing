@@ -16,9 +16,11 @@ categories:
 senses:
   - asymmetry
 people:
-  - name: Stanislaw Lem
-    bio: The prophet of our times masked as a sci-fi legend.
-    img: /assets/stanislaw-lem.jpg
+  - title: Stanislaw Lem
+    figcaption: The prophet of our times masked as a sci-fi legend.
+    name: stanislaw-lem
+    extension: .jpg
+    class: person
 ---
 
 {% extends '../../project/templates/default/default.html.swig' %}
@@ -26,7 +28,7 @@ people:
 
 <p>
 It’s not easy to describe
-
+{% set image = people[0] %}{% include '../../framework/structure/figure/figure.html.swig' %}
 &mdash; to summarise his heritage to the world. But one thing is sure: he was a visionary strategist and a
 scholar spanning over multiple fields of science.
 </p>

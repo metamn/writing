@@ -51,6 +51,61 @@
 
 <p>
 It’s not easy to describe
+<figure  class="person" >
+  
+
+  <!-- The default extension is .png but other formats are handled too -->
+  
+  
+    
+  
+
+  <!-- Naming convention for responsive images -->
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  <!-- Showing different images for different devices -->
+  
+
+
+  <!-- Figcaption is image title unless is not set explicitely -->
+  
+  
+
+  
+    
+    
+  
+
+
+  <!-- Images are served from /site also for /styleguide -->
+  
+  
+
+
+  <picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+    <source media="(min-width: 1600px)" srcset="/assets/images/stanislaw-lem_desktop.jpg, /assets/images/stanislaw-lem_desktop2x.jpg 2x">
+    <source media="(min-width: 1199px)" srcset="/assets/images/stanislaw-lem_laptop.jpg, /assets/images/stanislaw-lem_laptop2x.jpg 2x">
+    <source media="(min-width: 600px)" srcset="/assets/images/stanislaw-lem_tablet.jpg, /assets/images/stanislaw-lem_tablet2x.jpg 2x">
+    <source srcset="/assets/images/stanislaw-lem_mobile.jpg, /assets/images/stanislaw-lem_mobile2x.jpg 2x">
+    <!--[if IE 9]></video><![endif]-->
+    <img srcset="/assets/images/stanislaw-lem_desktop.jpg" alt="Stanislaw Lem">
+  </picture>
+
+  <figcaption class="figcaption figcaption">
+    The prophet of our times masked as a sci-fi legend.
+  </figcaption>
+
+  
+</figure>
 
 &mdash; to summarise his heritage to the world. But one thing is sure: he was a visionary strategist and a
 scholar spanning over multiple fields of science.
