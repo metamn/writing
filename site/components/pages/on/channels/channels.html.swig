@@ -1,0 +1,1 @@
+{% extends '../../../project/templates/tag/tag.html.swig' %}{% block content %}<section class='tag'><h3 class='tag__title'>channels</h3><article><h3 class='article__title'>Communication</h3><a class='link' href='{{ site.url }}communication' title='Communication'>Communication</a><date class='article__date'>2009-12-15</date></article></section>{% endblock %}

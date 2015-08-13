@@ -19,6 +19,9 @@ module.exports = {
   // Article metadata collected into a JSON file
   articles_json: 'site/articles.json',
 
+  // Archives metadata collected into a JSON file
+  archives_json: 'site/archives.json',
+
 
   // Import path for Jekyll posts
   import_src: '../../Downloads/writing/Jekyll/_posts/*.html',
