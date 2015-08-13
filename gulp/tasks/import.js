@@ -104,9 +104,9 @@ var convertYAML = function(yaml, file) {
 
 // Convert Liquid tags to Swig
 var convertLiquid = function(body) {
-  body = body.replace("{% assign", "{% set");
-  body = body.replace("people.html", "'../../framework/structure/figure/figure.html.swig'");
-  body = body.replace("{% assign status = 'opened' %}", '');
+  body = body.replace(/{% assign/g, "{% set");
+  body = body.replace(/people.html/g, "'../../framework/structure/figure/figure.html.swig'");
+  body = body.replace(/{% assign status = 'opened' %}/g, '');
 
   return body;
 }
@@ -134,19 +134,19 @@ var createArticle = function(content, file) {
   // names
   folderName = createURL(file);
   folder = 'site/components/pages/' + folderName;
-  fileName = folderName + '/' + folderName + '.html.swig';
+  fileName = folder + '/' + folderName + '.html';
 
-  // content
-  yaml = YAML.stringify(content.attributes);
-  fullContent = yaml + '---\n\r' + content.body;
-
-  console.log(fullContent);
+  //console.log(fullContent);
 
   // create folder
-  mkdirp(folder);
+  mkdirp(folder, function (err) {
+    if (err) throw err;
+    console.log(folder + ' created.');
+  });
 
   // create file
-  fs.WriteFile(fileName, fullContent);
+  fs.writeFile(fileName + '.swig', content.body);
+  fs.writeFile(fileName + '.json', JSON.stringify(content.attributes, null, 2));
 }
 
 

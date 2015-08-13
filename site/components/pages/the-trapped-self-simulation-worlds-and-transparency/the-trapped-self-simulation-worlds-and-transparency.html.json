@@ -1,0 +1,40 @@
+{
+  "title": "The Trapped Self, Simulation Worlds and Transparency",
+  "categories": [
+    "simulacra",
+    "involution",
+    "self",
+    "transparency",
+    "rebirth",
+    "control",
+    "dream",
+    "Bela Hamvas",
+    "Steve Yegge",
+    "Arthur Rimbaud"
+  ],
+  "senses": [
+    "simulacra"
+  ],
+  "people": [
+    {
+      "name": "hamvas-bela",
+      "title": "Bela Hamvas",
+      "figcaption": "The librarian of all ancient knowledge.",
+      "class": "person"
+    },
+    {
+      "name": "steve-yegge",
+      "title": "Steve Yegge",
+      "figcaption": "The new breed. One who knows what Control really is.",
+      "class": "person"
+    },
+    {
+      "name": "arthur-rimbaud",
+      "title": "Arthur Rimbaud",
+      "figcaption": "The invincible genius. He was deliberately looking for death.",
+      "class": "person"
+    }
+  ],
+  "url": "the-trapped-self-simulation-worlds-and-transparency",
+  "date": "2009-10-14"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Force come with me",
+  "categories": [
+    "death",
+    "rebirth",
+    "Bertrand Russell",
+    "John C Lilly"
+  ],
+  "people": [
+    {
+      "name": "bertrand-russell",
+      "title": "Bertrand Russell",
+      "figcaption": "The one who broke all rules and changed the XX. century",
+      "class": "person"
+    },
+    {
+      "name": "john-lilly",
+      "title": "John C Lilly",
+      "figcaption": "He was programming dolphins and humans. Like we do computers.",
+      "class": "person"
+    }
+  ],
+  "senses": [
+    "death"
+  ],
+  "url": "force-come-with-me",
+  "date": "2009-01-12"
+}

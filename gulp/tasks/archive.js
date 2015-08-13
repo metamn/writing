@@ -28,9 +28,13 @@ gulp.task('archiveCreateFile', function() {
     .pipe(plumber({errorHandler: onError}))
 
     // use YAML Front Matter
+    //.pipe(data(function(file) {
+    //  var content = fm(String(file.contents));
+    //  fs.appendFileSync(paths.articles_json, JSON.stringify(content.attributes) + ',');
+    //}))
+
     .pipe(data(function(file) {
-      var content = fm(String(file.contents));
-      fs.appendFileSync(paths.articles_json, JSON.stringify(content.attributes) + ',');
+      fs.appendFileSync(paths.articles_json, file.contents + ',');
     }))
 });
 

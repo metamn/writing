@@ -14,7 +14,7 @@ module.exports = {
 
 
   // Articles
-  articles_src: 'site/components/pages/**/*.swig',
+  articles_src: 'site/components/pages/**/*.json',
 
   // Article metadata collected into a JSON file
   articles_json: 'site/articles.json',

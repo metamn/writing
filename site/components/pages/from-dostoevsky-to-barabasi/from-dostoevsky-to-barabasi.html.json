@@ -1,0 +1,28 @@
+{
+  "title": "From Dostoevsky To Barabasi",
+  "categories": [
+    "simulacra",
+    "self",
+    "dream",
+    "science",
+    "quantification",
+    "Dostoevsky",
+    "Albert Laszlo Barabasi"
+  ],
+  "people": [
+    {
+      "name": "dostoevsky",
+      "title": "Dostoevsky",
+      "figcaption": "Genial insights into human mind, heart and spirit",
+      "class": "person"
+    },
+    {
+      "name": "barabasi",
+      "title": "Albert Laszlo Barabasi",
+      "figcaption": "Like Betrand Russell for the XXth, perhaps he knows the essence of this century.",
+      "class": "person"
+    }
+  ],
+  "url": "from-dostoevsky-to-barabasi",
+  "date": "2010-09-11"
+}

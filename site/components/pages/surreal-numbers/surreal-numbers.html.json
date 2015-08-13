@@ -1,0 +1,29 @@
+{
+  "title": "The Story Of Time And Surreal Numbers",
+  "categories": [
+    "time",
+    "game theory",
+    "surreal numbers",
+    "Donald Knuth",
+    "John Horton Conway"
+  ],
+  "senses": [
+    "time"
+  ],
+  "people": [
+    {
+      "name": "donald-knuth",
+      "title": "Donald Knuth",
+      "figcaption": "The Yoda of computer programming.",
+      "class": "person"
+    },
+    {
+      "name": "john-horton-conway",
+      "title": "John Horton Conway",
+      "figcaption": "From pure thinking he found the answer for \"What Life Is\".",
+      "class": "person"
+    }
+  ],
+  "url": "surreal-numbers",
+  "date": "2006-11-09"
+}

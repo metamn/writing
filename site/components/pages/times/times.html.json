@@ -1,0 +1,18 @@
+{
+  "categories": [
+    "time",
+    "simulacra",
+    "Stephen Hawking"
+  ],
+  "people": [
+    {
+      "name": "stephen-hawking",
+      "title": "Stephen Hawking",
+      "figcaption": "A scientist adding an imaginary dimension to reality and saving the world, and us.",
+      "class": "person"
+    }
+  ],
+  "url": "times",
+  "date": "2010-12-27",
+  "title": "Times"
+}

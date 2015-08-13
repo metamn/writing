@@ -1,0 +1,31 @@
+{
+  "title": "From Real To Digital?",
+  "categories": [
+    "napstering",
+    "transparency",
+    "control",
+    "metasystem transition",
+    "synthetic life",
+    "Paul Virilio",
+    "Craig J Venter"
+  ],
+  "senses": [
+    "napstering"
+  ],
+  "people": [
+    {
+      "name": "paul-virilio.jpeg",
+      "title": "Paul Virilio",
+      "figcaption": "The one who lived and understood technology is more important than humans.",
+      "class": "person"
+    },
+    {
+      "name": "craig-venter",
+      "title": "Craig J Venter",
+      "figcaption": "A biologist acting God and creating synthetic life.",
+      "class": "person"
+    }
+  ],
+  "url": "from-real-to-digital",
+  "date": "2009-09-07"
+}

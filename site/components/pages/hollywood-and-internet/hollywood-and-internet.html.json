@@ -1,0 +1,20 @@
+{
+  "title": "Hollywood And Internet",
+  "categories": [
+    "USA",
+    "pragmatism",
+    "fear",
+    "control",
+    "John Dos Passos"
+  ],
+  "people": [
+    {
+      "name": "john-dos-passos",
+      "title": "John Dos Passos",
+      "figcaption": "A sharp eyewitness of the birth of capitalism.",
+      "class": "person"
+    }
+  ],
+  "url": "hollywood-and-internet",
+  "date": "2010-03-11"
+}

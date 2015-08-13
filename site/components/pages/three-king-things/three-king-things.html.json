@@ -1,0 +1,20 @@
+{
+  "categories": [
+    "art",
+    "science",
+    "sport",
+    "values",
+    "Aleksandr Kuprin"
+  ],
+  "people": [
+    {
+      "name": "aleksandr-kuprin",
+      "title": "Aleksandr Kuprin",
+      "figcaption": "Who knew more about humans than Dostoevskiy.",
+      "class": "person"
+    }
+  ],
+  "url": "three-king-things",
+  "date": "2012-06-03",
+  "title": "Three King Things"
+}
