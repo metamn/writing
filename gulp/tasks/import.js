@@ -10,7 +10,7 @@ var gulp = require('gulp'),
     data = require('gulp-data'),
     fm = require('front-matter'),
     fs = require('fs'),
-    runSequence = require('run-sequence'),
+    path = require('path'),
     onError = require('../utils/onError');
 
 
@@ -31,7 +31,7 @@ var convertImageUrl = function(url) {
 
 
 // Convert Jekyll YAML data to Gulp format
-var convertYAML = function(yaml) {
+var convertYAML = function(yaml, file) {
   // Remove layout
   delete yaml.layout;
 
@@ -50,11 +50,19 @@ var convertYAML = function(yaml) {
     }
   }
 
+  // Create url & date
+  splits = file.split('.');
+  filename = splits[0];
+  date = filename.match(/\d{4}\-\d{2}\-\d{2}\-/);
+
+  yaml.url = filename.replace(date[0], '');
+  yaml.date = date[0].slice(0, -1);
+
   return yaml;
 }
 
 
-// The import tasks
+// The import task
 gulp.task('import', function() {
   return gulp.src(paths.import_src)
     .pipe(plumber({errorHandler: onError}))
@@ -68,7 +76,7 @@ gulp.task('import', function() {
       if (status != false) {
 
         // Convert Jekyll YAML data to Gulp format
-        yaml = convertYAML(content.attributes);
+        yaml = convertYAML(content.attributes, path.basename(file.path));
         console.log(yaml);
       }
     }))
