@@ -1,0 +1,9 @@
+@mixin archive__title {
+  display: flex;
+  flex-basis: 100%;
+  flex-grow: 1;
+
+  padding: $lem 0;
+
+  @include text-style(article-title);
+}

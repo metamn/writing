@@ -3,6 +3,6 @@
 
   {% include '__intro/archive__intro.html.swig' %}
 
-  {% set m = articles | first %}
-  {{ m.title }}
+  {% set list = { title: "Senses", type: "tags", collection: "senses" } %}
+  {% include '../list/list.html.swig' %}
 </section>

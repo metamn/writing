@@ -1,5 +1,14 @@
 @mixin archive {
+  padding: $lem;
+
+  display: flex;
+  flex-wrap: wrap;
+
   .archive__intro {
     @include archive__intro;
+  }
+
+  .archive__title {
+    @include archive__title;
   }
 }
