@@ -33,17 +33,6 @@ var _swig = function(source, dest, config, grabJSON) {
   return gulp.src(source)
     .pipe(plumber({errorHandler: onError}))
 
-    // use JSON definitions from /site in /styleguide
-    .pipe(data(function(file) {
-      if (grabJSON) {
-        components = file.path.replace('styleguide/components/pages', 'site/components');
-        json = components.split('.')[0] + '.scss.json';
-        if (fs.existsSync(json)) {
-          return require(json);
-        }
-      }
-    }))
-
     // use YAML Front Matter
     .pipe(data(function(file) {
       var content = fm(String(file.contents));
@@ -61,7 +50,9 @@ var _swig = function(source, dest, config, grabJSON) {
           // Load site-wide JSON settings
           site: require(config),
           // Load articles.json
-          articles: require('../../' + paths.articles_json)
+          articles: require('../../' + paths.articles_json),
+          // Load archives.json
+          archives: require('../../' + paths.archives_json)
         }
       }
     }))
