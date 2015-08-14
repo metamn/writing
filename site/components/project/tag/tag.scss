@@ -1,0 +1,16 @@
+@mixin tag {
+  padding: $lem;
+
+  .tag__title {
+    display: flex;
+    @include text-style(article-title);
+  }
+
+  .article {
+    padding-bottom: $lem;
+
+    &__date {
+      padding-left: $lem;
+    }
+  }
+}

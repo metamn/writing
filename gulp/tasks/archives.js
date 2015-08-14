@@ -75,6 +75,7 @@ var collectArchives = function(categories, articles) {
 var generateFile = function(archive) {
   var content = '';
 
+  content += "{% set title='" + archive.category + "' %}"
   content += "{% extends '../../../project/templates/tag/tag.html.swig' %}{% block content %}";
   content += "<section class='tag'>";
   content += "<h3 class='tag__title'>" + archive.category + "</h3>";
@@ -83,7 +84,7 @@ var generateFile = function(archive) {
     content += "<article>";
     content += "<h3 class='article__title'>" + archive.articles[i].title + "</h3>";
     content += "<a class='link' href='{{ site.url }}" + archive.articles[i].url + "' title='" + archive.articles[i].title + "'>" + archive.articles[i].title + "</a>";
-    content += "<date class='article__date'>" + archive.articles[i].date + "</date>";
+    content += "<date class='article__date'>{{ " + archive.articles[i].date + " | date('F Y') }}</date>";
     content += "</article>";
   }
 

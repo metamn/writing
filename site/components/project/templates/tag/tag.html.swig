@@ -1,3 +1,4 @@
+{% set klass = 'tag' %}
 {% include '../head/head.html.swig' %}
 
 {% block content %}{% endblock %}
