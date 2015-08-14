@@ -1,4 +1,7 @@
 // Generate archives
+//
+// Generate an archives.json file and archive pages for all categories
+
 
 
 // Plugins
@@ -19,6 +22,7 @@ var paths = require('./../config');
 
 
 // Collect all categories in an array
+// - this is needed to have a flattened list of all categories
 var collectCategories = function(articles) {
   var categories = [];
 
@@ -35,6 +39,7 @@ var collectCategories = function(articles) {
 
 
 // Create a JSON file with all categories and associated articles
+// - from this the archive files will be generated
 var collectArchives = function(categories, articles) {
   var archives = '[';
 
@@ -66,6 +71,7 @@ var collectArchives = function(categories, articles) {
 
 
 // Generate an archive file
+// - the contents of a single archive file
 var generateFile = function(archive) {
   var content = '';
 
@@ -89,6 +95,7 @@ var generateFile = function(archive) {
 
 
 // Generate an archive folder
+// - all archive folders
 var generateFolder = function(archive) {
   var categoryName = archive.category.toLowerCase().replace(/\s/g, '-');
   var folder = 'site/components/pages/on/' + categoryName;
@@ -100,13 +107,13 @@ var generateFolder = function(archive) {
   });
 
   var content = generateFile(archive);
-  //console.log(content);
   fs.writeFile(fileName, content);
 }
 
 
 
 // Generate archives JSON file
+// - the archives.json file
 gulp.task('generateArchiveJSON', function() {
   var articles = JSON.parse(fs.readFileSync(paths.articles_json, 'utf8'));
   var categories = collectCategories(articles);
