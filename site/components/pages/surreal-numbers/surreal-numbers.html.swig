@@ -4,28 +4,28 @@ Surreal numbers are the sweetest story of everything, especially of time.
 </p>
 
 <p>
-Introduced by the father of programming Prof. 
-{% set person = page.people[0] %} {% include '../../framework/structure/figure/figure.html.swig' %} 
+Introduced by the father of programming Prof.
+{% set image = people[0] %} {{ image.title }} {% include '../../framework/structure/figure/figure.html.swig' %}
 <blockquote>Surreal Numbers: How Two Ex-Students Turned on to Pure Mathematics and Found Total Happiness (1974)</blockquote>
-and inspired by the game go, this theory explains the birth of the numbers through mechanisms of reproduction and inheritance, 
+and inspired by the game go, this theory explains the birth of the numbers through mechanisms of reproduction and inheritance,
 like evolution.
 </p>
 
 <p>
-The theory says numbers have ancestors, and every number can have descendants. 
-With reproduction we can construct more numbers than infinite and make operations with them. 
+The theory says numbers have ancestors, and every number can have descendants.
+With reproduction we can construct more numbers than infinite and make operations with them.
 This theory needs no axioms at all, as pure as nature stands without dogmas, conventions and prerequisites.
 </p>
 
 <p>
 Surreal numbers were introduced in Game Theory by
-{% set person = page.people[1] %} {% include '../../framework/structure/figure/figure.html.swig' %} 
-Using together with pseudo numbers (a similar theory to surreal numbers) Conway started to analyse those situations in a game 
+{% set image = people[1] %} {{ image.title }}. {% include '../../framework/structure/figure/figure.html.swig' %}
+Using together with pseudo numbers (a similar theory to surreal numbers) Conway started to analyse those situations in a game
 when it can be easily predicted when a player will win, or especially lose, in maximum two steps.
 </p>
 
 <p>
-He demonstrated the situation when any of the players who will move will lose, and, 
+He demonstrated the situation when any of the players who will move will lose, and,
 the situation when the first player who moves will lose are identical, equivalent.
 </p>
 
