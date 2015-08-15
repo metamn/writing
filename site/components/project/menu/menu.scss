@@ -2,11 +2,16 @@
   @include text-style(body-text);
   padding: $lem * 3 0;
 
-  &__navigation-and-header {
-    @include menu__navigation-and-header;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  
+  .next {
+    @include next;
   }
 
-  .meta {
-    @include meta;
+  .header {
+    @include header;
   }
 }

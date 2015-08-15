@@ -13,5 +13,9 @@ html {
     .menu {
       @include menu;
     }
+
+    .meta {
+      @include meta;
+    }
   }
 }

@@ -1,12 +1,8 @@
 @mixin meta {
+  @include text-style(body-text);
+  padding: 0 0 $lem * 2;
 
-  &__trigger {
-    @include meta__trigger;
+  .link {
+    @include link(black-on-white, underline);
   }
-
-  &__body {
-    @include meta__body;
-  }
-
-  @include meta--active;
 }

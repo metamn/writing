@@ -11,4 +11,5 @@
 </article>
 
 {% include '../../menu/menu.html.swig' %}
+{% include '../../meta/meta.html.swig' %}
 {% include '../scripts/scripts.html.swig' %}
