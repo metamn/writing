@@ -1,5 +1,21 @@
 @mixin card {
-  &__figure {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-around;
+
+  padding: $lem $lem / 2;
+  margin: $lem 0;
+  background: $lightgray;
+
+  &__title {
+    @include card__title;
+  }
+
+  figure {
     @include card__figure;
   }
+
+  @include card--active;
+  @include card--mobile;
 }

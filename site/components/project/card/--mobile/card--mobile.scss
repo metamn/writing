@@ -1,0 +1,20 @@
+@mixin card--mobile {
+  @include mobile {
+    flex-wrap: wrap;
+
+    &__title {
+      flex-grow: 1;
+      justify-content: center;
+      padding-top: $lem;
+    }
+
+    figure {
+      flex-wrap: wrap;
+      justify-content: center;
+
+      .figcaption {
+        text-align: center;
+      }
+    }
+  }
+}

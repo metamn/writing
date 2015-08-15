@@ -2,29 +2,7 @@
   display: flex;
   align-items: center;
 
-  padding: $lem $lem/2;
-  margin: $lem 0;
-  background: $lightgray;
-
-  .title {
-    display: flex;
-    order: 2;
-    padding-top: 0;
-  }
-
-  .person {
-    display: flex;
-    align-items: center;
-
-    .figcaption {
-      padding: 0 $lem;
-    }
-  }
-
-  @include transition(opacity);
-  opacity: 1;
-
-  &--inactive {
-    @include card__figure--inactive;
+  .figcaption {
+    padding: 0 $lem;
   }
 }

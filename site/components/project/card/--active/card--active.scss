@@ -1,0 +1,10 @@
+@mixin card--active {
+  display: none;
+  opacity: 0;
+  @include transition(opacity);
+
+  &.active {
+    display: flex;
+    opacity: 1;
+  }
+}

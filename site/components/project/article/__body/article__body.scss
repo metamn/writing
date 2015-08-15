@@ -8,6 +8,10 @@
   }
 
   .card {
-    @include card--inline;
+    @include card;
+  }
+
+  .card__trigger {
+    @include card__trigger;
   }
 }

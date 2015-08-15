@@ -2,7 +2,7 @@ var showCard = function(toggler) {
   var triggers = document.querySelectorAll(toggler);
 
   function onViewChange(event) {
-    this.parentNode.parentNode.nextSibling.classList.toggle('card__figure--inactive');
+    this.parentNode.nextSibling.classList.toggle('active');
     event.stopPropagation();
   }
 
@@ -11,4 +11,4 @@ var showCard = function(toggler) {
   }
 }
 
-showCard('.card__title');
+showCard('.card__trigger');

@@ -1,9 +1,0 @@
-@mixin card--inline {
-  display: inline-flex;
-
-  @include card;
-
-  &__title {
-    @include card__title;
-  }
-}

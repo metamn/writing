@@ -2,7 +2,7 @@
   "image_sizes": [
     {
       "name": "mobile",
-      "height": "100"
+      "height": "250"
     },
     {
       "name": "tablet",
