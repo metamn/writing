@@ -4,7 +4,7 @@
 // They have active and inactive states.
 //
 // Styleguide arrow
-@mixin arrow($color-scheme, $arrow-inactive) {
+@mixin arrow($color-scheme, $arrow-inactive, $display-text: true, $display-icon: true) {
   display: inline-flex;
 
   + .arrow {
@@ -12,7 +12,7 @@
   }
 
   @include arrow__link($color-scheme);
-  @include arrow__icon;
-  @include arrow__text;
+  @include arrow__icon($display-icon);
+  @include arrow__text($display-text);
   @include arrow--inactive($arrow-inactive);
 }

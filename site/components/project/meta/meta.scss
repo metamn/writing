@@ -1,0 +1,12 @@
+@mixin meta {
+
+  &__trigger {
+    @include meta__trigger;
+  }
+
+  &__body {
+    @include meta__body;
+  }
+
+  @include meta--active;
+}

@@ -1,0 +1,15 @@
+@mixin menu__navigation-and-header {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  
+  .next {
+    @include next;
+  }
+
+  .header {
+    @include header;
+  }
+}

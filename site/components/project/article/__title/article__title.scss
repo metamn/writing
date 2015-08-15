@@ -2,6 +2,5 @@
   display: flex;
 
   @include text-style(article-title);
-  padding: $lem;
-  padding-top: $lem * 2;
+  padding: $lem 0 $lem * 2;
 }

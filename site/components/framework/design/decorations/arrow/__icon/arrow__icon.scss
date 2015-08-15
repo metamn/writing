@@ -1,10 +1,13 @@
-@mixin arrow__icon {
+@mixin arrow__icon($display: true) {
   .arrow__icon {
-    font-size: 200%;
+    font-size: 400%;
     line-height: 0;
 
-    &.arrow__icon--left {
-      @include arrow__icon--left;
+    position: relative;
+    top: -.12em;
+
+    @if ($display != true) {
+      display: none;
     }
   }
 }

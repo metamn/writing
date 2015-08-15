@@ -1,18 +1,6 @@
 @mixin article {
-
-  blockquote {
-    @include blockquote;
-  }
-
-  ul {
-    @include ul;
-  }
-
-  h2,
-  h3 {
-    @include article__subtitle;
-  }
-
+  @include text-style(body-text);
+  
   .article__title {
     @include article__title;
   }
@@ -23,13 +11,5 @@
 
   .article__body {
     @include article__body;
-  }
-
-  .article__meta {
-    @include article__meta;
-  }
-
-  .article__next {
-    @include article__next;
   }
 }

@@ -1,10 +1,20 @@
 @mixin article__body {
-  @include text-style(body-text);
-  padding: $lem;
-
   .link,
   a {
     @include link(black-on-white, underline);
+  }
+
+  blockquote {
+    @include blockquote;
+  }
+
+  ul {
+    @include ul;
+  }
+
+  h2,
+  h3 {
+    @include article__subtitle;
   }
 
   .card {

@@ -1,7 +1,11 @@
-@mixin arrow__text {
+@mixin arrow__text($display: true) {
   .arrow__text {
     @include text-style(menu);
     @include text-style(article-title);
     max-width: 15em;
+
+    @if ($display != true) {
+      display: none;
+    }
   }
 }

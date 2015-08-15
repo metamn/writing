@@ -4,11 +4,7 @@
 //
 // Styleguide header
 @mixin header($color-scheme: black-on-white) {
-  padding: $lem;
   @include colors($color-scheme);
-
-  flex-grow: 1;
-  @include header--mobile-and-up;
 
   .logo {
     @include logo($color-scheme);

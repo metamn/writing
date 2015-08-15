@@ -1,0 +1,7 @@
+@mixin next {
+  display: flex;
+
+  .arrow {
+    @include arrow(black-on-white, $black, $display-text: false);
+  }
+}
