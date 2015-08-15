@@ -1,0 +1,5 @@
+@mixin card {
+  &__figure {
+    @include card__figure;
+  }
+}

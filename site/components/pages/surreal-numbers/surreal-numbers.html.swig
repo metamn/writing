@@ -5,7 +5,7 @@ Surreal numbers are the sweetest story of everything, especially of time.
 
 <p>
 Introduced by the father of programming Prof.
-{% set image = people[0] %} {{ image.title }} {% include '../../framework/structure/figure/figure.html.swig' %}
+{% set image = people[0] %} {% include '../../project/card/--inline/card--inline.html.swig' %}
 <blockquote>Surreal Numbers: How Two Ex-Students Turned on to Pure Mathematics and Found Total Happiness (1974)</blockquote>
 and inspired by the game go, this theory explains the birth of the numbers through mechanisms of reproduction and inheritance,
 like evolution.
@@ -19,7 +19,7 @@ This theory needs no axioms at all, as pure as nature stands without dogmas, con
 
 <p>
 Surreal numbers were introduced in Game Theory by
-{% set image = people[1] %} {{ image.title }}. {% include '../../framework/structure/figure/figure.html.swig' %}
+{% set image = people[1] %} {% include '../../project/card/--inline/card--inline.html.swig' %}
 Using together with pseudo numbers (a similar theory to surreal numbers) Conway started to analyse those situations in a game
 when it can be easily predicted when a player will win, or especially lose, in maximum two steps.
 </p>

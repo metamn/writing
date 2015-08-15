@@ -6,4 +6,8 @@
   a {
     @include link(black-on-white, underline);
   }
+
+  .card {
+    @include card--inline;
+  }
 }
