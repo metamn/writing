@@ -5,4 +5,8 @@
   .link {
     @include link(black-on-white, underline);
   }
+
+  .categories {
+    @include categories;
+  }
 }
