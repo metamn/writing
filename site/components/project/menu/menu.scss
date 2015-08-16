@@ -1,12 +1,13 @@
 @mixin menu {
   @include text-style(body-text);
+  @include background(dotted);
   padding: $lem * 3 0;
 
   display: flex;
   justify-content: space-between;
   align-items: center;
 
-  
+
   .next {
     @include next;
   }

@@ -1,6 +1,6 @@
 @mixin meta {
   @include text-style(body-text);
-  padding: 0 0 $lem * 2;
+  padding: $lem 0;
 
   .link {
     @include link(black-on-white, underline);

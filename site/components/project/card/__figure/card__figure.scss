@@ -5,6 +5,6 @@
   @include figure(figcaption);
 
   .figcaption {
-    padding: 0 $lem;
+    @include text-style(on-background);
   }
 }

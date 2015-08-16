@@ -1,10 +1,8 @@
 html {
   &.home {
     .article .article__title,
-    .article .article__next,
-    .article .article__meta,
     .article .article__date,
-    .header {
+    .menu {
       display: none;
     }
   }

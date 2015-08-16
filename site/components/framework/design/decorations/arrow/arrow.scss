@@ -7,9 +7,7 @@
 @mixin arrow($color-scheme, $arrow-inactive, $display-text: true, $display-icon: true) {
   display: inline-flex;
 
-  + .arrow {
-    margin-left: $lem / 2;
-  }
+  padding: 0 $lem / 2;
 
   @include arrow__link($color-scheme);
   @include arrow__icon($display-icon);

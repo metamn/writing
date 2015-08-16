@@ -6,6 +6,9 @@
 @mixin header($color-scheme: black-on-white) {
   @include colors($color-scheme);
 
+  background: transparent;
+  padding: 0 $lem /2 ;
+  
   .logo {
     @include logo($color-scheme);
   }

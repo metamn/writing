@@ -4,9 +4,8 @@
   align-items: center;
   justify-content: space-around;
 
-  padding: $lem $lem / 2;
+  @include background(dashed);
   margin: $lem 0;
-  background: $lightgray;
 
   &__title {
     @include card__title;

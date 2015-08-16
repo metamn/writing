@@ -2,5 +2,5 @@
   display: flex;
   order: 2;
 
-  padding: 0;
+  @include text-style(on-background);
 }

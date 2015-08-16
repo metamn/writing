@@ -1,0 +1,11 @@
+// - http://www.patternify.com/
+
+@mixin background($style) {
+  @if ($style == dashed) {
+    @include background--dashed;
+  }
+
+  @if ($style == dotted) {
+    @include background--dotted;
+  }
+}

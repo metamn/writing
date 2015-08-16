@@ -77,6 +77,17 @@ $text-block-width: 35em;
     
   }
   
+  // On background
+  // - Text on dashed and dotted background
+  @if ($variant == 'on-background') {
+    @include colors(black-on-white);
+    
+    padding: 0 $lem / 2;
+    margin: 0 $lem / 2;
+    
+    
+  }
+  
 }
 
 
@@ -126,6 +137,15 @@ $text-block-width: 35em;
   @include uppercase(1.1px);
   @include scale(small-1);
   
+  
+  
+}
+
+.text-style--on-background {
+  @include colors(black-on-white);
+  
+  padding: 0 $lem / 2;
+  margin: 0 $lem / 2;
   
   
 }
