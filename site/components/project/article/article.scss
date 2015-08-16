@@ -1,6 +1,6 @@
 @mixin article {
   @include text-style(body-text);
-  
+
   .article__title {
     @include article__title;
   }
@@ -12,4 +12,6 @@
   .article__body {
     @include article__body;
   }
+
+  @include article--layout;
 }

@@ -1,0 +1,10 @@
+@mixin article--layout {
+  .article__title,
+  .article__date,
+  .article__body p,
+  .article__body h2,
+  .article__body h3 {
+    padding-left: $lem;
+    padding-right: $lem;
+  }
+}

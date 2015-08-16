@@ -6,4 +6,7 @@
 @mixin ul {
   list-style-type: square;
   padding: $lem;
+
+  margin-left: $lem;
+  margin-right: $lem;
 }

@@ -1,6 +1,7 @@
 @mixin blockquote {
   padding: $lem / 2 $lem;
-  margin: $lem / 2 0;
+  margin: $lem / 2 $lem;
+  
   border-left: 1px solid;
   @include text-style(italic);
 }
