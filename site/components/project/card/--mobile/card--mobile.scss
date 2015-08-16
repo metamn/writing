@@ -1,11 +1,12 @@
 @mixin card--mobile {
   @include mobile {
     flex-wrap: wrap;
+    padding: $lem / 2;
 
     &__title {
       flex-grow: 1;
       justify-content: center;
-      padding-top: $lem;
+      margin-top: $lem / 2;
     }
 
     figure {

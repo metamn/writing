@@ -6,6 +6,7 @@
 
   @include background(dashed);
   margin: $lem 0;
+  padding: $lem / 2 0;
 
   &__title {
     @include card__title;
