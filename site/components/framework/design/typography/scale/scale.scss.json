@@ -12,6 +12,21 @@
           "name": "line-height",
           "value": "1.48"
         }
+      ],
+      "responsive": [
+        {
+          "breakpoint": "desktop",
+          "properties": [
+            {
+              "name": "font-size",
+              "value": "130%"
+            },
+            {
+              "name": "line-height",
+              "value": "1.924"
+            }
+          ]
+        }
       ]
     },
     {

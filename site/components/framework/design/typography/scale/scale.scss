@@ -11,6 +11,10 @@
 
 $lem: 1.48em;
 
+@include desktop { 
+  $lem: 1.924em;
+}
+
 
 
 
@@ -22,6 +26,12 @@ $lem: 1.48em;
     font-size: 100%;
     line-height: 1.48;
     
+    
+    @include desktop {
+      font-size: 130%;
+      line-height: 1.924;
+      
+    }
     
   }
 
@@ -48,6 +58,12 @@ $lem: 1.48em;
   font-size: 100%;
   line-height: 1.48;
   
+  
+  @include desktop {
+    font-size: 130%;
+    line-height: 1.924;
+    
+  }
   
 }
 

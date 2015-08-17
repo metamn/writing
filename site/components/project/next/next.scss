@@ -3,5 +3,9 @@
 
   .arrow {
     @include arrow(black-on-white, $black, $display-text: false);
+
+    &:first-of-type {
+      padding-left: $lem;
+    }
   }
 }
